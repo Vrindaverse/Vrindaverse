@@ -513,13 +513,13 @@ Because apparently normal hobbies weren't enough.
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=6B4F3A&icon_color=A66A3F&text_color=5F554D&include_all_commits=true&count_private=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=Vrindaverse&show_icons=true&hide_border=true&bg_color=00000000&title_color=6B4F3A&icon_color=A66A3F&text_color=5F554D&include_all_commits=true&count_private=true" width="48%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=00000000&ring=6B4F3A&fire=A66A3F&currStreakLabel=6B4F3A&sideLabels=5F554D" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vrindaverse&hide_border=true&background=00000000&ring=6B4F3A&fire=A66A3F&currStreakLabel=6B4F3A&sideLabels=5F554D" width="48%">
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=5F554D&line=6B4F3A&point=A66A3F&area=true&hide_border=true" width="96%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vrindaverse&bg_color=00000000&color=5F554D&line=6B4F3A&point=A66A3F&area=true&hide_border=true" width="96%">
 
 </div>
 
