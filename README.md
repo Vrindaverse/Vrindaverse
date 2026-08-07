@@ -1,317 +1,418 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F0E4DC&height=180&section=header&text=侍%20NIKHIL%20MAHALIK&fontSize=40&fontColor=4A4A4A&fontAlignY=45&desc=流浪者%20•%20WANDERER%20•%20BUILD%20•%20THINK%20•%20PLAY%20•%20REPEAT&descAlignY=68&descSize=14&descColor=8a8a8a" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=20&duration=3200&pause=900&color=E8899A&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=一期一会+—+this+moment+will+never+come+again;不撓不屈+—+never+bending%2C+never+yielding;forging+understanding%2C+one+broken+build+at+a+time" />
-
-<sub>ichi-go ichi-e · fu-tō fu-kutsu · the more I learn, the more I know I don't know</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=210&section=header&text=侍%20NIKHIL%20MAHALIK&fontSize=46&fontColor=F2E9E4&fontAlignY=43&desc=流浪者%20•%20RONIN%20•%20ENGINEER%20•%20THINKER%20•%20CHAOS%20ENGINE&descAlignY=67&descSize=14&descColor=B8B0AA" width="100%"/>
 
 <br>
 
-[![Gmail](https://img.shields.io/badge/nikhilmahalik%40gmail.com-F0E4DC?style=for-the-badge&logo=gmail&logoColor=4A4A4A&labelColor=E8899A)](mailto:nikhilmahalik@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/why--nikhil-F0E4DC?style=for-the-badge&logo=linkedin&logoColor=4A4A4A&labelColor=A8C3A0)](https://www.linkedin.com/in/why-nikhil)
-[![GitHub](https://img.shields.io/badge/Vrindaverse-F0E4DC?style=for-the-badge&logo=github&logoColor=4A4A4A&labelColor=E8C874)](https://github.com/Vrindaverse)
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=19&duration=3200&pause=900&color=D98B8B&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=一期一会+—+this+moment+will+never+come+again;不撓不屈+—+never+bending%2C+never+yielding;build+something+interesting%2C+break+it%2C+understand+why;checkmate+was+probably+my+fault" />
 
 <br>
 
-<img src="https://img.shields.io/badge/status-questing-E8899A?style=flat-square&labelColor=F0E4DC" />
-<img src="https://img.shields.io/badge/build-passing%20(mostly)-A8C3A0?style=flat-square&labelColor=F0E4DC" />
-<img src="https://img.shields.io/badge/coffee-required-E8C874?style=flat-square&labelColor=F0E4DC" />
-<img src="https://img.shields.io/badge/sleep-optional-C9B8D8?style=flat-square&labelColor=F0E4DC" />
-<img src="https://img.shields.io/badge/curiosity-unlimited-E8899A?style=flat-square&labelColor=F0E4DC" />
+<sub>
+<strong>ichi-go ichi-e</strong> · <strong>fu-tō fu-kutsu</strong> ·
+the more I learn, the more suspicious I become of my own knowledge
+</sub>
+
+<br><br>
+
+[![Gmail](https://img.shields.io/badge/Email-nikhilmahalik%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=F2E9E4&labelColor=8B5E5E)](mailto:nikhilmahalik@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-why--nikhil-111111?style=for-the-badge&logo=linkedin&logoColor=F2E9E4&labelColor=5F7563)](https://www.linkedin.com/in/why-nikhil)
+[![GitHub](https://img.shields.io/badge/GitHub-Vrindaverse-111111?style=for-the-badge&logo=github&logoColor=F2E9E4&labelColor=8A7350)](https://github.com/Vrindaverse)
+
+<br><br>
+
+<img src="https://img.shields.io/badge/status-questing-D98B8B?style=flat-square&labelColor=111111" />
+<img src="https://img.shields.io/badge/build-passing%20(mostly)-7F9B83?style=flat-square&labelColor=111111" />
+<img src="https://img.shields.io/badge/bugs-self%20generated-8A7350?style=flat-square&labelColor=111111" />
+<img src="https://img.shields.io/badge/chess-rating-under%20investigation-9B8A9B?style=flat-square&labelColor=111111" />
+<img src="https://img.shields.io/badge/sleep-deprecated-7A6A61?style=flat-square&labelColor=111111" />
 
 </div>
 
+<br>
+
 <div align="center">
+
 <pre>
-　　　　  ⚔️  ─────────────  刀  ─────────────  ⚔️
+                    ⚔️  ─────────────  刀  ─────────────  ⚔️
 </pre>
+
+**A wandering engineer trying to understand things before they become obsolete.**
+
 </div>
+
+---
 
 <div align="center">
 
-**𝕹𝖆𝖛𝖎𝖌𝖆𝖙𝖎𝖔𝖓** &nbsp; → &nbsp;
-[whoami](#-nikhilgithub-whoami) •
-[philosophy](#-nikhilgithub-cat-philosophytxt) •
-[stats card](#-status-window) •
-[arsenal](#-nikhilgithub-arsenal) •
-[projects](#-nikhilgithub-projects) •
-[achievements](#-nikhilgithub-achievements) •
-[live stats](#-nikhilgithub-stats)
+**Navigation**
+
+`whoami` • `philosophy` • `arsenal` • `projects` • `chess` • `lore` • `stats`
 
 </div>
 
-<br>
+---
 
-## 士 `nikhil@github:~$ whoami`
+## ⚔️ `nikhil@github:~$ whoami`
 
 ```yaml
-name:        NIKHIL MAHALIK
-role:        Engineer by profession
-nature:      Explorer by nature
-occupation:  Professional overthinker (by accident)
+name:        Nikhil Mahalik
+
+class:       Engineer
+subclass:    Professional Overthinker
+
+alignment:   Curious Chaotic
+weapon:      Keyboard
+secondary:   Chessboard
+armor:       Questionable confidence
+
+current_quest:
+  - build useful things
+  - understand how things work
+  - break things occasionally
+  - learn from the wreckage
+  - repeat
+
+passive_skill:
+  - falling into extremely specific rabbit holes
+
+known_bug:
+  - "I'll sleep after this one last thing"
+
+rare_drop:
+  - actually finishing the thing
 ```
 
-I like building software, breaking software, understanding systems, playing games, reading, thinking about philosophy, playing chess, and generally falling down whatever rabbit hole looks interesting. I don't particularly enjoy staying inside one box — there are simply too many interesting boxes.
+I build software because **making things is more interesting than merely using them**.
+
+I like understanding systems from the inside — how software works, how people think, why ideas survive, why systems fail, and why one missing semicolon can turn a peaceful evening into a character-development arc.
+
+Outside code, you'll usually find me somewhere between:
+
+**♟️ chess · 📚 literature · 🧠 philosophy · 🎮 games · ⚔️ history · ☕ questionable decisions**
+
+I don't particularly enjoy staying inside one box.
+
+There are too many rabbit holes.
+
+---
+
+## 🧠 `nikhil@github:~$ cat philosophy.txt`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=16&duration=2600&pause=700&color=A8C3A0&center=true&vCenter=true&repeat=true&width=700&height=40&lines=grep+-r+%22meaning%22+~%2Flife+--color%3Dalways;still+searching...;compiling+curiosity+into+code" />
+```text
+A blade left unsharpened is decoration.
+A mind left unquestioned is noise.
+
+Frameworks change.
+Languages change.
+Tools become obsolete.
+
+Understanding remains.
+
+I am interested in the things behind the things:
+
+why systems work,
+why people think,
+why ideas survive,
+why civilizations rise and fall,
+why a 10-line bug takes 4 hours to find,
+and why the best ideas arrive at 2:17 AM
+when absolutely nobody asked for them.
+
+The goal isn't to know everything.
+
+The goal is to remain curious enough
+to realize how much I don't know.
+```
 
 </div>
 
 <br>
 
-## 心 `nikhil@github:~$ cat philosophy.txt`
+> **「七転八起」 — nana korobi ya oki**  
+> Fall seven times, stand up eight.
 
-<div align="center">
+---
 
-> *A blade left unsharpened is just decoration.*
-> *A mind left unquestioned is just noise.*
->
-> Frameworks change. Languages change. Tools become obsolete.
-> **Understanding is the only edge that doesn't dull.**
->
-> I'm interested in the things behind the things —
-> why systems work, why people think the way they do,
-> why some ideas survive a thousand years and others don't survive a sprint,
-> why one tiny bug can humble an entire evening,
-> and why the best ideas always arrive at 2 AM, uninvited.
+## 🗡️ `nikhil@github:~$ ./status`
 
-</div>
-
-```
-┌──────────────────────────────────────────────────────┐
-│                                                        │
-│     学べ深く      Learn deeply.                       │
-│     創れ大胆に    Build boldly.                       │
-│     疑え全てを    Question everything.                │
-│     たまには外へ  Touch grass occasionally.            │
-│                                                        │
-└──────────────────────────────────────────────────────┘
+```text
+╭────────────────────────────────────────────────────────────╮
+│                    CURRENT STATUS                          │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  ⚔️  Spirit       : questionable                          │
+│  🧠  Curiosity    : dangerously high                      │
+│  💻  Code         : compiling...                          │
+│  🐛  Bugs         : multiplying                            │
+│  ♟️  Chess        : blundering strategically               │
+│  📚  Reading      : "one more chapter"                     │
+│  🎮  Gaming       : just one match                         │
+│  ☕  Coffee       : operational                            │
+│  😴  Sleep        : deprecated                             │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
 ```
 
-<br>
+---
 
-## 窓 STATUS WINDOW
+## 🌊 `nikhil@github:~$ tree ~/interests`
 
-<table>
-<tr>
-<td width="28%" align="center" valign="middle">
-
-<img src="https://user-images.githubusercontent.com/PASTE_YOUR_IMAGE_ID_HERE" width="220" alt="Nikhil"/>
-
-</td>
-<td width="72%">
-
-```
-╔══════════════════════════════════════════════════════╗
-║   NAME  : Nikhil Mahalik                CLASS : 侍   ║
-║   TITLE : The Wandering Builder         LEVEL : ∞    ║
-╠══════════════════════════════════════════════════════╣
-║   HP  (Health)      ████████████░░░░░░░░  62/100     ║
-║   MP  (Motivation)  ██████████████████░░  91/100     ║
-║   EXP (Curiosity)   ████████████████████  MAX        ║
-║   SP  (Sleep)        ██░░░░░░░░░░░░░░░░░░  11/100  ⚠  ║
-╠══════════════════════════════════════════════════════╣
-║   STR (debugging under pressure)          ★★★★☆      ║
-║   INT (systems thinking)                  ★★★★★      ║
-║   WIS (knowing when to stop)              ★★☆☆☆      ║
-║   DEX (context-switching)                 ★★★★☆      ║
-║   LUK (production incidents)              ★☆☆☆☆      ║
-╠══════════════════════════════════════════════════════╣
-║   QUEST: "Ship it before the idea evolves            ║
-║           into three more."                          ║
-╚══════════════════════════════════════════════════════╝
-```
-
-</td>
-</tr>
-</table>
-
-<sub>📎 To add your gif with zero extra files: open any GitHub issue or comment box (on any repo, doesn't matter which), drag your gif into it, and GitHub instantly gives you a hosted URL like `https://user-images.githubusercontent.com/...`. You don't even have to submit the comment — just copy that URL and paste it in place of the placeholder above. The gif then lives on GitHub's own servers, not your repo.</sub>
-
-<br>
-
-## 道 `nikhil@github:~$ tree ~/interests`
-
-```
-/home/nikhil
+```text
+~/interests
 │
-├── technology/
-│   ├── development
-│   ├── cybersecurity
-│   ├── AI / ML
-│   ├── Linux
+├── ⚙️ engineering
+│   ├── software
 │   ├── systems
-│   ├── IoT
-│   └── UI / UX
+│   ├── web
+│   ├── AI / ML
+│   ├── cybersecurity
+│   └── Linux
 │
-├── mind/
-│   ├── philosophy
-│   ├── psychology
-│   ├── ideas
-│   └── "why?"
-│
-├── culture/
-│   ├── literature
-│   ├── writing
-│   └── stories
-│
-├── games/
-│   ├── chess
+├── ♟️ chess
+│   ├── tactics
 │   ├── strategy
-│   └── games that destroy productivity
+│   ├── blunders
+│   └── pretending the blunder was intentional
 │
-└── curiosity/
-    └── everything else
+├── 📚 literature
+│   ├── philosophy
+│   ├── poetry
+│   ├── stories
+│   └── books that create more questions than answers
+│
+├── 🎮 games
+│   ├── strategy
+│   ├── RPGs
+│   ├── competitive games
+│   └── games that somehow become "research"
+│
+├── 🧠 philosophy
+│   ├── meaning
+│   ├── consciousness
+│   ├── human nature
+│   └── "but why?"
+│
+└── ⚔️ history
+    ├── samurai
+    ├── civilizations
+    ├── war & strategy
+    └── humans repeatedly making the same mistakes
 ```
 
-<br>
+---
 
-## 技 `nikhil@github:~$ ./currently_running`
+## ♟️ `nikhil@github:~$ cat chess.txt`
 
+Chess taught me something programming eventually confirmed:
+
+**You can be completely confident and completely wrong at the same time.**
+
+```text
+Opening        → preparation
+Middlegame     → chaos
+Endgame        → consequences
+Blunder        → character development
+Checkmate      → educational experience
 ```
-[████████████████████████████████]  LEARNING (学習)       100%
-[██████████████████████████████░░]  BUILDING (構築)        92%
-[████████████████████████████████]  EXPLORING (探索)      100%
-[██████████████████████████░░░░░░]  READING (読書)         85%
-[██████████████████████████████░░]  OVERTHINKING (考えすぎ)  94%
-[██████░░░░░░░░░░░░░░░░░░░░░░░░░░]  SLEEPING (睡眠)          18%  ⚠ 危険
+
+My chess philosophy:
+
+> Don't ask "How did I lose?"
+>
+> Ask "What did I fail to see?"
+
+Usually the answer is:
+
+**the bishop.**
+
+---
+
+## 📚 `nikhil@github:~$ cat bookshelf.txt`
+
+I like books that leave a little damage behind.
+
+Not necessarily books that tell me what to think —
+
+books that make me think **after I close them**.
+
+```text
+currently exploring:
+
+    philosophy
+    literature
+    mythology
+    psychology
+    history
+    strategy
+    human nature
+
+preferred outcome:
+
+    finish book
+        ↓
+    understand book
+        ↓
+    question book
+        ↓
+    question myself
+        ↓
+    stare at ceiling
+        ↓
+    somehow learn something
 ```
+
+---
+
+## 🛠️ `nikhil@github:~$ ./arsenal`
 
 <div align="center">
 
-精神 (spirit) : `questionable`&nbsp;&nbsp;&nbsp;CODE : `compiling`&nbsp;&nbsp;&nbsp;集中 (focus) : `unstable`&nbsp;&nbsp;&nbsp;好奇心 (curiosity) : `MAX`&nbsp;&nbsp;&nbsp;睡眠 (sleep) : `deprecated`
+<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,c,java,go,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,linux,git,github,vscode,figma,tailwind&theme=dark&perline=12" />
 
 </div>
 
 <br>
 
-## 技術 `nikhil@github:~$ ./arsenal`
+```text
+I don't worship tools.
 
-<div align="center">
+I learn tools.
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,c,java,go,html,css,react,nodejs,express,mongodb,mysql,postgres,docker,linux,git,github,vscode,figma,tailwind&theme=light&perline=11" />
+Then I eventually replace them
+when I find something that fits the problem better.
 
-</div>
+The real stack:
 
+    curiosity
+        +
+    fundamentals
+        +
+    patience
+        +
+    unreasonable amounts of debugging
 ```
-skill_level:  ████████████████████████░░░░░░░░░░░░░░░░
-translation:  "still learning."
-```
 
-<br>
+---
 
-## 創 `nikhil@github:~$ ./projects`
+# ⚔️ `nikhil@github:~$ ./projects`
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### ⚔️ `commitments`
+### ⚔️ Commitments
+
 **Life & Daily Management**
 
-A personal productivity and daily-life tracker for taming commitments, routines, tasks, and the beautiful chaos of everyday life.
+A personal command center for managing commitments, routines, tasks, habits, and the beautiful chaos of everyday life.
 
-```
-mission:
-    turn "I'll do it tomorrow"
-    into
-    "I actually did it."
+```text
+status: building
+threat: procrastination
+objective: control the chaos
 ```
 
 </td>
+
 <td width="50%" valign="top">
 
-### ⌨️ `keytype`
+### ⌨️ KeyType
+
 **Multiplayer Typing • Real-Time Competition**
 
-A multiplayer typing platform built around speed, competition, and questionable levels of competitiveness.
+A multiplayer typing arena built around speed, competition, real-time gameplay, and unnecessarily serious typing battles.
 
-```
-objective:
-    type fast
-    win
-    pretend it was skill
+```text
+status: building
+weapon: keyboard
+enemy: 97 WPM guy
 ```
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### 🛡️ `Sanrakshak`
+### 🛡️ Sanrakshak
+
 **Cybersecurity • Vulnerability Discovery**
 
-A security-focused project exploring vulnerability scanning and security tooling.
+A security-focused project exploring vulnerability discovery, scanning, reconnaissance, and practical security tooling.
 
-```
-philosophy:
-    find the weakness
-    understand the weakness
-    fix the weakness
-    ...before someone else does.
+```text
+status: experimenting
+mission: find the holes
 ```
 
 </td>
+
 <td width="50%" valign="top">
 
-### ◈ `Mithyadarpan`
-**Cybersecurity • Systems • Exploration**
+### ◈ Mithyadarpan
 
-An exploration into security, systems, and the things hiding beneath the surface.
+**Systems • Cybersecurity • Exploration**
 
-```
-"the mirror shows
- what you bring to it."
+An exploration into systems, security, and the strange things hiding beneath the interfaces we normally see.
+
+```text
+status: classified
+clearance: insufficient
 ```
 
 </td>
+
 </tr>
 </table>
 
+<br>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=16&duration=2400&pause=600&color=E8C874&center=true&vCenter=true&repeat=true&width=700&height=40&lines=git+commit+-m+%22it+works%2C+don%27t+ask+why%22;deploying+to+production+on+a+friday...;⚔️+another+one+ships" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=16&duration=2500&pause=700&color=D6B86A&center=true&vCenter=true&repeat=true&width=750&height=40&lines=git+commit+-m+%22it+works%2C+don't+ask+questions%22;deploying+on+Friday+because+apparently+I+learned+nothing;⚔️+another+one+ships;git+push+--force+%23+character+development" />
 
 </div>
 
-<br>
+---
 
-## 誉 `nikhil@github:~$ ./achievements`
+## 🏆 `nikhil@github:~$ ./achievements`
 
+```text
+[✓] survived another debugging session
+[✓] fixed a bug caused by fixing another bug
+[✓] spent 3 hours automating a 5-minute task
+[✓] learned a new framework instead of finishing the project
+[✓] said "I'll remember this" instead of writing documentation
+[✓] lost a chess game to a move I saw coming
+[✓] started reading one book and ended up researching five unrelated topics
+[✓] questioned an abstraction until discovering another abstraction underneath it
+[✓] deployed something that worked
+[✓] immediately became suspicious
 ```
-╔══════════════════════════════╗
-║                              ║
-║     ⚔️  SIH 2024 FINALIST    ║
-║                              ║
-║    SMART INDIA HACKATHON     ║
-║             2024             ║
-║                              ║
-╚══════════════════════════════╝
 
-     survived the hackathon arc.
-```
+---
 
-<br>
+## 💀 `nikhil@github:~$ ps aux | grep nikhil`
 
-## 影 `nikhil@github:~$ ps aux | grep nikhil`
-
-```
-USER       PID       PROCESS
-────────────────────────────────────────────────────────────
-nikhil     1337      learning something new
-nikhil     2048      building something
-nikhil     4096      reading philosophy instead of sleeping
-nikhil     8192      playing "one quick game"
-nikhil     16384     playing 17 more games
-nikhil     32768     starting another project
-nikhil     65536     falling into a 4-hour rabbit hole
-nikhil     6969      wondering where the day went
-nikhil     42069     questioning the meaning of existence
-
-STATUS: all processes are technically necessary.
+```text
+PID     PROCESS                  STATUS
+──────────────────────────────────────────────
+0001    curiosity                RUNNING
+0017    overthinking             RUNNING
+0023    coding                   RUNNING
+0042    chess                    RUNNING
+0069    existential_crisis       ZOMBIE
+0137    procrastination          WAITING
+0199    random_rabbit_hole       RUNNING
+0420    sleep                    NOT FOUND
+1337    "one_last_feature"       RUNNING
+9999    sanity                   SEGFAULT
 ```
 
 <details>
@@ -319,121 +420,151 @@ STATUS: all processes are technically necessary.
 
 <br>
 
-```
-nikhil     00001     pretending to understand the compiler error
-nikhil     00013     googling the same Stack Overflow answer for the 4th time
-nikhil     00404     confidence.exe has stopped responding
-nikhil     01337     secretly proud of a one-line fix that took 6 hours
-nikhil     09999     opening 40 tabs to fix one bug, closing 2
-nikhil     13013     talking to the rubber duck like it owes me money
-
-kill -9 doubt
+```text
+[02:13:07] started project
+[02:17:41] found interesting problem
+[02:32:09] redesigned architecture
+[03:04:18] discovered simpler solution
+[03:04:19] ignored simpler solution
+[03:47:55] introduced bug
+[04:16:02] blamed framework
+[04:19:44] discovered it was my fault
+[04:20:01] character development +1
+[04:21:33] "tomorrow I'll fix it properly"
 ```
 
 </details>
 
-<br>
+---
 
-## 履 `nikhil@github:~$ git log --oneline`
+## 📜 `nikhil@github:~$ git log --oneline`
 
+```text
+f7a91c2  learned something
+b31d88a  broke something
+9a77e12  fixed something
+c82d091  questioned everything
+a13f6e8  started another project
+d91bb42  forgot why I started it
+e7710aa  rediscovered the project
+4f20abc  added one tiny feature
+7c19def  accidentally redesigned everything
 ```
-a91f2c7  feat: learn something new
-7b42d91  feat: build something interesting
-42bd8e1  fix: understand why it broke
-19ac731  feat: explore another rabbit hole
-08cd412  chore: read a book instead of coding
-03fe911  fix: temporary solution is now permanent
-02ab731  feat: start another side project
-0000000  feat: repeat until enlightenment
-```
 
-## 状 `nikhil@github:~$ git status`
+---
 
-```
-On branch main
-Your branch is ahead of your sleep schedule.
+## 🧘 `nikhil@github:~$ git status`
+
+```text
+On branch: becoming-better
+
+Your branch is ahead of
+who-you-were-yesterday by several commits.
 
 Changes not staged for commit:
-    modified:   knowledge
+
+    modified:   discipline
     modified:   curiosity
-    modified:   ideas
-    modified:   life
-    modified:   sleep_schedule
+    modified:   understanding
+    modified:   patience
 
 Untracked files:
-    another_project/
-    another_book/
-    another_question_about_existence/
 
-nothing committed.
-probably thinking about it.
+    ideas/
+    questions/
+    unfinished_projects/
+    books_to_read/
+    things_I_should_probably_finish/
+
+nothing to commit.
+
+just keep walking.
 ```
 
-<br>
+---
+
+## ⚔️ `nikhil@github:~$ cat way.txt`
+
+<div align="center">
+
+```text
+道 — THE WAY
+
+
+Discipline without curiosity is a cage.
+
+Curiosity without discipline is a wildfire.
+
+
+A warrior sharpens the blade.
+
+An engineer sharpens the mind.
+
+A player sharpens the instinct.
+
+A reader sharpens the questions.
+
+
+I don't want to become someone
+who knows everything.
+
+I want to become someone
+who can learn anything.
+
+
+Walk.
+Build.
+Break.
+Understand.
+Repeat.
+```
+
+</div>
+
+---
+
+## 📊 `nikhil@github:~$ ./stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vrindaverse&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=F2E9E4&icon_color=D98B8B&text_color=B8B0AA&count_private=true" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vrindaverse&hide_border=true&background=0D0D0D&stroke=8B5E5E&ring=D98B8B&fire=D6B86A&currStreakLabel=F2E9E4&sideLabels=B8B0AA&currStreakNum=F2E9E4&sideNums=B8B0AA&dates=777777" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrindaverse&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=F2E9E4&text_color=B8B0AA" width="48%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vrindaverse&hide_border=true&bg_color=0D0D0D&color=F2E9E4&line=D98B8B&point=7F9B83&area_color=8B5E5E&area=true" width="97%" />
+
+</div>
+
+---
 
 <div align="center">
 
 <pre>
-　　　　  ⚔️  ─────────────  刀  ─────────────  ⚔️
+                 ⚔️  ─────────────  刀  ─────────────  ⚔️
 </pre>
 
-**道 — THE WAY**
+### `nikhil@github:~$ exit`
 
-Discipline without curiosity is a cage.
-Curiosity without discipline is a wildfire.
-Somewhere in the space between, a wanderer learns to walk straight.
+```text
+[ session closed ]
 
-</div>
+the code remains.
+the questions remain.
+the journey continues.
 
-<br>
+until the next rabbit hole.
 
-## 統 `nikhil@github:~$ ./stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vrindaverse&show_icons=true&hide_border=true&bg_color=FDF6F0&title_color=4A4A4A&icon_color=E8899A&text_color=8a8a8a&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vrindaverse&hide_border=true&background=FDF6F0&stroke=E8B4BC&ring=E8899A&fire=E8899A&currStreakLabel=4A4A4A&sideLabels=8a8a8a&currStreakNum=4A4A4A&sideNums=4A4A4A&dates=aaaaaa" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrindaverse&layout=compact&hide_border=true&bg_color=FDF6F0&title_color=4A4A4A&text_color=8a8a8a" width="48%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vrindaverse&hide_border=true&bg_color=FDF6F0&color=4A4A4A&line=E8899A&point=A8C3A0&area_color=E8899A&area=true" width="97%" />
-
-</div>
-
-<sub>📎 If the overview or top-langs card ever shows a broken image while streak/activity-graph work fine — that's not your setup, it's Vercel rate-limiting the shared `github-readme-stats.vercel.app` instance (a known, common issue since it's free and shared by thousands of profiles). It usually clears within a few minutes on refresh.</sub>
-
-<br>
-
-```
-╭──────────────────────────────────────────────────────╮
-│                                                        │
-│      A wanderer draws no map —                        │
-│      only a direction, and the will to keep walking.   │
-│                                                        │
-│      Every field mastered is just the entrance         │
-│      to a bigger one.                                  │
-│                                                        │
-│                          — Nikhil, probably 2AM         │
-│                                                        │
-╰──────────────────────────────────────────────────────╯
+— 侍 Nikhil
 ```
 
-<div align="center">
-
-`nikhil@github:~$ exit`
-
-**[ session closed ]**
-
-*until the next rabbit hole.*
-
 <br>
 
-[![GitHub followers](https://img.shields.io/github/followers/Vrindaverse?style=for-the-badge&color=E8899A&labelColor=F0E4DC&logo=github)](https://github.com/Vrindaverse)
-[![Gmail](https://img.shields.io/badge/say%20hi-nikhilmahalik%40gmail.com-A8C3A0?style=for-the-badge&labelColor=F0E4DC&logo=gmail&logoColor=4A4A4A)](mailto:nikhilmahalik@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/connect-why--nikhil-E8C874?style=for-the-badge&labelColor=F0E4DC&logo=linkedin&logoColor=4A4A4A)](https://www.linkedin.com/in/why-nikhil)
+<img src="https://komarev.com/ghpvc/?username=Vrindaverse&label=WANDERERS%20WHO%20PASSED%20THROUGH&color=D98B8B&style=flat&labelColor=111111" />
 
-<img src="https://komarev.com/ghpvc/?username=Vrindaverse&label=WANDERERS%20WHO%20PASSED%20THROUGH&color=E8899A&style=flat&labelColor=F0E4DC" />
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F0E4DC&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=100&section=footer" width="100%"/>
 
 </div>
