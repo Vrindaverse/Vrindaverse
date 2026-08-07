@@ -1,322 +1,214 @@
 <div align="center">
 
-# 🌸 NIKHIL MAHALIK
+# 🌸 VRINDAVERSE
 
-### `ENGINEER` · `BUILDER` · `CHESS GOBLIN` · `PROFESSIONAL OVERTHINKER`
+### `ENGINEER` · `BUILDER` · `CHESS GOBLIN`
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=2200&pause=800&color=6C5CE7&center=true&vCenter=true&width=750&lines=I+build+things.;I+break+things.;I+figure+out+why.;then+I+build+them+again.;occasionally+with+documentation." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1800&pause=700&color=6C5CE7&center=true&vCenter=true&width=720&lines=BUILD+%E2%86%92+BREAK+%E2%86%92+LEARN+%E2%86%92+REPEAT;probably+overengineering+something;works+on+my+machine+%E2%84%A2" />
 
 <br>
 
-> **I build useful software, questionable side projects, and unnecessarily elaborate solutions to simple problems.**
-
-<br>
-
-`💻 SOFTWARE`   `🧠 AI/ML`   `🐧 LINUX`   `🔐 CYBER`   `♟️ CHESS`
+> **I build things. Sometimes useful. Sometimes unnecessary. Usually both.**
 
 </div>
 
 ---
 
-# 🧱 ABOUT THE CREATURE
+<div align="center">
 
-I'm an engineer who likes **building things and understanding what happens underneath them**.
+## 🧱 `ABOUT.EXE`
 
-I enjoy working across the stack — from interfaces that feel good to use, to backend systems, databases, networking, Linux and the occasional rabbit hole that started with:
+<table>
+<tr>
+<td width="50%" align="center">
 
-> *"wait... but how does this actually work?"*
+### 💻 BUILD
 
-I also enjoy chess, anime, games, literature, philosophy and spending significantly more time designing something than strictly necessary.
+`WEB` · `AI / ML`  
+`LINUX` · `CYBER`  
+`SYSTEMS` · `DESIGN`
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                     CURRENT STATUS                           │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  💻 Building                 ████████████████████░░   90%    │
-│  🧠 Learning                 █████████████████░░░░░   80%    │
-│  🐧 Breaking Linux           ███████████████░░░░░░░   70%    │
-│  🔐 Understanding Cyber      █████████████░░░░░░░░░   60%    │
-│  ♟️ Winning at Chess         ███████░░░░░░░░░░░░░░░   35%    │
-│  😴 Maintaining Sleep        ███░░░░░░░░░░░░░░░░░░░   15%    │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+</td>
+
+<td width="50%" align="center">
+
+### 🧠 BRAIN
+
+`♟ CHESS` · `🎮 GAMES`  
+`🍥 ANIME` · `📚 BOOKS`  
+`🗿 PHILOSOPHY`
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-# 🚀 STUFF I'M COOKING
+# 🚀 `PROJECTS`
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 ## ⌨️ KEYTYPE
 
-### Multiplayer typing, but competitive.
+**Multiplayer typing battlefield.**
 
-A real-time typing battlefield where apparently typing faster than another human is considered a sport.
+`React` `TypeScript` `Socket.IO`
 
-**Featuring**
+> type fast.  
+> talk trash.  
+> repeat.
 
-* ⚡ Real-time multiplayer
-* 💬 Chat & lobbies
-* 🏆 Leaderboards
-* 🔐 Authentication
-* ⌨️ Competitive typing
+</td>
 
-`React` `TypeScript` `Tailwind` `Node.js` `Socket.IO` `PostgreSQL`
-
----
-
-## 🧠 NEURAL NETWORK
-
-### My brain, but with external storage.
-
-A notebook-style knowledge system designed to make information feel less like a database and more like an actual workspace.
-
-`Next.js` `TypeScript` `Drizzle` `Neon` `GSAP`
-
----
+<td width="50%" valign="top">
 
 ## 🛡️ SANRAKSHAK
 
-### Because manually running security tools 47 times wasn't enough.
+**Security reconnaissance platform.**
 
-A vulnerability reconnaissance and scanning platform built around the security workflow:
+`React` `FastAPI` `Nmap` `Nuclei`
 
-```text
-RECON → SCAN → ANALYZE → FINDINGS → REPORT
-```
+> `RECON → SCAN → FIND → REPORT`
 
-`React` `FastAPI` `Python` `PostgreSQL` `Nmap` `Nuclei`
+</td>
 
----
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🧠 NEURAL NETWORK
+
+**Notebook-style knowledge system.**
+
+`Next.js` `Drizzle` `Neon` `GSAP`
+
+> brain.exe  
+> external storage.
+
+</td>
+
+<td width="50%" valign="top">
 
 ## 📱 AROGYAMITRA
 
-### Technology that still works when the internet doesn't.
+**Offline-first healthcare platform.**
 
-An offline-first platform designed for ASHA workers with:
+`React Native` `Django` `Socket.IO`
 
-* 📡 Offline synchronization
-* 🌐 Multilingual workflows
-* 🧠 Smart assistance
-* 🚨 Alerts & reminders
-* 👤 Patient profiles
-* 🔄 Reliable data sync
+> internet?  
+> optional.
 
-`React Native` `Django` `Socket.IO` `PostgreSQL`
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🧰 THE TOOLBOX
+# 🛠️ `STACK`
 
 <div align="center">
 
-### LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,bash" />
-
-<br><br>
-
-### FRONTEND
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,figma" />
-
-<br><br>
-
-### BACKEND / DATA
-
-<img src="https://skillicons.dev/icons?i=nodejs,django,postgres,neon,docker" />
-
-<br><br>
-
-### SYSTEMS / TOOLS
-
-<img src="https://skillicons.dev/icons?i=linux,git,github" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,django,tailwind,postgres,linux,docker,git,github" />
 
 </div>
 
 ---
 
-# 🧪 CURRENT SIDE QUESTS
-
-Not everything needs to become a startup.
-
-Some things exist because **I got curious.**
-
-```diff
-+ Understanding Operating Systems
-+ Diving deeper into Computer Architecture
-+ Getting better at DSA
-+ Exploring AI / ML
-+ Learning Cybersecurity
-+ Building Linux experiments
-+ Understanding systems from the inside out
-+ Designing unnecessarily beautiful interfaces
-+ Trying to make Git fear me
-
-- Opening another side project before finishing the previous one
-- Saying "this will only take 20 minutes"
-- Trusting code written at 3 AM
-```
-
----
-
-# 🧠 THE NON-TECHNICAL TECH GUY
-
-I spend a suspicious amount of time thinking about things that aren't code.
-
-### ♟️ CHESS
-
-My strategic process:
+# 🧪 `CURRENTLY.EXE`
 
 ```text
-1. Develop pieces
-2. Form a beautiful plan
-3. Miss an obvious tactic
-4. Stare at the board
-5. Question existence
-6. Somehow win
-```
-
-**Chess rating:** emotionally higher than statistically.
-
----
-
-### 🎮 GAMES
-
-Games are basically:
-
-**problem solving + storytelling + dopamine + questionable sleep schedules.**
-
-I like games that make me think, explore, build, compete or completely forget what time it is.
-
----
-
-### 🍥 ANIME
-
-I occasionally watch anime.
-
-*"One more episode."*
-
-is not a time estimate.
-
-It is a **contract with the devil.**
-
----
-
-### 📚 PHILOSOPHY & LITERATURE
-
-I like ideas that make you close the book and stare at the ceiling for ten minutes.
-
-Things like:
-
-* What makes a meaningful life?
-* Why do humans create things?
-* How much of our identity is constructed?
-* Is free will real?
-* Why does this bug only happen in production?
-
-The final question remains the most difficult.
-
----
-
-# 🗿 SYSTEM INFORMATION
-
-```yaml
-name: Nikhil Mahalik
-
-role:
-  - engineer
-  - builder
-  - professional overthinker
-
-environment:
-  os: Linux
-  shell: terminal
-  habitat: localhost
-
-interests:
-  - software engineering
-  - AI / ML
-  - cybersecurity
-  - Linux
-  - systems
-  - chess
-  - games
-  - anime
-  - literature
-  - philosophy
-
-current_mission:
-  - learn more
-  - build better
-  - understand deeper
-  - ship things
-
-known_bugs:
-  - sleep_schedule
-  - overengineering
-  - "I'll refactor it later"
-  - starting side projects
-
-status: operational
+╔══════════════════════════════════════════════╗
+║                                              ║
+║  ████████████████████  BUILDING             ║
+║  █████████████████░░░  LEARNING             ║
+║  ███████████████░░░░░  LINUX                ║
+║  █████████████░░░░░░░  CYBER                ║
+║  ██████████░░░░░░░░░░  DSA                  ║
+║  ███░░░░░░░░░░░░░░░░░  SLEEP                ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 ```
 
 ---
 
-# 📊 GITHUB COMMAND CENTER
+# ♟️ `CHESS.EXE`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=false&border_radius=0&bg_color=FFF8E7&title_color=6C5CE7&text_color=303030&icon_color=E89AB4" height="170"/>
+```text
+        ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
+        ♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=false&border_radius=0&background=FFF8E7&ring=6C5CE7&fire=E89AB4&currStreakLabel=303030" height="170"/>
+        · · · · · · · ·
+        · · · · · · · ·
+        · · · · · · · ·
+        · · · · · · · ·
+
+        ♙ ♙ ♙ ♙ ♙ ♙ ♙ ♙
+        ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖
+```
+
+### `PLAN → CALCULATE → BLUNDER → "IT WAS THEORY"`
 
 </div>
 
 ---
 
-# 🐍 THE SNAKE HAS ENTERED THE CHAT
+# 📊 `GITHUB.EXE`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vrindaverse&show_icons=true&hide_border=true&bg_color=FFF7E8&title_color=6C5CE7&text_color=333333&icon_color=FF8FAB" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrindaverse&layout=compact&hide_border=true&bg_color=FFF7E8&title_color=6C5CE7&text_color=333333" height="170"/>
 
 </div>
 
 ---
 
-# 📡 TRANSMISSION END
-
-If you came here because you found one of my projects:
-
-**hello. 👋**
-
-If you came here because you like building things:
-
-**even better.**
-
-If you came here because you're procrastinating on GitHub:
-
-**I respect the grind.**
-
----
+# 📈 `ACTIVITY.LOG`
 
 <div align="center">
 
-## 🌸 BUILDING · BREAKING · LEARNING · REPEATING
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vrindaverse&bg_color=fff7e8&color=6c5ce7&line=e89ab4&point=6c5ce7&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# 🐍 `SNAKE.EXE`
+
+> **No extra workflow required.**
+>
+> The contribution snake is intentionally replaced with a live activity graph above, because the traditional snake requires a generated SVG file or GitHub Action.
+
+---
+
+# 🗿 `SYSTEM.STATUS`
+
+<div align="center">
+
+```text
+BUILDING    ████████████████████  ONLINE
+LEARNING    █████████████████░░░  ONLINE
+CHAOS       ████████████████████  ONLINE
+SLEEP       ███░░░░░░░░░░░░░░░░░  OFFLINE
+```
 
 <br>
 
-> *"Make it work. Understand why it works. Make it beautiful."*
+### `sudo rm -rf /doubt`
 
 <br>
 
-`sudo rm -rf /doubt`
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F6D6E8&height=110&section=footer" width="100%"/>
+`🌸 BUILD` · `🧱 BREAK` · `🧠 LEARN` · `♟ BLUNDER`
 
 </div>
