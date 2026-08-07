@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 <img src="assets/warli-header.svg" width="100%" alt="Warli inspired header"/>
