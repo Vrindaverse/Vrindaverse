@@ -1,17 +1,19 @@
 
 <div align="center">
 
-<img src="assets/warli-header.svg" width="100%" alt="Warli inspired header"/>
+# नमस्ते 👋 I'M NIKHIL
 
-# 𑁍 NIKHIL MAHALIK
+### engineer • chess player • writer • certified overthinker
 
-### Engineer · Builder · Chess Player · Writer · Professional Overthinker
+> "I came here to write one small feature."
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=7A4E2D&center=true&vCenter=true&width=720&lines=Building+systems%2C+not+just+websites.;Writing+code+%26+occasionally+poetry.;Chess%3A+where+I+lose+to+my+own+ideas.;AI+%7C+Systems+%7C+Cybersecurity+%7C+Linux;Born+in+India+%E2%80%A2+Building+for+the+world.;Still+trying+to+figure+out+what+I'm+doing."/>
+> *three hours later*
+
+> "I have accidentally redesigned the entire architecture."
 
 <br>
 
-<img src="assets/warli-divider.svg" width="75%" alt="Warli divider"/>
+🪷 🇮🇳 💻 ♟️ ☕ 🐘 🦚
 
 </div>
 
@@ -19,61 +21,64 @@
 
 <table>
 <tr>
+
 <td width="55%" valign="top">
 
-## 🪔 THE PERSON BEHIND THE CODE
+## 👨‍💻 ABOUT THE GUY
 
-I'm an engineer who is equally fascinated by:
+I'm an engineer from India who likes making things on computers.
 
-**computers, ancient civilizations, chess, philosophy, literature, games and the question of "how the hell does this actually work?"**
+I also have a suspicious amount of interest in things that have absolutely nothing to do with computers.
 
-I like going beneath the abstraction.
+**I like:**
 
-If I use a framework, I eventually want to know what happens underneath it.
+- 💻 Software & systems
+- 🧠 AI / ML
+- 🐧 Linux
+- 🔐 Cybersecurity
+- ♟️ Chess
+- 📚 Philosophy
+- ✍️ Literature & writing
+- 🎮 Games
+- 🎨 UI/UX
+- 🏛️ Ancient Indian art & culture
+- ☕ Chai
 
-If I use Linux, I want to understand the system.
+Basically:
 
-If I build an AI system, I want to understand the machinery behind it.
-
-If I lose a chess game...
-
-I blame the opening.
-
----
-
-### ⚔️ Current Quest
-
-```text
-┌─────────────────────────────────────────┐
-│                                         │
-│  Learn deeply.                          │
-│  Build relentlessly.                    │
-│  Stay curious.                         │
-│                                         │
-│  Understand systems.                    │
-│  Write better code.                     │
-│  Become harder to fool.                 │
-│                                         │
-│  And occasionally touch grass.          │
-│                                         │
-└─────────────────────────────────────────┘
-````
+**if it makes me curious, I'm probably going to waste 4 hours learning about it.**
 
 </td>
 
-<td width="45%" align="center" valign="middle">
+<td width="45%" align="center">
 
-<img src="assets/profile-warrior.svg" width="350" alt="Indian folk-art inspired engineer illustration"/>
+### 🧘 CURRENTLY
+
+```text
+╭────────────────────╮
+│                    │
+│  🧑‍💻 coding       │
+│  ♟️ blundering     │
+│  📚 reading       │
+│  ☕ chai           │
+│  🐧 Linux         │
+│  💀 debugging     │
+│                    │
+╰────────────────────╯
+````
 
 <br>
 
-### `ॐ`
+**Status**
 
-**कर्मण्येवाधिकारस्ते**
+`alive.exe`
 
-*The work is yours.*
+`running`
+
+`occasionally crashing`
 
 </td>
+
 </tr>
 </table>
 
@@ -81,166 +86,157 @@ I blame the opening.
 
 <div align="center">
 
-<img src="assets/gond-divider.svg" width="90%" alt="Gond inspired divider"/>
-
-## 🇮🇳 ROOTS · STORIES · SYSTEMS
+## 🪷 WHY THE ANCIENT ART STUFF?
 
 </div>
 
-I don't want Indian culture on my profile as decoration.
+I'm fascinated by the visual language of old Indian art.
 
-I want it to influence **how the profile feels**.
+**Warli. Gond. Madhubani. Pattachitra. Kalamkari.**
 
-The visual language here takes inspiration from India's folk-art traditions:
+Not because this is supposed to be some extremely serious cultural dissertation.
 
-| Tradition       | Inspiration                                     |
-| --------------- | ----------------------------------------------- |
-| **Warli**       | Human figures, journeys, community and movement |
-| **Gond**        | Animals, dots, organic patterns                 |
-| **Madhubani**   | Dense linework and ornamental borders           |
-| **Pattachitra** | Framing, storytelling and illustration          |
-| **Kalamkari**   | Earthy colours and narrative motifs             |
+I just think it's **beautiful as hell.**
 
-Different traditions. Different regions. Different histories.
+There's something really cool about taking:
 
-One thing they share:
+```text
+ancient folk art
+      +
+old stories
+      +
+symbols
+      +
+patterns
+```
 
-> **They tell stories visually.**
+and putting it next to:
 
-That's exactly what I want this profile to do.
+```text
+GitHub
+React
+Linux
+AI
+Chess
+```
+
+So that's basically the aesthetic here.
+
+**Ancient India meets modern internet idiot.**
 
 ---
 
 <div align="center">
 
-<img src="assets/madhubani-border.svg" width="95%" alt="Madhubani inspired border"/>
-
-## 🧭 MY MAP
+## 🐘 THE LOCAL PHILOSOPHER HAS SPOKEN
 
 </div>
 
 ```text
-                         ┌───────────────┐
-                         │   PHILOSOPHY  │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-      ┌───────────────┐    ┌───────────────┐    ┌───────────────┐
-      │     CHESS     │◄──►│   ENGINEERING │◄──►│   LITERATURE  │
-      └───────┬───────┘    └───────┬───────┘    └───────────────┘
-              │                    │
-              ▼                    ▼
-       ┌─────────────┐      ┌──────────────┐
-       │   STRATEGY  │      │   BUILDING   │
-       └─────────────┘      └───────┬──────┘
-                                    │
-                                    ▼
-                             ┌──────────────┐
-                             │   CURIOSITY  │
-                             └──────────────┘
+                 ☀️
+
+          🐘          🦚
+
+              "Everything
+               changes."
+
+                   ~
+
+              "Except."
+
+                   ~
+
+              "npm install"
+
+                   ~
+
+              "That will
+               always hurt."
+
+          🐂          🐐
 ```
 
 ---
 
-<div align="center">
-
-## 🛠️ THE FORGE
-
-</div>
+## 🛠️ THINGS I THROW AT MY LAPTOP
 
 ### Languages
 
-```text
-Python        ████████████████████
-Java          ████████████████░░░░
-TypeScript    ██████████████████░░
-JavaScript    █████████████████░░░
-C             ███████████░░░░░░░░
-```
+`Python` `Java` `JavaScript` `TypeScript` `C`
 
-### Web & Application
+### Frontend
 
-`React` · `Next.js` · `TypeScript` · `Tailwind` · `Shadcn`
+`React` `Next.js` `Tailwind` `Shadcn`
 
 ### Backend
 
-`Node.js` · `Django` · `FastAPI` · `Socket.IO`
+`Node.js` `Django` `FastAPI` `Socket.IO`
 
-### Data
+### Database
 
-`PostgreSQL` · `Neon` · `Drizzle ORM`
+`PostgreSQL` `Neon` `Drizzle`
 
-### Systems
+### Other toys
 
-`Linux` · `Git` · `Docker` · `Networking` · `Computer Architecture`
-
-### Currently exploring
-
-`AI/ML` · `Cybersecurity` · `Operating Systems` · `IoT` · `System Design`
+`Linux` `Git` `Docker` `Figma` `Arduino`
 
 ---
 
 <div align="center">
 
-<img src="assets/warli-people.svg" width="80%" alt="Warli people illustration"/>
-
-## 🏹 THINGS I'VE BEEN BUILDING
+## 🧪 THINGS I BUILT INSTEAD OF STUDYING
 
 </div>
 
 ### ⌨️ KeyType
 
-**Multiplayer typing arena**
+Multiplayer typing competition.
 
-A typing platform where speed, accuracy and questionable competitive decisions collide.
+Because apparently typing quickly wasn't competitive enough.
 
-`React` `TypeScript` `Tailwind` `Socket.IO` `PostgreSQL`
+**Stack:** `React` `TypeScript` `Socket.IO`
 
 ---
 
 ### 🛡️ Sanrakshak
 
-**Security reconnaissance & vulnerability scanning platform**
+A vulnerability scanning platform.
 
-A unified interface for security tools and vulnerability discovery.
+Basically:
 
-`React` `FastAPI` `PostgreSQL` `Nmap` `Nuclei` `Nikto` `SQLMap`
+> "What if I put a bunch of security tools behind one dashboard?"
+
+**Stack:** `React` `FastAPI` `Nmap` `Nuclei`
 
 ---
 
 ### 🧠 NeuralNetwork
 
-**A second brain that happens to run in a browser.**
+A digital second brain.
 
-A knowledge-management system inspired by digital notebooks and interconnected ideas.
+Because apparently having one brain wasn't complicated enough.
 
-`Next.js` `Drizzle` `PostgreSQL` `GSAP`
+**Stack:** `Next.js` `Drizzle` `PostgreSQL`
 
 ---
 
 ### 🏥 ArogyaMitra
 
-**Offline-first technology for frontline healthcare workers.**
+Offline-first technology for frontline healthcare workers.
 
-Designed around the reality that software should still work when the internet decides to disappear.
+This one is actually serious.
 
-`React Native` `Django` `PostgreSQL` `Socket.IO` `AI`
+The developer, however, remains questionable.
+
+**Stack:** `React Native` `Django` `PostgreSQL` `AI`
 
 ---
 
 ### ⚔️ Commitment
 
-**A personal life-management system.**
+A daily-life tracker.
 
-Tasks, habits, commitments and daily tracking.
-
-```text
-Current status:
-
-████████████████░░░░  80%
-
-Feature creep detected.
-```
+The irony of making a productivity application while procrastinating on making the productivity application is not lost on me.
 
 ---
 
@@ -248,142 +244,122 @@ Feature creep detected.
 
 ## ♟️ CHESS
 
-<img src="assets/chess-warli.svg" width="500" alt="Warli inspired chess illustration"/>
-
-### The original algorithm.
-
-</div>
-
-Chess taught me something I keep rediscovering in engineering:
-
-> Every move creates a state.
-
-You make a decision.
-
-The system changes.
-
-You deal with the consequences.
-
-Sometimes you win.
-
-Sometimes you hang your queen in 12 moves and stare at the ceiling.
-
----
+### The original debugging simulator.
 
 ```text
-Opening:
-    "I know this."
-
-Middle game:
-    "I have a plan."
-
-Complication:
-    "Wait."
+Me:
+"I have calculated everything."
 
 Opponent:
-    "Check."
+e4
 
 Me:
-    "Interesting."
+"Interesting."
 
-Engine:
-    -7.4
+Opponent:
+Qh5
 
 Me:
-    "I meant to do that."
+"Interesting."
+
+Opponent:
+Qxf7#
+
+Me:
+"..."
+
+Stockfish:
+💀
 ```
 
----
-
-<div align="center">
-
-<img src="assets/gond-animal.svg" width="300" alt="Gond inspired animal illustration"/>
-
-## 📚 OUTSIDE THE TERMINAL
-
 </div>
 
-### Philosophy
+Chess is probably one of the biggest reasons I like systems and strategy.
 
-I like questions more than answers.
+Every move changes the state.
 
-**What makes a meaningful life?**
+Every decision has consequences.
 
-**What does discipline actually mean?**
+And sometimes you accidentally sacrifice your queen because you thought you were cooking.
 
-**How much of ourselves is chosen?**
-
-**Can intelligence exist without wisdom?**
-
----
-
-### Literature
-
-Stories that leave you staring at the ceiling at 2 AM.
-
----
-
-### Games
-
-Games are fascinating combinations of:
-
-`Systems + Psychology + Strategy + Storytelling + Design`
-
----
-
-### History
-
-Civilizations, warfare, technology, strategy, mythology and the evolution of ideas.
+**You were not cooking.**
 
 ---
 
 <div align="center">
 
-## 📜 THE ENGINEER'S CODE
-
-<img src="assets/pattachitra-frame.svg" width="95%" alt="Pattachitra inspired frame"/>
+## 📚 THINGS I THINK ABOUT WHEN I SHOULD BE CODING
 
 </div>
+
+### 🏛️ Ancient India
+
+I'm interested in:
+
+`history` · `philosophy` · `mythology` · `mathematics`
+
+`architecture` · `literature` · `strategy` · `art`
+
+I especially love seeing how people thought about the world before we had:
 
 ```text
-                 LEARN
-                   │
-                   ▼
-                BUILD
-                   │
-                   ▼
-                BREAK
-                   │
-                   ▼
-                DEBUG
-                   │
-                   ▼
-                UNDERSTAND
-                   │
-                   ▼
-                BUILD BETTER
-                   │
-                   └───────────────┐
-                                   │
-                                   ▼
-                                 REPEAT
+Google
+Stack Overflow
+ChatGPT
+YouTube tutorials
 ```
 
-> **Don't memorize abstractions. Understand them.**
+Imagine debugging mathematics without searching:
+
+> "why is my equation not working reddit"
+
+Absolute madness.
+
+---
+
+### 🧠 Philosophy
+
+Sometimes I have deep thoughts.
+
+Sometimes the deep thought is:
+
+> "If I rename the variable, will the bug disappear?"
+
+It usually doesn't.
+
+---
+
+### 📖 Literature
+
+I like stories that make me close the book and stare at the ceiling.
+
+---
+
+### 🎮 Games
+
+Games are basically:
+
+`systems + psychology + strategy + storytelling`
+
+which is suspiciously close to how my brain works.
 
 ---
 
 <div align="center">
 
-# 📊 THE BATTLEFIELD
+# 📜 THE ANCIENT SCROLL OF STATISTICS
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=7A4E2D&icon_color=9A6B3A&text_color=5C5148&rank_icon=github&include_all_commits=true&count_private=true" width="49%"/>
+*Recovered from somewhere between my laptop and my chai.*
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=00000000&ring=7A4E2D&fire=9A6B3A&currStreakLabel=7A4E2D&sideLabels=5C5148&dates=8C8177" width="49%"/>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=6B4F3A&icon_color=A66A3F&text_color=5F554D&include_all_commits=true&count_private=true" width="48%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=00000000&ring=6B4F3A&fire=A66A3F&currStreakLabel=6B4F3A&sideLabels=5F554D" width="48%">
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=5C5148&line=7A4E2D&point=9A6B3A&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=5F554D&line=6B4F3A&point=A66A3F&area=true&hide_border=true" width="95%">
 
 </div>
 
@@ -391,11 +367,11 @@ Civilizations, warfare, technology, strategy, mythology and the evolution of ide
 
 <div align="center">
 
-## 🐍 CONTRIBUTION TRAIL
+## 📈 EVIDENCE THAT I SOMETIMES DO WORK
 
-### Every square is a tiny record of a battle fought.
+<br>
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub contribution snake"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7" width="95%">
 
 </div>
 
@@ -403,32 +379,136 @@ Civilizations, warfare, technology, strategy, mythology and the evolution of ide
 
 <div align="center">
 
-<img src="assets/warli-footer.svg" width="100%" alt="Warli inspired footer"/>
+## 🎲 RANDOM FACT GENERATOR
 
-## ☕ CURRENT STATE
+<img src="https://readme-jokes.vercel.app/api?theme=default" width="500">
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧘 CURRENT CONDITION
 
 ```text
-Learning       ████████████████████∞
-Building       █████████████████░░░
-Reading        ████████████░░░░░░░░
-Chess          ███████░░░░░░░░░░░░░
-Sleeping       ██░░░░░░░░░░░░░░░░░
-Touching grass ███░░░░░░░░░░░░░░░░
+             ╭─────────────────────────╮
+             │                         │
+             │   Brain.exe             │
+             │   ████████████████████  │
+             │                         │
+             │   Motivation            │
+             │   ████████████░░░░░░░░  │
+             │                         │
+             │   Sleep                 │
+             │   ████░░░░░░░░░░░░░░░░  │
+             │                         │
+             │   Chai dependency       │
+             │   █████████████████████  │
+             │                         │
+             │   Bugs                  │
+             │   ∞                     │
+             │                         │
+             ╰─────────────────────────╯
 ```
 
 ---
 
-### `सत्यमेव जयते`
+<div align="center">
 
-**Truth alone triumphs.**
+## 🌱 CURRENTLY LEARNING
+
+`Operating Systems`
+
+`Cybersecurity`
+
+`Machine Learning`
+
+`Data Structures`
+
+`Computer Architecture`
+
+`System Design`
+
+`IoT`
 
 <br>
 
-`Made in India 🇮🇳 · Built with curiosity · Debugged with chai`
+**Current strategy:**
+
+```text
+learn
+ ↓
+build
+ ↓
+break
+ ↓
+google
+ ↓
+fix
+ ↓
+understand
+ ↓
+repeat
+```
+
+---
+
+<div align="center">
+
+## 🐘 A LITTLE SOMETHING FROM HOME
+
+```text
+       ☀️
+
+    🐘      🦚      🐘
+
+       🌿  🌿  🌿
+
+   🧑‍🌾             🧑‍🎨
+    /|\              /|\
+    / \              / \
+
+        🪷  🪷  🪷
+
+    "old art, new problems"
+```
+
+I like the idea of carrying old visual traditions into modern spaces.
+
+Not copying them.
+
+Not turning them into decoration.
+
+Just letting them influence the things I make.
+
+---
+
+<div align="center">
+
+# 👋 YOU MADE IT THIS FAR
+
+Respect.
+
+You have successfully completed the unnecessarily long biography of one random engineer.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=7A4E2D&label=VISITORS"/>
+### Leave a ⭐ if something here made you smile.
+
+<br>
+
+`Made in India 🇮🇳`
+
+`with chai ☕`
+
+`questionable decisions 🗿`
+
+`and way too many side projects 💻`
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6B4F3A&label=PEOPLE+WHO+FOUND+THIS">
 
 </div>
 ```
