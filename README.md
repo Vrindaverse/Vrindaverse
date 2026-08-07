@@ -8,7 +8,7 @@
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="YOUR_SVG_URL_HERE" width="900"/>
+<img src="./WhatsAppVideo2026-08-07at5.22.12PM-ezgif.com-optimize.gif" width="900"/>
 
 <br>
 
