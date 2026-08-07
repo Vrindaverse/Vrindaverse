@@ -1,19 +1,20 @@
 
 <div align="center">
 
-# 🪷 नमस्ते, I'M NIKHIL 👋
+# 🪷 NIKHIL MAHALIK
 
-### `engineer` · `builder` · `chess enjoyer` · `writer` · `professional overthinker`
+### `ENGINEER` · `शतरंज प्रेमी` · `WRITER` · `थोड़ा सा पागल`
 
 <br>
 
-🟠 **Ancient art** &nbsp; × &nbsp; 🟣 **Modern tech** &nbsp; × &nbsp; 🟢 **Unnecessary side projects**
+### **नमस्ते । नमस्कार । Welcome.**
 
-<br><br>
+🪷　🐘　🦚　🌿　☀️　♟️　💻　☕
 
-> **"I was going to build one small project."**
->
-> *— me, 47 projects ago*
+<br>
+
+> **ज्ञानं परमं बलम्**  
+> *Knowledge is the ultimate strength.*
 
 </div>
 
@@ -22,273 +23,191 @@
 <table>
 <tr>
 
-<td width="65%" valign="top" bgcolor="#FFF3D6">
+<td width="70%" valign="middle" bgcolor="#FFF3D6">
 
-# 👨‍💻 THE GUY BEHIND THE SCREEN
+# 👋 नमस्ते, HUMAN.
 
-I'm an engineer from **India** who likes building things, breaking things, and then pretending the breaking was part of the plan.
+### मैं बनाता हूँ चीज़ें।
 
-I'm into:
-
-💻 Software &nbsp; 🧠 AI/ML &nbsp; 🐧 Linux &nbsp; 🔐 Cybersecurity  
-♟️ Chess &nbsp; 📚 Philosophy &nbsp; ✍️ Writing &nbsp; 🎮 Games  
-🏛️ History &nbsp; 🎨 Art &nbsp; 🪷 Ancient Indian culture
-
-Basically, if something makes me curious, there is a **very high chance I'll disappear for 4 hours learning about it.**
-
-<br>
-
-### Current operating mode
-
-`BUILD → BREAK → GOOGLE → FIX → UNDERSTAND → REPEAT`
-
-</td>
-
-<td width="35%" align="center" valign="middle" bgcolor="#FFD6A5">
-
-# 🧘
-
-### HUMAN.EXE
+💻 Software  
+🤖 AI / ML  
+🐧 Linux  
+🔐 Cybersecurity  
+🎨 UI / UX  
+♟️ Chess  
+📚 Philosophy  
+✍️ Writing  
+🏛️ इतिहास  
+🎮 Games
 
 <br>
 
-🧑‍💻 **Coding**
-
-♟️ **Blundering**
-
-📚 **Reading**
-
-☕ **Chai**
-
-🐧 **Linux**
-
-💀 **Debugging**
-
-<br>
-
-**STATUS**
-
-🟢 `ALIVE`
-
-🟡 `CONFUSED`
-
-🔴 `BUGS`
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-
-<td width="33%" align="center" bgcolor="#FFE5EC">
-
-### 🐘
-
-## GOND
-
-Animals.
-
-Dots.
-
-Nature.
-
-Beautiful chaos.
-
-</td>
-
-<td width="34%" align="center" bgcolor="#E0F7FA">
-
-### 🧑‍🌾
-
-## WARLI
-
-Tiny humans doing everything.
-
-Farming.
-
-Dancing.
-
-Hunting.
-
-Probably debugging.
-
-</td>
-
-<td width="33%" align="center" bgcolor="#E8F5E9">
-
-### 🦚
-
-## MADHUBANI
-
-Patterns.
-
-Stories.
-
-Mythology.
-
-Absolutely ridiculous levels of detail.
-
-</td>
-
-</tr>
-</table>
-
-<div align="center">
-
-### 🪷 Why all this art?
-
-I really like the visual language of traditional Indian art.
-
-Not in a:
-
-> *"Greetings fellow scholars, let us discuss the cultural significance..."*
-
-way.
-
-More in a:
-
-> **"BRO THIS ELEPHANT LOOKS SICK."**
-
-way.
-
-I like taking **Warli, Gond, Madhubani, Pattachitra and Kalamkari-inspired ideas** and mixing them with computers, chess, memes and modern internet nonsense.
-
-**Ancient visual language × modern problems.**
-
-</div>
-
----
-
-<table>
-<tr>
-
-<td width="33%" valign="top" bgcolor="#FFF0F5">
-
-# 🛠️ STACK
-
-### Languages
-
-`Python`  
-`Java`  
-`TypeScript`  
-`JavaScript`  
-`C`
-
-### Frontend
-
-`React`  
-`Next.js`  
-`Tailwind`  
-`Shadcn`
-
-</td>
-
-<td width="34%" valign="top" bgcolor="#FFF8E1">
-
-# ⚙️ BACKEND
-
-`Node.js`
-
-`Django`
-
-`FastAPI`
-
-`Socket.IO`
-
-### Database
-
-`PostgreSQL`
-
-`Neon`
-
-`Drizzle`
-
-### Other toys
-
-`Linux` · `Git` · `Docker`
-
-</td>
-
-<td width="33%" valign="top" bgcolor="#E8F5E9">
-
-# ☕ CURRENT STATUS
-
-```text
-coding       ████████████
-learning     █████████████
-sleep        ███
-chai         ████████████████
-motivation   ███████
-bugs         ∞
-````
-
-**OS**
-
-🐧 Linux
-
-**Fuel**
-
-☕ Chai
-
-**Brain**
-
-🧠 Somewhere
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# 🏯 THINGS THAT ESCAPED THE LAB
-
-</div>
-
-<table>
-<tr>
-
-<td width="50%" valign="top" bgcolor="#FFF3D6">
-
-# ⌨️ KEYTYPE
-
-### Multiplayer typing arena
-
-Typing practice wasn't stressful enough.
-
-So I added competition.
-
-Because apparently:
-
-**typing fast → must become PvP**
-
-**Stack**
-
-`React` `TypeScript` `Tailwind` `Socket.IO`
+### अभी क्या चल रहा है?
 
 🟢 `BUILDING`
 
+🟡 `LEARNING`
+
+🔴 `BREAKING`
+
+☕ `CHAI`
+
 </td>
 
-<td width="50%" valign="top" bgcolor="#E3F2FD">
+<td width="30%" align="center" bgcolor="#FFD166">
 
-# 🛡️ SANRAKSHAK
+# 🧘
 
-### Security scanning platform
+### मानव.EXE
 
-"What if I put a bunch of security tools behind one dashboard?"
+<br>
 
-And then I actually did it.
+🟢 ONLINE
 
-`React` `FastAPI` `Nmap` `Nuclei` `Nikto`
+🧠 OVERTHINKING
 
-🔴 `DANGEROUSLY FUN`
+☕ CHARGING
+
+🐛 DEBUGGING
+
+♟️ BLUNDERING
+
+<br>
+
+**स्थिति:**  
+`चल रहा है...`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🪷 मेरी दुनिया
+
+### **परम्परा × Technology × थोड़ा Chaos**
+
+</div>
+
+<table>
+<tr>
+
+<td width="25%" align="center" bgcolor="#FFE5EC">
+
+# 🐘
+
+### GOND
+
+**प्रकृति**
+
+**जीवन**
+
+**कहानी**
+
+**रेखाएँ**
+
+</td>
+
+<td width="25%" align="center" bgcolor="#E0F7FA">
+
+# 🧑‍🌾
+
+### WARLI
+
+**लोग**
+
+**नृत्य**
+
+**जीवन**
+
+**समुदाय**
+
+</td>
+
+<td width="25%" align="center" bgcolor="#E8F5E9">
+
+# 🦚
+
+### MADHUBANI
+
+**रंग**
+
+**कथा**
+
+**प्रकृति**
+
+**मिथक**
+
+</td>
+
+<td width="25%" align="center" bgcolor="#FFF8E1">
+
+# 🪷
+
+### PATTACHITRA
+
+**कला**
+
+**कथा**
+
+**परम्परा**
+
+**अभिव्यक्ति**
+
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+
+### **पुरानी कला, नयी मशीनें।**
+
+`Ancient visual language × Modern technology`
+
+<br>
+
+*बस कला अच्छी लगती है भाई।* 😭
+
+</div>
+
+---
+
+<div align="center">
+
+# ⚔️ मेरे SIDE QUESTS
+
+### **Things I somehow decided to build**
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" bgcolor="#FFF3D6">
+
+## ⌨️ KEYTYPE
+
+### typing → ⚔️ competition
+
+`React` `TypeScript` `Socket.IO`
+
+🟡 **निर्माणाधीन**
+
+</td>
+
+<td width="50%" bgcolor="#E3F2FD">
+
+## 🛡️ SANRAKSHAK
+
+### scan → detect → protect
+
+`React` `FastAPI` `Nmap` `Nuclei`
+
+🔴 **CHAOTIC**
 
 </td>
 
@@ -296,31 +215,27 @@ And then I actually did it.
 
 <tr>
 
-<td width="50%" valign="top" bgcolor="#F3E5F5">
+<td width="50%" bgcolor="#F3E5F5">
 
-# 🧠 NEURALNETWORK
+## 🧠 NEURALNETWORK
 
-### Digital second brain
-
-Because apparently having **one brain** wasn't complicated enough.
+### मेरा दूसरा दिमाग
 
 `Next.js` `Drizzle` `PostgreSQL`
 
-🟣 `EXPERIMENTING`
+🟣 **EXPERIMENTING**
 
 </td>
 
-<td width="50%" valign="top" bgcolor="#E0F2F1">
+<td width="50%" bgcolor="#E0F2F1">
 
-# 🏥 AROGYAMITRA
+## 🏥 AROGYAMITRA
 
-### Offline-first healthcare platform
-
-Technology for frontline workers that shouldn't completely collapse when the internet disappears.
+### technology that works offline
 
 `React Native` `Django` `AI`
 
-🟢 `SERIOUS PROJECT`
+🟢 **SERIOUS BUSINESS**
 
 </td>
 
@@ -328,37 +243,27 @@ Technology for frontline workers that shouldn't completely collapse when the int
 
 <tr>
 
-<td width="50%" valign="top" bgcolor="#FFF8E1">
+<td width="50%" bgcolor="#FFF8E1">
 
-# ⚔️ COMMITMENT
+## ⚔️ COMMITMENT
 
-### Daily life tracker
-
-A productivity application made by someone who should probably be using it.
+### जीवन प्रबंधन™️
 
 `Next.js` `TypeScript`
 
-🟡 `FEATURE CREEP`
+🟡 **FEATURE CREEP**
 
 </td>
 
-<td width="50%" valign="top" bgcolor="#FCE4EC">
+<td width="50%" bgcolor="#FCE4EC">
 
-# 🗿 OTHER IDEAS
+## 🗿 SIDE QUESTS
 
-There are several.
+`AI` · `IoT` · `Web` · `Cyber`
 
-Some have repositories.
+`Random Ideas` · `Midnight Projects`
 
-Some have notebooks.
-
-Some should probably remain inside the notebook.
-
-Most started with:
-
-> "This should take two hours."
-
-**They did not.**
+🔮 **अभी बहुत कुछ बाकी है...**
 
 </td>
 
@@ -369,173 +274,102 @@ Most started with:
 
 <div align="center">
 
-# ♟️ CHESS
+# 🛠️ शस्त्रागार
 
-### The original debugging simulator.
-
-<br>
-
-<table>
-<tr>
-
-<td bgcolor="#FFF3D6">
-
-```text
-ME
-
-"I have calculated
-everything."
-
-       ↓
-
-OPPONENT
-
-e4
-
-       ↓
-
-ME
-
-"Interesting."
-
-       ↓
-
-OPPONENT
-
-Qh5
-
-       ↓
-
-ME
-
-"Very interesting."
-
-       ↓
-
-OPPONENT
-
-Qxf7#
-
-       ↓
-
-ME
-
-...
-
-       ↓
-
-STOCKFISH
-
-💀
-```
-
-</td>
-
-<td bgcolor="#E8F5E9">
-
-### Things chess taught me:
-
-**Think first.**
-
-**Move second.**
-
-**Regret immediately after.**
+### **MY WEAPON RACK**
 
 <br>
 
-Every move changes the state.
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,react,nextjs,nodejs,django,fastapi,tailwind,postgres,git,linux,docker,figma&perline=8" />
 
-Every decision creates consequences.
+<br><br>
 
-And sometimes...
+`Python`　`Java`　`TypeScript`　`JavaScript`
 
-you accidentally sacrifice your queen.
+`React`　`Next.js`　`Django`　`FastAPI`
 
-<br>
-
-### Current rating
-
-`classified information`
-
-</td>
-
-</tr>
-</table>
+`PostgreSQL`　`Linux`　`Git`　`Docker`
 
 </div>
 
 ---
 
-<div align="center">
-
-# 📚 OUTSIDE THE TERMINAL
-
-</div>
-
 <table>
 <tr>
 
-<td width="33%" bgcolor="#FFE5EC">
+<td width="50%" bgcolor="#FFF3D6">
 
-## 🏛️ HISTORY
+<div align="center">
 
-Ancient civilizations.
+# ♟️ शतरंज
 
-Indian history.
+### **Chess — debugging with horses**
 
-Architecture.
+<br>
 
-Mythology.
+🧠 **Strategy**
 
-Warfare.
+⚔️ **War**
 
-Strategy.
+🎯 **Precision**
 
-People solving ridiculous problems without Google.
+🗿 **Ego destruction**
 
-Absolute legends.
+<br>
+
+### मेरा सिद्धांत:
+
+> **सोचो।**
+
+> **चलो।**
+
+> **गलती करो।**
+
+> **फिर Stockfish खोलो।**
+
+<br>
+
+`♟️ Current rating: classified`
+
+</div>
 
 </td>
 
-<td width="33%" bgcolor="#E3F2FD">
+<td width="50%" bgcolor="#E8F5E9">
 
-## 🧠 PHILOSOPHY
+<div align="center">
 
-Sometimes I have profound thoughts.
+# 📚 कोड के बाहर
 
-Sometimes the profound thought is:
+### **Beyond the Terminal**
 
-> "If I rename this variable, will the bug disappear?"
+<br>
 
-It doesn't.
+🏛️ **इतिहास**
 
-But I rename it anyway.
+🧠 **दर्शन**
 
-</td>
+📖 **साहित्य**
 
-<td width="34%" bgcolor="#E8F5E9">
+🎮 **Games**
 
-## 📖 LITERATURE
+✍️ **लेखन**
 
-I like stories that make me:
+🪷 **भारतीय कला**
 
-**close the book**
+<br>
 
-↓
+### एक सवाल जो हमेशा रहता है:
 
-**stare at the ceiling**
+**"क्यों?"**
 
-↓
+<br>
 
-**question my life**
+और दूसरा:
 
-↓
+**"क्या इसे code किया जा सकता है?"**
 
-**open GitHub**
-
-↓
-
-**write code**
+</div>
 
 </td>
 
@@ -546,13 +380,13 @@ I like stories that make me:
 
 <div align="center">
 
-# 📊 THE ANCIENT SCROLL OF QUESTIONABLE STATISTICS
+# 📊 मेरे कर्मों का लेखा-जोखा
 
-*Recovered somewhere between my laptop and my chai.*
+### **THE SCROLLS HAVE SPOKEN**
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vrindaverse&show_icons=true&hide_border=true&bg_color=161616&title_color=FFD166&icon_color=FF6B6B&text_color=FFFFFF&ring_color=06D6A0&include_all_commits=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vrindaverse&show_icons=true&hide_border=true&bg_color=161616&title_color=FFD166&icon_color=FF6B6B&text_color=FFFFFF&include_all_commits=true&count_private=true" width="48%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vrindaverse&hide_border=true&background=161616&ring=FFD166&fire=FF6B6B&currStreakLabel=06D6A0&sideLabels=FFFFFF&dates=FFFFFF" width="48%"/>
 
@@ -564,67 +398,15 @@ I like stories that make me:
 
 ---
 
-<table>
-<tr>
+<div align="center">
 
-<td width="60%" valign="top" bgcolor="#FFF3D6">
+# 🏆 उपलब्धियाँ
 
-# 🏆 GITHUB ARCHAEOLOGY
-
-Apparently I've been leaving evidence behind.
+### **GITHUB KARMA**
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vrindaverse&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=4" width="100%"/>
-
-</td>
-
-<td width="40%" valign="top" bgcolor="#E8F5E9">
-
-# 🧾 RECENT FINDINGS
-
-```text
-commits found
-
-████████████████
-
-bugs found
-
-███████████████████
-
-bugs fixed
-
-████████
-
-bugs created
-
-████████████████████∞
-```
-
-### Archaeologist's note:
-
-> "We need more funding."
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# 🎲 RANDOM INTERMISSION
-
-<img src="https://readme-jokes.vercel.app/api?theme=default" width="500"/>
-
-<br><br>
-
-*Ancient scholars had palm-leaf manuscripts.*
-
-*I have GitHub issues.*
-
-Both contain suffering.
+<img src="https://github-profile-trophy.vercel.app/?username=Vrindaverse&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4" width="95%"/>
 
 </div>
 
@@ -635,45 +417,41 @@ Both contain suffering.
 
 <td width="25%" align="center" bgcolor="#FFE5EC">
 
-## 🐧
+# 🐧
 
 ### LINUX
 
-Learning what happens underneath the pretty buttons.
+**सिस्टम के भीतर झाँकना**
 
 </td>
 
 <td width="25%" align="center" bgcolor="#E3F2FD">
 
-## 🤖
+# 🤖
 
 ### AI / ML
 
-Trying to make machines slightly less stupid.
-
-</td>
-
-<td width="25%" align="center" bgcolor="#FFF3D6">
-
-## 🔐
-
-### CYBER
-
-Breaking things.
-
-**Responsibly.**
-
-Usually.
+**मशीनों को समझाना**
 
 </td>
 
 <td width="25%" align="center" bgcolor="#E8F5E9">
 
-## ⚙️
+# 🔐
+
+### CYBER
+
+**तोड़ो → समझो → सुरक्षित करो**
+
+</td>
+
+<td width="25%" align="center" bgcolor="#FFF3D6">
+
+# ⚙️
 
 ### SYSTEMS
 
-Trying to understand how the machinery underneath everything works.
+**नीचे क्या हो रहा है?**
 
 </td>
 
@@ -684,152 +462,117 @@ Trying to understand how the machinery underneath everything works.
 
 <div align="center">
 
-# 🌱 CURRENTLY LEARNING
+# 🌱 अभी सीख रहा हूँ
 
 <br>
 
-| 🧠  | Subject               | Status          |
-| --- | --------------------- | --------------- |
-| 🐧  | Operating Systems     | `██████████░░`  |
-| 🔐  | Cybersecurity         | `████████████░` |
-| 🤖  | Machine Learning      | `██████████░░░` |
-| ♟️  | DSA                   | `████████████░` |
-| 🖥️ | Computer Architecture | `████████░░░░░` |
-| ⚙️  | System Design         | `██████░░░░░░░` |
+🧠 **Operating Systems**
+
+🔐 **Cybersecurity**
+
+🤖 **Machine Learning**
+
+♟️ **DSA**
+
+⚙️ **Computer Architecture**
+
+🖥️ **System Design**
 
 <br>
 
-### My highly scientific learning methodology:
+### **विद्या ददाति विनयम्**
 
-```text
-       LEARN
-         ↓
-       BUILD
-         ↓
-       BREAK
-         ↓
-      PANIC
-         ↓
-       GOOGLE
-         ↓
-        FIX
-         ↓
-    "OHhhhhhh"
-         ↓
-       BUILD
-         ↓
-       REPEAT
-```
+*Knowledge gives humility.*
 
 </div>
 
 ---
+
+<br>
 
 <div align="center">
 
-# 🪷 A LITTLE SOMETHING FROM HOME
+# ☕ वर्तमान स्थिति
 
 <br>
-
-```text
-                       ☀️
-
-              🐘            🦚
-
-                 🌿  🌿  🌿
-
-              🧑‍🌾      🧑‍🎨
-               /|\       /|\
-               / \       / \
-
-                   🪷
-
-              🧑‍💻
-               /|\
-               / \
-
-          🐂              🐐
-
-                  ☕
-
-        ancient art
-             ×
-       modern problems
-```
-
-<br>
-
-### **Old ideas. New machines. Questionable decisions.**
-
-</div>
-
----
 
 <table>
 <tr>
 
-<td width="50%" bgcolor="#FFF3D6">
+<td align="center" bgcolor="#FFE5EC">
 
-## 🧠 BRAIN
+## ☕
+### CHAI
 
-`██████████████████░░`
-
-## ☕ CHAI
-
-`████████████████████`
+🔥🔥🔥🔥🔥🔥🔥
 
 </td>
 
-<td width="50%" bgcolor="#E8F5E9">
+<td align="center" bgcolor="#E3F2FD">
 
-## 😴 SLEEP
+## 😴
+### SLEEP
 
-`████░░░░░░░░░░░░░░░░`
+🔥🔥
 
-## 🐛 BUGS
+</td>
 
-`████████████████████∞`
+<td align="center" bgcolor="#E8F5E9">
+
+## 🧠
+### CURIOSITY
+
+🔥🔥🔥🔥🔥🔥🔥🔥🔥
+
+</td>
+
+<td align="center" bgcolor="#FFF3D6">
+
+## 🐛
+### BUGS
+
+♾️
 
 </td>
 
 </tr>
 </table>
 
+</div>
+
 ---
 
 <div align="center">
 
-## 👋 YOU MADE IT HERE
+<br>
 
-Respect.
+# 🪷
 
-You have successfully completed the unnecessarily long biography of one random engineer.
+## **पुरानी जड़ें । नयी सोच ।**
+
+### **Old roots. New ideas.**
 
 <br>
 
-### If something here made you smile, leave a ⭐
+🪷　🐘　🦚　🌿　☀️　♟️　💻　☕
 
 <br>
 
-🪷 `Made in India`
-
-☕ `Powered by chai`
-
-💻 `Built with code`
-
-♟️ `Occasionally ruined by chess`
-
-🗿 `Held together by questionable decisions`
+> **चरैवेति चरैवेति।**
+>
+> *Keep moving.*
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Vrindaverse&style=for-the-badge&color=FF6B6B&label=CURIOUS+VISITORS"/>
+### 🇮🇳 Made in India · ☕ Powered by Chai · 💻 Built with Curiosity
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Vrindaverse&style=for-the-badge&color=FF6B6B&label=VISITORS"/>
 
 <br><br>
 
-### `चलता रहता है।`
-
-*Keep moving.*
+`नमस्ते । फिर मिलेंगे । 👋`
 
 </div>
 
