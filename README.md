@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸 VRINDAVERSE
+# 🌸 NIKHIL MAHALIK
 
 ### `ENGINEER` · `BUILDER` · `CHESS GOBLIN`
 
