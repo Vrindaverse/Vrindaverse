@@ -6,12 +6,39 @@
 
 <sub>ichi-go ichi-e · fu-tō fu-kutsu · the more I learn, the more I know I don't know</sub>
 
+<br>
+
+[![Gmail](https://img.shields.io/badge/nikhilmahalik%40gmail.com-D4AF37?style=for-the-badge&logo=gmail&logoColor=0a0a0a&labelColor=1a0000)](mailto:nikhilmahalik@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/why--nikhil-D4AF37?style=for-the-badge&logo=linkedin&logoColor=0a0a0a&labelColor=1a0000)](https://www.linkedin.com/in/why-nikhil)
+[![GitHub](https://img.shields.io/badge/Vrindaverse-D4AF37?style=for-the-badge&logo=github&logoColor=0a0a0a&labelColor=1a0000)](https://github.com/Vrindaverse)
+
+<br>
+
+<img src="https://img.shields.io/badge/status-questing-b91c1c?style=flat-square&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/build-passing%20(mostly)-d4af37?style=flat-square&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/coffee-required-b91c1c?style=flat-square&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/sleep-optional-d4af37?style=flat-square&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/curiosity-unlimited-b91c1c?style=flat-square&labelColor=0a0a0a" />
+
 </div>
 
 <div align="center">
 <pre>
 　　　　  ⚔️  ─────────────  刀  ─────────────  ⚔️
 </pre>
+</div>
+
+<div align="center">
+
+**𝕹𝖆𝖛𝖎𝖌𝖆𝖙𝖎𝖔𝖓** &nbsp; → &nbsp;
+[whoami](#-nikhilgithub-whoami) •
+[philosophy](#-nikhilgithub-cat-philosophytxt) •
+[stats card](#-status-window) •
+[arsenal](#-nikhilgithub-arsenal) •
+[projects](#-nikhilgithub-projects) •
+[achievements](#-nikhilgithub-achievements) •
+[live stats](#-nikhilgithub-stats)
+
 </div>
 
 <br>
@@ -57,6 +84,45 @@ I like building software, breaking software, understanding systems, playing game
 │                                                        │
 └──────────────────────────────────────────────────────┘
 ```
+
+<br>
+
+## 窓 STATUS WINDOW
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  CHARACTER SHEET  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
+╠══════════════════════════════════════════════════════════╣
+║                                                            ║
+║   NAME    : Nikhil Mahalik                    CLASS: 侍   ║
+║   TITLE   : The Wandering Builder            LEVEL: ∞     ║
+║                                                            ║
+║   HP  (Health)     ████████████░░░░░░░░  62/100           ║
+║   MP  (Motivation) ██████████████████░░  91/100           ║
+║   EXP (Curiosity)  ████████████████████  MAX (overflow)   ║
+║   SP  (Sleep)       ██░░░░░░░░░░░░░░░░░░  11/100  ⚠        ║
+║                                                            ║
+║   ── STATS ──────────────────────────────                 ║
+║   STR (debugging under pressure)     ★★★★☆                ║
+║   INT (systems thinking)             ★★★★★                ║
+║   WIS (knowing when to stop)         ★★☆☆☆                ║
+║   DEX (context-switching)            ★★★★☆                ║
+║   LUK (production incidents)         ★☆☆☆☆                ║
+║                                                            ║
+║   ── EQUIPPED ───────────────────────────                 ║
+║   weapon : keyboard, mechanical, slightly cursed          ║
+║   armor  : hoodie +2 (focus resistance)                   ║
+║   ring   : caffeine dependency (passive buff/debuff)       ║
+║                                                            ║
+║   ── ACTIVE QUEST ───────────────────────                 ║
+║   "Ship it before the idea evolves into three more."       ║
+║                                                            ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 <br>
 
@@ -168,7 +234,7 @@ objective:
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ `sanrakshak`
+### 🛡️ `Sanrakshak`
 **Cybersecurity • Vulnerability Discovery**
 
 A security-focused project exploring vulnerability scanning and security tooling.
@@ -184,7 +250,7 @@ philosophy:
 </td>
 <td width="50%" valign="top">
 
-### ◈ `mithyadarpan`
+### ◈ `Mithyadarpan`
 **Cybersecurity • Systems • Exploration**
 
 An exploration into security, systems, and the things hiding beneath the surface.
@@ -216,6 +282,10 @@ An exploration into security, systems, and the things hiding beneath the surface
 
      survived the hackathon arc.
 ```
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vrindaverse&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4&title=Commits,Stars,PullRequest,Repositories,Followers,Experience" width="90%" />
 
 </div>
 
@@ -254,7 +324,7 @@ a91f2c7  feat: learn something new
 0000000  feat: repeat until enlightenment
 ```
 
-## `nikhil@github:~$ git status`
+## 状 `nikhil@github:~$ git status`
 
 ```
 On branch main
@@ -298,17 +368,17 @@ Somewhere in the space between, a wanderer learns to walk straight.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=d4af37&icon_color=b91c1c&text_color=e8c15a" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0a0a0a&stroke=d4af37&ring=b91c1c&fire=d4af37&currStreakLabel=d4af37&sideLabels=e8c15a&currStreakNum=e8c15a&sideNums=e8c15a&dates=8b7355" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Vrindaverse&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=d4af37&icon_color=b91c1c&text_color=e8c15a" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vrindaverse&hide_border=true&background=0a0a0a&stroke=d4af37&ring=b91c1c&fire=d4af37&currStreakLabel=d4af37&sideLabels=e8c15a&currStreakNum=e8c15a&sideNums=e8c15a&dates=8b7355" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=d4af37&text_color=e8c15a" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrindaverse&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=d4af37&text_color=e8c15a" width="48%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true&bg_color=0a0a0a&color=d4af37&line=b91c1c&point=e8c15a&area_color=b91c1c&area=true" width="97%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vrindaverse&hide_border=true&bg_color=0a0a0a&color=d4af37&line=b91c1c&point=e8c15a&area_color=b91c1c&area=true" width="97%" />
 
 </div>
 
 <!--
-  Replace YOUR_GITHUB_USERNAME above with your actual GitHub handle
+  Replace Vrindaverse above with your actual GitHub handle
   in all four image URLs to activate these live, auto-updating stat cards.
 -->
 
@@ -318,7 +388,7 @@ Somewhere in the space between, a wanderer learns to walk straight.
 
 ### 蛇 the blade that eats commits
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Vrindaverse/Vrindaverse/output/github-contribution-grid-snake.svg" width="100%" />
 
 </div>
 
@@ -330,7 +400,7 @@ Somewhere in the space between, a wanderer learns to walk straight.
      and add a "palette" option so it renders in gold/crimson instead of the default green —
      the snk README documents the color customization flags.
   4. Commit — GitHub Actions will generate the animated SVG automatically
-  5. Replace YOUR_GITHUB_USERNAME above with your handle
+  5. Replace Vrindaverse above with your handle
 -->
 
 <br>
@@ -340,10 +410,13 @@ Somewhere in the space between, a wanderer learns to walk straight.
 ```
 ╭──────────────────────────────────────────────────────╮
 │                                                        │
-│      "You do not have to know everything.             │
-│       You just have to remain curious."                │
+│      A wanderer draws no map —                        │
+│      only a direction, and the will to keep walking.   │
 │                                                        │
-│                         — Nikhil, probably             │
+│      Every field mastered is just the entrance         │
+│      to a bigger one.                                  │
+│                                                        │
+│                          — Nikhil, probably 2AM         │
 │                                                        │
 ╰──────────────────────────────────────────────────────╯
 ```
@@ -354,8 +427,8 @@ Somewhere in the space between, a wanderer learns to walk straight.
 
 *until the next rabbit hole.*
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=SESSIONS+OPENED&color=00ff41&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Vrindaverse&label=WANDERERS%20WHO%20PASSED%20THROUGH&color=b91c1c&style=flat&labelColor=0a0a0a" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0f0f0f&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:3d0000,100:1a0000&height=140&section=footer" width="100%"/>
 
 </div>
