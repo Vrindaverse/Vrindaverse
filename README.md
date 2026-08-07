@@ -99,7 +99,7 @@ I like building software, breaking software, understanding systems, playing game
 <tr>
 <td width="28%" align="center" valign="middle">
 
-<img src="assets/nikhil.gif" width="220" alt="Nikhil"/>
+<img src="https://user-images.githubusercontent.com/PASTE_YOUR_IMAGE_ID_HERE" width="220" alt="Nikhil"/>
 
 </td>
 <td width="72%">
@@ -129,7 +129,7 @@ I like building software, breaking software, understanding systems, playing game
 </tr>
 </table>
 
-<sub>📎 Swap `assets/nikhil.gif` for your own gif — just drop the file into an `assets/` folder in the `Vrindaverse/Vrindaverse` repo and it'll show up automatically. No SVG, no extra setup.</sub>
+<sub>📎 To add your gif with zero extra files: open any GitHub issue or comment box (on any repo, doesn't matter which), drag your gif into it, and GitHub instantly gives you a hosted URL like `https://user-images.githubusercontent.com/...`. You don't even have to submit the comment — just copy that URL and paste it in place of the placeholder above. The gif then lives on GitHub's own servers, not your repo.</sub>
 
 <br>
 
@@ -400,53 +400,7 @@ Somewhere in the space between, a wanderer learns to walk straight.
 
 </div>
 
-<sub>📎 If the overview or top-langs card ever shows a broken image while streak/activity-graph work fine — that's not your setup, it's Vercel rate-limiting the shared `github-readme-stats.vercel.app` instance (a known, common issue since it's free and shared by thousands of profiles). It usually clears within a few minutes on refresh. If it keeps happening, the permanent fix is forking <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> and deploying your own copy to Vercel (one click, free), then swapping the domain in the two URLs above for your own.</sub>
-
-<br>
-
-<div align="center">
-
-### 蛇 the blade that eats commits
-
-<img src="https://raw.githubusercontent.com/Vrindaverse/Vrindaverse/output/github-contribution-grid-snake.svg" width="100%" />
-
-</div>
-
-<sub>📎 This is currently a broken image because it needs a **one-time setup** — the file it points to doesn't exist until a GitHub Action generates it. Create `.github/workflows/snake.yml` in the `Vrindaverse/Vrindaverse` repo with this exact content, then push it:</sub>
-
-```yaml
-name: generate snake
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: Vrindaverse
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#E8899A
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-<sub>After it pushes to the `output` branch (check the Actions tab — first run takes ~1–2 min), the image above starts rendering automatically. No further maintenance needed; it re-runs every 6 hours.</sub>
+<sub>📎 If the overview or top-langs card ever shows a broken image while streak/activity-graph work fine — that's not your setup, it's Vercel rate-limiting the shared `github-readme-stats.vercel.app` instance (a known, common issue since it's free and shared by thousands of profiles). It usually clears within a few minutes on refresh.</sub>
 
 <br>
 
