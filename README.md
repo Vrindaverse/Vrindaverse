@@ -1,120 +1,26 @@
+````markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=175&section=header&text=NIKHIL%20MAHALIK&fontSize=48&fontColor=F7F1E8&fontAlignY=48&color=1F2933" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        THE GATEWAY                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=17&duration=2100&pause=700&color=C96B4B&center=true&vCenter=true&repeat=true&width=900&height=55&lines=ENGINEER+%2F+BUILDER+%2F+PROFESSIONAL+OVERTHINKER;DESI+SOUL.+TERMINAL+BRAIN.+CHILL+GUY.;BUILD+%E2%80%A2+BREAK+%E2%80%A2+LEARN+%E2%80%A2+CHAI+%E2%80%A2+REPEAT;SERIOUS+ABOUT+THE+WORK.+NOT+ABOUT+MYSELF." />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9933,50:FFFFFF,100:138808&height=220&section=header&text=नमस्ते,%20I'm%20Nikhil%20Mahalik&fontSize=38&fontColor=222222&animation=fadeIn&fontAlignY=35&desc=Engineer%20%7C%20Builder%20%7C%20Chess%20Player%20%7C%20Professional%20Overthinker&descAlignY=58&descSize=17"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-F7F1E8?style=for-the-badge&labelColor=C96B4B&color=1F2933"/>
-<img src="https://img.shields.io/badge/VIBE-CHILL-F7F1E8?style=for-the-badge&labelColor=5E7890&color=1F2933"/>
-<img src="https://img.shields.io/badge/CHAI-REQUIRED-F7F1E8?style=for-the-badge&labelColor=C8A44D&color=1F2933"/>
-<img src="https://img.shields.io/badge/SLEEP-OPTIONAL-F7F1E8?style=for-the-badge&labelColor=7C8F68&color=1F2933"/>
+### ⚔️ `धर्मो रक्षति रक्षितः`
 
-<br><br>
+**Build things. Break things. Learn things. Repeat.**
 
-<a href="mailto:nikhilmahalik@gmail.com"><img src="https://img.shields.io/badge/EMAIL-F7F1E8?style=for-the-badge&logo=gmail&logoColor=C96B4B&labelColor=F7F1E8&color=1F2933"/></a>
-<a href="https://www.linkedin.com/in/why-nikhil"><img src="https://img.shields.io/badge/LINKEDIN-F7F1E8?style=for-the-badge&logo=linkedin&logoColor=5E7890&labelColor=F7F1E8&color=1F2933"/></a>
-<a href="https://github.com/Vrindaverse"><img src="https://img.shields.io/badge/GITHUB-F7F1E8?style=for-the-badge&logo=github&logoColor=1F2933&labelColor=F7F1E8&color=1F2933"/></a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Vrindaverse&label=VISITORS&style=for-the-badge&color=5E7890&labelColor=F7F1E8"/>
-
-</div>
-
----
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    नमस्ते / WHOAMI                         ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   NIKHIL MAHALIK                                             ║
-║   Engineer • Builder • Curious Human                         ║
-║                                                              ║
-║   Linux       ██████████████████░░  main character           ║
-║   Cyber       ███████████████░░░░░  learning                 ║
-║   AI / ML     █████████████░░░░░░░  cooking                  ║
-║   Web         █████████████████░░░  shipping                 ║
-║   Chess       ███████░░░░░░░░░░░░░  blundering               ║
-║                                                              ║
-║   CURRENT QUEST → understand systems, build useful things    ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<table>
-<tr>
-<td width="62%" valign="top">
-
-## `profile.exe`
-
-```text
-NAME       Nikhil Mahalik
-ROLE       Engineer
-BASE       Bhopal, India
-CLASS      Builder
-VIBE       Chill
-ALIGNMENT  Curious Neutral
-WEAPON     Keyboard
-SIDEQUEST  Chess
-```
-
-**Into:**  
-`Linux` `Cybersecurity` `AI/ML` `Web Dev`  
-`Chess` `Anime` `Games` `Literature` `Philosophy`
-
-> I like building things, understanding how they work,
-> and occasionally creating bugs with enough confidence
-> to call them "features."
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=2300&pause=800&color=5E7890&center=false&vCenter=true&repeat=true&width=600&height=35&lines=%3E+curiosity+%3E+comfort;%3E+understanding+%3E+memorising;%3E+ship+it+%3E+learn+%3E+repeat" />
-
-</td>
-
-<td width="38%" align="center">
-
-<!-- Put your SVG here -->
-<img src="./assets/nikhil.svg" width="285" alt="Nikhil"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=FF9933&center=true&vCenter=true&width=700&lines=Engineer+by+education%2C+builder+by+choice.;Writing+code+%26+occasionally+poetry.;Chess+player+%7C+professional+blunderer.;Trying+to+make+machines+slightly+less+stupid.;भारत+से+%E2%9D%A4%EF%B8%8F+with+code.;Currently+forging+my+own+path..."/>
 
 <br>
 
-<sub>your SVG / character art goes here</sub>
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## `DESI BRUTALISM // DESIGN SYSTEM`
-
-<img src="https://img.shields.io/badge/INDIGO-243B53-F7F1E8?style=flat-square"/>
-<img src="https://img.shields.io/badge/TERRACOTTA-C96B4B-F7F1E8?style=flat-square"/>
-<img src="https://img.shields.io/badge/HALDI-C8A44D-1F2933?style=flat-square"/>
-<img src="https://img.shields.io/badge/NEEM-7C8F68-F7F1E8?style=flat-square"/>
-<img src="https://img.shields.io/badge/PARCHMENT-F7F1E8-1F2933?style=flat-square"/>
-
-<br><br>
-
-```text
-        ╱╲        ╱╲        ╱╲
-       ╱  ╲  ◈   ╱  ╲  ◈   ╱  ╲
-      ╱────╲    ╱────╲    ╱────╲
-      │ ◇  │    │  ◇ │    │ ◇  │
-      ╲────╱    ╲────╱    ╲────╱
-       ╲  ╱      ╲  ╱      ╲  ╱
-        ╲╱        ╲╱        ╲╱
-
-          brutalist terminal / desi geometry
-```
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF9933?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=138808)](https://github.com/YOUR_USERNAME)
 
 </div>
 
@@ -122,9 +28,159 @@ SIDEQUEST  Chess
 
 <div align="center">
 
-## `ARSENAL`
+## 🪷 WHO AM I?
 
-<img src="https://skillicons.dev/icons?i=linux,arch,git,github,python,js,ts,cpp,c,java,go,react,nextjs,nodejs,express,postgres,mongodb,docker,html,css,tailwind,figma&theme=light&perline=11"/>
+</div>
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   🇮🇳  Indian engineer                                     │
+│                                                             │
+│   ⚔️  Building software with a samurai mindset              │
+│                                                             │
+│   ♟️  Chess player — occasionally defeats himself           │
+│                                                             │
+│   📚  Philosophy + Literature enjoyer                       │
+│                                                             │
+│   🧠  AI / ML / Systems / Cybersecurity enthusiast           │
+│                                                             │
+│   🛠️  I like understanding how things work                 │
+│       all the way down to "why did this damn thing break?"  │
+│                                                             │
+│   ☕  Powered by chai, curiosity & questionable decisions    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+````
+
+> **"The obstacle is the way."**
+
+I don't particularly enjoy the idea of being *just* a developer.
+
+I want to understand **systems**.
+
+From pixels on a screen → to APIs → databases → operating systems → hardware → networks → intelligence.
+
+And somewhere between all of that, I write, play chess, read strange books and question my life choices.
+
+---
+
+<div align="center">
+
+## 🇮🇳 ROOTS
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF9933&height=3&section=header"/>
+
+### `भारत`
+
+**परंपरा से प्रेरणा । विज्ञान से निर्माण । भविष्य की ओर प्रस्थान ।**
+
+</div>
+
+I come from a culture that gave the world:
+
+* 🕉️ **Zero**
+* ♟️ **Chess / Chaturanga**
+* 📐 **Mathematics**
+* 🧘 **Yoga**
+* 📚 **Ancient literature & philosophy**
+* 🔭 **Astronomy**
+* 🛕 **Architecture**
+* ⚔️ **Stories of discipline, strategy and resilience**
+
+I don't want to preserve culture by putting it behind glass.
+
+I want to **carry its spirit into what I build.**
+
+---
+
+<div align="center">
+
+## ⚔️ THE SAMURAI CODE
+
+</div>
+
+```text
+            ┌─────────────────────────┐
+            │       THE WAY            │
+            ├─────────────────────────┤
+            │                         │
+            │   義  GI     — Justice  │
+            │   勇  YU     — Courage  │
+            │   仁  JIN    — Mercy    │
+            │   礼  REI    — Respect  │
+            │   誠  MAKOTO — Honesty  │
+            │   名誉 MEIYO — Honor    │
+            │   忠  CHU    — Loyalty  │
+            │                         │
+            └─────────────────────────┘
+
+                 ⚔️
+
+       "A sharp sword means nothing
+        in an undisciplined hand."
+```
+
+### My engineering philosophy
+
+**Learn deeply.**
+
+**Build relentlessly.**
+
+**Stay humble.**
+
+**Don't pretend to know what you don't.**
+
+**And if something breaks...**
+
+```bash
+$ git status
+
+💀 everything is broken
+
+$ git commit -m "probably fixed it"
+
+$ git push
+
+🚀 pray
+```
+
+---
+
+<div align="center">
+
+## 🧰 THE ARSENAL
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square\&logo=framer\&logoColor=white)
+
+### Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square\&logo=drizzle\&logoColor=black)
+
+### Systems / DevOps / Other
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square\&logo=arduino\&logoColor=white)
 
 </div>
 
@@ -132,194 +188,180 @@ SIDEQUEST  Chess
 
 <div align="center">
 
-## `CURRENTLY COOKING`
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🧸
-**COMMITMENTS**
-
-daily-life tracker
-
-</td>
-<td align="center" width="25%">
-
-### ⌨️
-**KEYTYPE**
-
-multiplayer typing
-
-</td>
-<td align="center" width="25%">
-
-### 🛡️
-**SANRAKSHAK**
-
-security tooling
-
-</td>
-<td align="center" width="25%">
-
-### 👁️
-**MITHYADARPAN**
-
-systems / cyber
-
-</td>
-</tr>
-</table>
+## 🏯 PROJECTS FROM THE FORGE
 
 </div>
+
+### ⌨️ KeyType
+
+> *"What if typing practice had the emotional intensity of a boss fight?"*
+
+A multiplayer typing arena where people compete, chat and absolutely destroy their WPM while pretending accuracy doesn't matter.
+
+**Stack:** React · TypeScript · Tailwind · Socket.IO · PostgreSQL
+
+---
+
+### 🛡️ Sanrakshak
+
+> *A digital guardian that looks for things you're hoping it doesn't find.*
+
+A vulnerability scanning platform designed to bring multiple security tools into one interface.
+
+**Stack:** React · FastAPI · PostgreSQL · Nmap · Nuclei · Nikto · SQLMap
+
+---
+
+### 🧠 NeuralNetwork
+
+> *My attempt at building a second brain.*
+
+A Notion-inspired knowledge management system focused on writing, organizing and connecting ideas.
+
+**Stack:** Next.js · TypeScript · Drizzle · PostgreSQL · GSAP
+
+---
+
+### 🏥 ArogyaMitra
+
+> *Technology should work even when the internet doesn't.*
+
+An offline-first platform designed to help frontline healthcare workers manage information, workflows and patient interactions.
+
+**Stack:** React Native · Django · PostgreSQL · Socket.IO · AI
+
+---
+
+### ⚔️ Commitment
+
+> *Because apparently remembering to do things is a difficult engineering problem.*
+
+A personal project for managing daily life, habits, tasks and commitments.
+
+**Status:** `under construction because I keep adding features instead of using it`
 
 ---
 
 <div align="center">
 
-## `CHAI BREAK // SYSTEM MONITOR`
-
-```text
-┌────────────────────────────────────────────────────┐
-│                                                    │
-│  productivity      ███████████████░░░░   78%      │
-│  curiosity         ████████████████████  100%      │
-│  sleep             ░░░░░░░░░░░░░░░░░░░   02%      │
-│  sanity            ██████░░░░░░░░░░░░░   31%      │
-│  chai dependency   ████████████████████  99%      │
-│                                                    │
-│  SYSTEM MESSAGE: sab changa si.                   │
-│                                                    │
-└────────────────────────────────────────────────────┘
-```
+## ♟️ CHESS — THE ORIGINAL ALGORITHM
 
 </div>
+
+```text
+        ♜  ♞  ♝  ♛  ♚  ♝  ♞  ♜
+        ♟  ♟  ♟  ♟  ♟  ♟  ♟  ♟
+
+        ·  ·  ·  ·  ·  ·  ·  ·
+        ·  ·  ·  ·  ·  ·  ·  ·
+
+        ·  ·  ·  ·  ·  ·  ·  ·
+        ·  ·  ·  ·  ·  ·  ·  ·
+
+        ♙  ♙  ♙  ♙  ♙  ♙  ♙  ♙
+        ♖  ♘  ♗  ♕  ♔  ♗  ♘  ♖
+
+                 ↓
+
+          THINK → CALCULATE
+             ↓
+           BLUNDER
+             ↓
+          "interesting..."
+             ↓
+          PLAY AGAIN
+```
+
+I like chess because it teaches something software engineering eventually teaches you too:
+
+> **Every move creates consequences.**
+
+And yes, sometimes I sacrifice my queen because I "saw something."
+
+I did not see something.
 
 ---
 
 <div align="center">
 
-## `MEME COMPILER`
-
-```text
-INPUT:
-"I'll make a small project."
-
-COMPILER OUTPUT:
-
-        project
-           │
-           ▼
-      one feature
-           │
-           ▼
-    "better architecture"
-           │
-           ▼
-       refactor
-           │
-           ▼
-     new framework
-           │
-           ▼
-       new idea
-           │
-           ▼
-      47 tabs open
-           │
-           ▼
-       chai.exe
-           │
-           ▼
-       production
-```
+## 📚 BEYOND CODE
 
 </div>
+
+I'm fascinated by things that have absolutely no business being on the same GitHub profile.
+
+### 🧠 Philosophy
+
+Questions like:
+
+* What makes a good life?
+* How much of our personality is actually chosen?
+* Why do humans keep repeating the same mistakes?
+* What does discipline actually mean?
+* Is intelligence useful without wisdom?
+
+### 📖 Literature
+
+I like stories that make you stare at the ceiling after finishing them.
+
+### 🎮 Games
+
+Games are fascinating because they're basically:
+
+**systems + psychology + storytelling + design + controlled suffering.**
+
+### 🏛️ History
+
+Especially civilizations, warfare, strategy, technology and the evolution of ideas.
 
 ---
 
 <div align="center">
 
-## `CHESS.EXE`
-
-```text
-ME       : I calculated 7 moves ahead.
-
-ALSO ME  : hangs queen in 4.
-
-ENGINE   :  ████████████████████  -8.7
-
-ME       : "interesting position."
-```
+## 🧪 CURRENTLY EXPERIMENTING WITH
 
 </div>
 
----
+```yaml
+learning:
+  - Data Structures & Algorithms
+  - Operating Systems
+  - Computer Architecture
+  - Cybersecurity
+  - Machine Learning
+  - Distributed Systems
 
-<details>
-<summary>💀 <b>developer incident report</b></summary>
+building:
+  - Web applications
+  - Developer tools
+  - AI experiments
+  - Weird side projects
+  - Things I probably don't need
 
-```text
-[02:11] one tiny fix
-[02:18] three files changed
-[02:31] architecture redesigned
-[02:47] package installed
-[03:02] package destroyed everything
-[03:16] package fixed
-[03:17] original bug was one typo
-[03:19] stared at wall
-[03:21] git commit
-[03:22] chai
+exploring:
+  - Linux internals
+  - Embedded systems
+  - IoT
+  - UI/UX
+  - Systems programming
+
+trying_to_understand:
+  - "How does everything actually work?"
 ```
-
-</details>
-
-<details>
-<summary>🗿 <b>project folder — definitely organised</b></summary>
-
-```text
-~/projects
-
-├── finished/
-├── almost-finished/
-├── unfinished/
-├── experiments/
-├── "quick-side-project"/
-├── final/
-├── final-final/
-└── final-final-REAL/
-```
-
-</details>
-
-<details>
-<summary>🌶️ <b>desi developer mode</b></summary>
-
-```text
-Mom: "Beta, computer pe kya kar rahe ho?"
-
-Me: "Project."
-
-Project: doesn't compile.
-
-Me: "Research."
-```
-
-</details>
 
 ---
 
 <div align="center">
 
-## `ANIME ARC`
+## 📊 BATTLEFIELD STATISTICS
 
-<img src="https://media.giphy.com/media/12CSpwCtoy1Vfy/giphy.gif" width="270"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=FF9933&icon_color=138808&text_color=888888"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=FF9933&fire=FF9933&currStreakLabel=138808"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/TRAINING%20ARC-PERMANENT-F7F1E8?style=for-the-badge&labelColor=C96B4B&color=1F2933"/>
-<img src="https://img.shields.io/badge/PLOT%20ARMOR-QUESTIONABLE-F7F1E8?style=for-the-badge&labelColor=5E7890&color=1F2933"/>
-<img src="https://img.shields.io/badge/CHARACTER%20DEVELOPMENT-IN%20PROGRESS-F7F1E8?style=for-the-badge&labelColor=7C8F68&color=1F2933"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=FF9933&text_color=888888"/>
 
 </div>
 
@@ -327,83 +369,93 @@ Me: "Research."
 
 <div align="center">
 
-## `CONTRIBUTION MATRIX`
+## 🐍 THE SNAKE HAS ENTERED THE TEMPLE
 
-<!-- Animated contribution snake.
-     Requires the GitHub Action described below the README. -->
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
-<img src="https://raw.githubusercontent.com/Vrindaverse/Vrindaverse/output/github-contribution-grid-snake.svg" width="96%" alt="Animated contribution graph"/>
+</div>
+
+---
+
+<div align="center">
+
+## 🗡️ A FEW WORDS I LIVE BY
+
+### 「七転八起」
+
+**Nana korobi ya oki**
+
+*Fall seven times. Stand up eight.*
 
 <br>
 
-<a href="https://github.com/Vrindaverse">
-<img src="https://img.shields.io/badge/OPEN%20INTERACTIVE%20GITHUB%20CALENDAR-F7F1E8?style=for-the-badge&logo=github&logoColor=1F2933&labelColor=C8A44D&color=1F2933"/>
-</a>
+> **"We are what we repeatedly do."**
 
-<br><br>
+<br>
 
-<sub>
-The README shows the animated version. Click above for GitHub's real hoverable contribution calendar.
-</sub>
-
-</div>
-
----
-
-<div align="center">
-
-## `BATTLE STATS`
-
-<a href="https://github.com/Vrindaverse">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vrindaverse&theme=default&bg_color=F7F1E8&title_color=1F2933&text_color=596273&icon_color=C96B4B&border_color=C8A44D" width="48%" alt="GitHub statistics"/>
-</a>
-
-<a href="https://github.com/Vrindaverse?tab=repositories">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vrindaverse&theme=default&bg_color=F7F1E8&title_color=1F2933&text_color=596273&icon_color=5E7890&border_color=7C8F68" width="48%" alt="Repositories by language"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/Vrindaverse">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vrindaverse&theme=default&bg_color=F7F1E8&title_color=1F2933&text_color=596273&icon_color=C96B4B&border_color=C8A44D" width="96%" alt="GitHub profile activity"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/Vrindaverse?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-F7F1E8?style=for-the-badge&logo=github&logoColor=1F2933&labelColor=C96B4B&color=1F2933"/></a>
-<a href="https://github.com/Vrindaverse?tab=stars"><img src="https://img.shields.io/badge/STARS-F7F1E8?style=for-the-badge&logo=github&logoColor=1F2933&labelColor=C8A44D&color=1F2933"/></a>
-<a href="https://github.com/Vrindaverse?tab=followers"><img src="https://img.shields.io/badge/FOLLOWERS-F7F1E8?style=for-the-badge&logo=github&logoColor=1F2933&labelColor=7C8F68&color=1F2933"/></a>
-
-</div>
-
----
-
-<div align="center">
-
-## `GIT STATUS`
+### And my personal version:
 
 ```text
-On branch: becoming-better
-
-modified:
-    curiosity
-    discipline
-    patience
-
-untracked:
-    ideas/
-    books/
-    anime/
-    unfinished-projects/
-
-status:
-    still going.
+Fall.
+    Debug.
+        Learn.
+            Build.
+                Repeat.
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=14&duration=2300&pause=700&color=C96B4B&center=true&vCenter=true&repeat=true&width=760&height=38&lines=build+cool+things;%F0%9F%8C%B6+stay+curious;%E2%98%95+drink+chai;%F0%9F%A7%A0+learn+something+weird;%E2%9A%94%EF%B8%8F+repeat" />
+---
 
-<br><br>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=90&section=footer&text=CHILL+GUY.+SERIOUS+PROJECTS.&fontSize=20&fontColor=F7F1E8&color=1F2933" width="100%"/>
+## 🌅 THE ROAD AHEAD
+
+```text
+                    ┌──────────────┐
+                    │   CURIOSITY  │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │   LEARNING   │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │   BUILDING   │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │   FAILURE    │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │   WISDOM     │
+                    └──────┬───────┘
+                           │
+                           └──────────────► REPEAT
+```
+
+### I don't want to be the best developer.
+
+### I want to become the kind of person who can build whatever he imagines.
 
 </div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:138808,50:FFFFFF,100:FF9933&height=120&section=footer"/>
+
+### ⚔️ ॐ · Build with purpose · ♟️
+
+**Made with ☕, curiosity, and an unreasonable amount of Git commits.**
+
+<br>
+
+`भारत 🇮🇳  ×  Code 💻  ×  Philosophy 🧠  ×  Chaos ☕`
+
+</div>
+```
