@@ -1,443 +1,456 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=210&section=header&text=侍%20NIKHIL%20MAHALIK&fontSize=46&fontColor=F2E9E4&fontAlignY=43&desc=流浪者%20•%20RONIN%20•%20ENGINEER%20•%20THINKER%20•%20CHAOS%20ENGINE&descAlignY=67&descSize=14&descColor=B8B0AA" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         RONIN HEADER                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:120808,100:2A0F0F&height=230&section=header&text=侍%20NIKHIL%20MAHALIK&fontSize=48&fontColor=E8DCC8&fontAlignY=40&desc=RONIN%20%E2%80%A2%20ENGINEER%20%E2%80%A2%20THINKER%20%E2%80%A2%20WANDERER&descAlignY=63&descSize=15&descColor=A99B88" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=19&duration=3200&pause=900&color=D98B8B&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=一期一会+—+this+moment+will+never+come+again;不撓不屈+—+never+bending%2C+never+yielding;build+something+interesting%2C+break+it%2C+understand+why;checkmate+was+probably+my+fault" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=850&color=C43C3C&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=95&lines=刀%E3%82%92%E7%A0%94%E3%81%90+%E2%80%94+sharpen+the+blade;%E5%BF%83%E3%82%92%E7%A3%A8%E3%81%8F+%E2%80%94+sharpen+the+mind;build+%E2%80%A2+break+%E2%80%A2+understand+%E2%80%A2+repeat;checkmate+is+just+another+form+of+humility" />
 
 <br>
 
-<sub>
-<strong>ichi-go ichi-e</strong> · <strong>fu-tō fu-kutsu</strong> ·
-the more I learn, the more suspicious I become of my own knowledge
-</sub>
+<img src="https://img.shields.io/badge/%E4%B8%80%E6%9C%9F%E4%B8%80%E4%BC%9A-ICHIGO%20ICHIE-050505?style=for-the-badge&labelColor=8B1E1E&color=D6B86A"/>
+<img src="https://img.shields.io/badge/%E4%B8%8D%E6%92%93%E4%B8%8D%E5%B1%88-FU%E2%80%91T%C5%8D%20FU%E2%80%91KUTSU-050505?style=for-the-badge&labelColor=8B1E1E&color=D6B86A"/>
 
 <br><br>
 
-[![Gmail](https://img.shields.io/badge/Email-nikhilmahalik%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=F2E9E4&labelColor=8B5E5E)](mailto:nikhilmahalik@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-why--nikhil-111111?style=for-the-badge&logo=linkedin&logoColor=F2E9E4&labelColor=5F7563)](https://www.linkedin.com/in/why-nikhil)
-[![GitHub](https://img.shields.io/badge/GitHub-Vrindaverse-111111?style=for-the-badge&logo=github&logoColor=F2E9E4&labelColor=8A7350)](https://github.com/Vrindaverse)
+<a href="mailto:nikhilmahalik@gmail.com">
+<img src="https://img.shields.io/badge/MAIL-050505?style=for-the-badge&logo=gmail&logoColor=E8DCC8&labelColor=8B1E1E"/>
+</a>
+<a href="https://www.linkedin.com/in/why-nikhil">
+<img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=E8DCC8&labelColor=5C6B5A"/>
+</a>
+<a href="https://github.com/Vrindaverse">
+<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=E8DCC8&labelColor=8A6A32"/>
+</a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/status-questing-D98B8B?style=flat-square&labelColor=111111" />
-<img src="https://img.shields.io/badge/build-passing%20(mostly)-7F9B83?style=flat-square&labelColor=111111" />
-<img src="https://img.shields.io/badge/bugs-self%20generated-8A7350?style=flat-square&labelColor=111111" />
-<img src="https://img.shields.io/badge/chess-rating-under%20investigation-9B8A9B?style=flat-square&labelColor=111111" />
-<img src="https://img.shields.io/badge/sleep-deprecated-7A6A61?style=flat-square&labelColor=111111" />
+<img src="https://img.shields.io/badge/STATUS-ROAMING-C43C3C?style=flat-square&labelColor=050505"/>
+<img src="https://img.shields.io/badge/BUILD-MOSTLY%20ALIVE-6F8A72?style=flat-square&labelColor=050505"/>
+<img src="https://img.shields.io/badge/BUGS-HOMEMADE-8A6A32?style=flat-square&labelColor=050505"/>
+<img src="https://img.shields.io/badge/SLEEP-CLASSIFIED-6F596F?style=flat-square&labelColor=050505"/>
 
 </div>
 
 <br>
-
-<div align="center">
-
-<pre>
-                    ⚔️  ─────────────  刀  ─────────────  ⚔️
-</pre>
-
-**A wandering engineer trying to understand things before they become obsolete.**
-
-</div>
-
----
-
-<div align="center">
-
-**Navigation**
-
-`whoami` • `philosophy` • `arsenal` • `projects` • `chess` • `lore` • `stats`
-
-</div>
-
----
-
-## ⚔️ `nikhil@github:~$ whoami`
-
-```yaml
-name:        Nikhil Mahalik
-
-class:       Engineer
-subclass:    Professional Overthinker
-
-alignment:   Curious Chaotic
-weapon:      Keyboard
-secondary:   Chessboard
-armor:       Questionable confidence
-
-current_quest:
-  - build useful things
-  - understand how things work
-  - break things occasionally
-  - learn from the wreckage
-  - repeat
-
-passive_skill:
-  - falling into extremely specific rabbit holes
-
-known_bug:
-  - "I'll sleep after this one last thing"
-
-rare_drop:
-  - actually finishing the thing
-```
-
-I build software because **making things is more interesting than merely using them**.
-
-I like understanding systems from the inside — how software works, how people think, why ideas survive, why systems fail, and why one missing semicolon can turn a peaceful evening into a character-development arc.
-
-Outside code, you'll usually find me somewhere between:
-
-**♟️ chess · 📚 literature · 🧠 philosophy · 🎮 games · ⚔️ history · ☕ questionable decisions**
-
-I don't particularly enjoy staying inside one box.
-
-There are too many rabbit holes.
-
----
-
-## 🧠 `nikhil@github:~$ cat philosophy.txt`
 
 <div align="center">
 
 ```text
-A blade left unsharpened is decoration.
-A mind left unquestioned is noise.
+                         ⚔
+              ━━━━━━━━━━━━━━━━━━━━━━━
+                    侍  ・  侍  ・  侍
+              ━━━━━━━━━━━━━━━━━━━━━━━
 
-Frameworks change.
-Languages change.
-Tools become obsolete.
-
-Understanding remains.
-
-I am interested in the things behind the things:
-
-why systems work,
-why people think,
-why ideas survive,
-why civilizations rise and fall,
-why a 10-line bug takes 4 hours to find,
-and why the best ideas arrive at 2:17 AM
-when absolutely nobody asked for them.
-
-The goal isn't to know everything.
-
-The goal is to remain curious enough
-to realize how much I don't know.
+                 "The sword is only a tool.
+                  The mind chooses where it cuts."
 ```
+
+</div>
+
+---
+
+<div align="center">
+
+`WHOAMI`　`WAY`　`ARSENAL`　`QUESTS`　`CHESS`　`LORE`　`STATS`
+
+</div>
+
+---
+
+# ⚔️ `nikhil@github:~$ whoami`
+
+```yaml
+┌──────────────────────────────────────────────────────────────┐
+│                         RONIN PROFILE                         │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  name        : Nikhil Mahalik                               │
+│  class       : Engineer                                     │
+│  title       : Wandering Builder                            │
+│  alignment   : Curious Chaotic                              │
+│  weapon      : Keyboard                                     │
+│  secondary   : Chessboard                                   │
+│  territory   : Linux / Code / Rabbit Holes                  │
+│                                                              │
+│  creed       : understand before worshipping                 │
+│  weakness    : "one last feature"                            │
+│  passive     : turning questions into projects               │
+│  ultimate    : becoming dangerously good at learning         │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+I build software because **using a thing is interesting — understanding how it works is better.**
+
+I like systems, engineering, cybersecurity, AI, Linux and the strange machinery underneath polished interfaces.
+
+But code is only one battlefield.
+
+I also wander through:
+
+**♟️ chess · 📚 literature · 🧠 philosophy · 🎮 games · ⚔️ history · 🥋 Japanese culture · ✍️ writing**
+
+I don't collect interests.
+
+I collect **rabbit holes**.
+
+---
+
+# 🥷 `nikhil@github:~$ cat creed.txt`
+
+<div align="center">
+
+```text
+        ┌──────────────────────────────────────────────┐
+        │                 THE RONIN CODE                │
+        └──────────────────────────────────────────────┘
+
+        Learn before claiming.
+        Question before believing.
+        Build before complaining.
+        Practice before boasting.
+        Fall without becoming bitter.
+        Win without becoming arrogant.
+
+        A sharp blade is useful.
+        A sharp mind is dangerous.
+
+        The objective is not perfection.
+
+        The objective is mastery.
+        One mistake.
+        One lesson.
+        One step.
+        Again.
+```
+
+</div>
+
+> **七転八起 — Nana Korobi Ya Oki**  
+> *Fall seven times. Rise eight.*
+
+---
+
+# 🩸 `nikhil@github:~$ ./battlefield`
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                         BATTLEFIELD                         ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  ⚔️  ENGINEERING       ███████████████████░░░   ACTIVE       ║
+║  🛡️  CYBERSECURITY     ████████████████░░░░░   HUNTING      ║
+║  🧠  AI / ML           ███████████████░░░░░░   TRAINING     ║
+║  🐧  LINUX             ██████████████████░░░   HOME         ║
+║  ♟️  CHESS             ███████████░░░░░░░░░   HUMBLING      ║
+║  📚  LITERATURE        █████████████░░░░░░░   READING       ║
+║  🧘  PHILOSOPHY        ██████████░░░░░░░░░░   QUESTIONING   ║
+║  🎮  GAMES             ███████████████░░░░░░   "RESEARCH"   ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+# 🗡️ `nikhil@github:~$ ./arsenal`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,arch,git,github,python,js,ts,cpp,c,java,go,react,nextjs,nodejs,express,postgres,mongodb,docker,html,css,tailwind,figma&theme=dark&perline=11"/>
 
 </div>
 
 <br>
 
-> **「七転八起」 — nana korobi ya oki**  
-> Fall seven times, stand up eight.
+```text
+┌──────────────────────────────────────────────────────┐
+│                    WEAPONS ARE TOOLS                 │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  Languages    →  Python / JS / TS / C / C++ / Java  │
+│  Frontend     →  React / Next.js / Tailwind         │
+│  Backend      →  Node / Express / APIs              │
+│  Data         →  PostgreSQL / MongoDB                │
+│  Systems      →  Linux / Git / Docker               │
+│  Design       →  Figma / UI / UX                     │
+│                                                      │
+│  Philosophy   →  fundamentals > hype                 │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+I don't marry frameworks.
+
+**I use whatever gets the job done.**
 
 ---
 
-## 🗡️ `nikhil@github:~$ ./status`
+# ⚔️ `nikhil@github:~$ ./quests`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🏯 COMMITMENTS
+
+**Life & Daily Management**
+
+A personal command center for managing commitments, routines, tasks, habits and the beautiful chaos of being a human.
+
+```text
+MISSION
+control the chaos
+
+ENEMY
+procrastination
+
+STATUS
+forging
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🩸 KEYTYPE
+
+**Multiplayer Typing Arena**
+
+Real-time typing battles where words are ammunition and the keyboard is the battlefield.
+
+```text
+MISSION
+type faster
+
+ENEMY
+97 WPM demon
+
+STATUS
+forging
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 🛡️ SANRAKSHAK
+
+**Cybersecurity • Recon • Vulnerability Discovery**
+
+A security project exploring reconnaissance, scanning and the art of finding what shouldn't be exposed.
+
+```text
+MISSION
+find the weakness
+
+RULE
+only test what you own
+
+STATUS
+experimenting
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+## 👁️ MITHYADARPAN
+
+**Systems • Security • Exploration**
+
+Looking beneath the interface to understand the machinery hiding underneath.
+
+```text
+MISSION
+see beneath the surface
+
+CLEARANCE
+insufficient
+
+STATUS
+classified
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+# ♟️ `nikhil@github:~$ cat chess.log`
+
+<div align="center">
+
+```text
+                 ♔ ───────────── ♚
+
+              CHESS IS JUST WAR
+             WITH BETTER MANNERS.
+
+                 ♟   ♟   ♟   ♟
+                   ↘   ↙
+                     ☠
+```
+
+</div>
+
+Chess taught me the same lesson engineering keeps teaching me:
+
+**confidence is not evidence.**
+
+```text
+OPENING        → preparation
+MIDDLEGAME     → chaos
+ENDGAME        → consequences
+BLUNDER        → character development
+CHECKMATE      → free educational content
+```
+
+My strategic process:
+
+```text
+1. Find the move.
+2. Check the move.
+3. Check it again.
+4. Miss the obvious tactic.
+5. Question existence.
+6. Play another game.
+```
+
+**Usually I lose to the bishop.**
+
+---
+
+# 📜 `nikhil@github:~$ cat library.txt`
+
+```text
+                     📚 THE LIBRARY
+
+        books that don't just entertain
+        but leave a crack in the wall
+        through which another question enters
+
+        ├── philosophy
+        ├── mythology
+        ├── psychology
+        ├── history
+        ├── strategy
+        ├── poetry
+        └── literature
+
+        READ
+          ↓
+        THINK
+          ↓
+        QUESTION
+          ↓
+        OVERTHINK
+          ↓
+        LEARN
+```
+
+I like stories that survive centuries.
+
+Not because they're old.
+
+Because **something in them refused to die.**
+
+---
+
+# 🧘 `nikhil@github:~$ ./dojo`
 
 ```text
 ╭────────────────────────────────────────────────────────────╮
-│                    CURRENT STATUS                          │
+│                         THE DOJO                           │
 ├────────────────────────────────────────────────────────────┤
 │                                                            │
-│  ⚔️  Spirit       : questionable                          │
-│  🧠  Curiosity    : dangerously high                      │
-│  💻  Code         : compiling...                          │
-│  🐛  Bugs         : multiplying                            │
-│  ♟️  Chess        : blundering strategically               │
-│  📚  Reading      : "one more chapter"                     │
-│  🎮  Gaming       : just one match                         │
-│  ☕  Coffee       : operational                            │
-│  😴  Sleep        : deprecated                             │
+│  Discipline without curiosity is a cage.                  │
+│  Curiosity without discipline is a wildfire.              │
+│                                                            │
+│  Train the hand.                                           │
+│  Train the eye.                                            │
+│  Train the mind.                                           │
+│  Train the character.                                      │
+│                                                            │
+│  The goal is not to look dangerous.                        │
+│  The goal is to become capable.                            │
 │                                                            │
 ╰────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-## 🌊 `nikhil@github:~$ tree ~/interests`
+# 💀 `nikhil@github:~$ ps aux | grep nikhil`
 
 ```text
-~/interests
-│
-├── ⚙️ engineering
-│   ├── software
-│   ├── systems
-│   ├── web
-│   ├── AI / ML
-│   ├── cybersecurity
-│   └── Linux
-│
-├── ♟️ chess
-│   ├── tactics
-│   ├── strategy
-│   ├── blunders
-│   └── pretending the blunder was intentional
-│
-├── 📚 literature
-│   ├── philosophy
-│   ├── poetry
-│   ├── stories
-│   └── books that create more questions than answers
-│
-├── 🎮 games
-│   ├── strategy
-│   ├── RPGs
-│   ├── competitive games
-│   └── games that somehow become "research"
-│
-├── 🧠 philosophy
-│   ├── meaning
-│   ├── consciousness
-│   ├── human nature
-│   └── "but why?"
-│
-└── ⚔️ history
-    ├── samurai
-    ├── civilizations
-    ├── war & strategy
-    └── humans repeatedly making the same mistakes
-```
-
----
-
-## ♟️ `nikhil@github:~$ cat chess.txt`
-
-Chess taught me something programming eventually confirmed:
-
-**You can be completely confident and completely wrong at the same time.**
-
-```text
-Opening        → preparation
-Middlegame     → chaos
-Endgame        → consequences
-Blunder        → character development
-Checkmate      → educational experience
-```
-
-My chess philosophy:
-
-> Don't ask "How did I lose?"
->
-> Ask "What did I fail to see?"
-
-Usually the answer is:
-
-**the bishop.**
-
----
-
-## 📚 `nikhil@github:~$ cat bookshelf.txt`
-
-I like books that leave a little damage behind.
-
-Not necessarily books that tell me what to think —
-
-books that make me think **after I close them**.
-
-```text
-currently exploring:
-
-    philosophy
-    literature
-    mythology
-    psychology
-    history
-    strategy
-    human nature
-
-preferred outcome:
-
-    finish book
-        ↓
-    understand book
-        ↓
-    question book
-        ↓
-    question myself
-        ↓
-    stare at ceiling
-        ↓
-    somehow learn something
-```
-
----
-
-## 🛠️ `nikhil@github:~$ ./arsenal`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,c,java,go,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,linux,git,github,vscode,figma,tailwind&theme=dark&perline=12" />
-
-</div>
-
-<br>
-
-```text
-I don't worship tools.
-
-I learn tools.
-
-Then I eventually replace them
-when I find something that fits the problem better.
-
-The real stack:
-
-    curiosity
-        +
-    fundamentals
-        +
-    patience
-        +
-    unreasonable amounts of debugging
-```
-
----
-
-# ⚔️ `nikhil@github:~$ ./projects`
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### ⚔️ Commitments
-
-**Life & Daily Management**
-
-A personal command center for managing commitments, routines, tasks, habits, and the beautiful chaos of everyday life.
-
-```text
-status: building
-threat: procrastination
-objective: control the chaos
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⌨️ KeyType
-
-**Multiplayer Typing • Real-Time Competition**
-
-A multiplayer typing arena built around speed, competition, real-time gameplay, and unnecessarily serious typing battles.
-
-```text
-status: building
-weapon: keyboard
-enemy: 97 WPM guy
-```
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🛡️ Sanrakshak
-
-**Cybersecurity • Vulnerability Discovery**
-
-A security-focused project exploring vulnerability discovery, scanning, reconnaissance, and practical security tooling.
-
-```text
-status: experimenting
-mission: find the holes
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-### ◈ Mithyadarpan
-
-**Systems • Cybersecurity • Exploration**
-
-An exploration into systems, security, and the strange things hiding beneath the interfaces we normally see.
-
-```text
-status: classified
-clearance: insufficient
-```
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=16&duration=2500&pause=700&color=D6B86A&center=true&vCenter=true&repeat=true&width=750&height=40&lines=git+commit+-m+%22it+works%2C+don't+ask+questions%22;deploying+on+Friday+because+apparently+I+learned+nothing;⚔️+another+one+ships;git+push+--force+%23+character+development" />
-
-</div>
-
----
-
-## 🏆 `nikhil@github:~$ ./achievements`
-
-```text
-[✓] survived another debugging session
-[✓] fixed a bug caused by fixing another bug
-[✓] spent 3 hours automating a 5-minute task
-[✓] learned a new framework instead of finishing the project
-[✓] said "I'll remember this" instead of writing documentation
-[✓] lost a chess game to a move I saw coming
-[✓] started reading one book and ended up researching five unrelated topics
-[✓] questioned an abstraction until discovering another abstraction underneath it
-[✓] deployed something that worked
-[✓] immediately became suspicious
-```
-
----
-
-## 💀 `nikhil@github:~$ ps aux | grep nikhil`
-
-```text
-PID     PROCESS                  STATUS
+PID     PROCESS                     STATE
 ──────────────────────────────────────────────
-0001    curiosity                RUNNING
-0017    overthinking             RUNNING
-0023    coding                   RUNNING
-0042    chess                    RUNNING
-0069    existential_crisis       ZOMBIE
-0137    procrastination          WAITING
-0199    random_rabbit_hole       RUNNING
-0420    sleep                    NOT FOUND
-1337    "one_last_feature"       RUNNING
-9999    sanity                   SEGFAULT
+0001    curiosity                   RUNNING
+0017    overthinking                RUNNING
+0023    coding                      RUNNING
+0042    chess                       RUNNING
+0069    existential_crisis          ZOMBIE
+0137    procrastination             SLEEPING
+0199    random_rabbit_hole          RUNNING
+0420    sleep                       NOT FOUND
+1337    one_last_feature            RUNNING
+9999    sanity                      SEGFAULT
 ```
 
 <details>
-<summary>💀 <b>click here if you dare — hidden process log</b></summary>
+<summary>☠️ <b>ACCESS HIDDEN RONIN LOG</b></summary>
 
 <br>
 
 ```text
-[02:13:07] started project
+[02:13:07] entered dojo
 [02:17:41] found interesting problem
-[02:32:09] redesigned architecture
-[03:04:18] discovered simpler solution
-[03:04:19] ignored simpler solution
-[03:47:55] introduced bug
+[02:32:09] abandoned original plan
+[03:04:18] designed superior architecture
+[03:04:19] ignored superior architecture
+[03:47:55] created bug
 [04:16:02] blamed framework
 [04:19:44] discovered it was my fault
-[04:20:01] character development +1
-[04:21:33] "tomorrow I'll fix it properly"
+[04:20:01] gained +1 wisdom
+[04:21:33] said "tomorrow I'll fix it"
+[04:21:34] tomorrow became today
 ```
 
 </details>
 
 ---
 
-## 📜 `nikhil@github:~$ git log --oneline`
+# 🏆 `nikhil@github:~$ ./battle_honors`
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                       BATTLE HONORS                         ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  ✓ survived another debugging session                       ║
+║  ✓ fixed a bug caused by fixing another bug                 ║
+║  ✓ spent 3 hours automating a 5-minute task                 ║
+║  ✓ learned a framework instead of finishing the project     ║
+║  ✓ said "I'll document it later"                            ║
+║  ✓ lost a chess game to a move I literally saw              ║
+║  ✓ turned a random question into a 2-hour research session  ║
+║  ✓ deployed something successfully                          ║
+║  ✓ immediately became suspicious of the deployment          ║
+║  ✓ returned to the battlefield the next morning             ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+# 📜 `nikhil@github:~$ git log --oneline`
 
 ```text
 f7a91c2  learned something
@@ -446,14 +459,14 @@ b31d88a  broke something
 c82d091  questioned everything
 a13f6e8  started another project
 d91bb42  forgot why I started it
-e7710aa  rediscovered the project
+e7710aa  found the project again
 4f20abc  added one tiny feature
-7c19def  accidentally redesigned everything
+7c19def  redesigned the entire thing
 ```
 
 ---
 
-## 🧘 `nikhil@github:~$ git status`
+# 🔥 `nikhil@github:~$ git status`
 
 ```text
 On branch: becoming-better
@@ -461,14 +474,15 @@ On branch: becoming-better
 Your branch is ahead of
 who-you-were-yesterday by several commits.
 
-Changes not staged for commit:
+Changes not staged:
 
     modified:   discipline
     modified:   curiosity
-    modified:   understanding
     modified:   patience
+    modified:   understanding
+    modified:   courage
 
-Untracked files:
+Untracked:
 
     ideas/
     questions/
@@ -478,62 +492,56 @@ Untracked files:
 
 nothing to commit.
 
-just keep walking.
+the journey continues.
 ```
 
 ---
 
-## ⚔️ `nikhil@github:~$ cat way.txt`
+# ☯️ `nikhil@github:~$ cat ronin.txt`
 
 <div align="center">
 
 ```text
-道 — THE WAY
+                     浪人 — RŌNIN
+
+                masterless, not directionless.
 
 
-Discipline without curiosity is a cage.
+        No castle.
+        No throne.
+        No final destination.
 
-Curiosity without discipline is a wildfire.
+        Just a road.
 
+        A blade to sharpen.
+        A mind to train.
+        A world to understand.
 
-A warrior sharpens the blade.
+        Walk.
+        Build.
+        Break.
+        Learn.
+        Return.
 
-An engineer sharpens the mind.
-
-A player sharpens the instinct.
-
-A reader sharpens the questions.
-
-
-I don't want to become someone
-who knows everything.
-
-I want to become someone
-who can learn anything.
-
-
-Walk.
-Build.
-Break.
-Understand.
-Repeat.
+        Repeat until the sword is no longer
+        the most important weapon.
 ```
 
 </div>
 
 ---
 
-## 📊 `nikhil@github:~$ ./stats`
+# 📊 `nikhil@github:~$ ./battle_stats`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vrindaverse&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=F2E9E4&icon_color=D98B8B&text_color=B8B0AA&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Vrindaverse&show_icons=true&hide_border=true&bg_color=050505&title_color=E8DCC8&icon_color=C43C3C&text_color=A99B88&count_private=true" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vrindaverse&hide_border=true&background=0D0D0D&stroke=8B5E5E&ring=D98B8B&fire=D6B86A&currStreakLabel=F2E9E4&sideLabels=B8B0AA&currStreakNum=F2E9E4&sideNums=B8B0AA&dates=777777" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vrindaverse&hide_border=true&background=050505&stroke=6E1D1D&ring=C43C3C&fire=D6B86A&currStreakLabel=E8DCC8&sideLabels=A99B88&currStreakNum=E8DCC8&sideNums=A99B88&dates=666666" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrindaverse&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=F2E9E4&text_color=B8B0AA" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrindaverse&layout=compact&hide_border=true&bg_color=050505&title_color=E8DCC8&text_color=A99B88" width="48%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vrindaverse&hide_border=true&bg_color=0D0D0D&color=F2E9E4&line=D98B8B&point=7F9B83&area_color=8B5E5E&area=true" width="97%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vrindaverse&hide_border=true&bg_color=050505&color=E8DCC8&line=C43C3C&point=D6B86A&area_color=6E1D1D&area=true" width="97%"/>
 
 </div>
 
@@ -541,30 +549,36 @@ Repeat.
 
 <div align="center">
 
-<pre>
-                 ⚔️  ─────────────  刀  ─────────────  ⚔️
-</pre>
+```text
+                 ⚔️ ━━━━━━━━━━━━━ 刀 ━━━━━━━━━━━━━ ⚔️
+
+                            侍
+
+                  "The way is made by walking."
+
+                 ⚔️ ━━━━━━━━━━━━━ 刀 ━━━━━━━━━━━━━ ⚔️
+```
 
 ### `nikhil@github:~$ exit`
 
 ```text
-[ session closed ]
+[ SESSION CLOSED ]
 
 the code remains.
 the questions remain.
-the journey continues.
+the blade gets sharper.
 
-until the next rabbit hole.
+until the next battle.
 
 — 侍 Nikhil
 ```
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Vrindaverse&label=WANDERERS%20WHO%20PASSED%20THROUGH&color=D98B8B&style=flat&labelColor=111111" />
+<img src="https://komarev.com/ghpvc/?username=Vrindaverse&label=RONIN%20WHO%20PASSED%20THROUGH&color=C43C3C&style=flat-square&labelColor=050505"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A0F0F,50:120808,100:050505&height=130&section=footer" width="100%"/>
 
 </div>
