@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:3d0000,100:0a0a0a&height=230&section=header&text=侍%20NIKHIL%20MAHALIK&fontSize=44&fontColor=d4af37&fontAlignY=36&desc=流浪者%20•%20WANDERER%20•%20BUILD%20•%20THINK%20•%20PLAY%20•%20REPEAT&descAlignY=56&descSize=15&descColor=e8c15a&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F0E4DC&height=180&section=header&text=侍%20NIKHIL%20MAHALIK&fontSize=40&fontColor=4A4A4A&fontAlignY=45&desc=流浪者%20•%20WANDERER%20•%20BUILD%20•%20THINK%20•%20PLAY%20•%20REPEAT&descAlignY=68&descSize=14&descColor=8a8a8a" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&weight=600&size=22&duration=3200&pause=900&color=D4AF37&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=110&lines=一期一会+—+this+moment+will+never+come+again;不撓不屈+—+never+bending%2C+never+yielding;学べば学ぶほど%2C+知らないことを知る;forging+understanding%2C+one+broken+build+at+a+time" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=20&duration=3200&pause=900&color=E8899A&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=一期一会+—+this+moment+will+never+come+again;不撓不屈+—+never+bending%2C+never+yielding;forging+understanding%2C+one+broken+build+at+a+time" />
 
 <sub>ichi-go ichi-e · fu-tō fu-kutsu · the more I learn, the more I know I don't know</sub>
 
 <br>
 
-[![Gmail](https://img.shields.io/badge/nikhilmahalik%40gmail.com-D4AF37?style=for-the-badge&logo=gmail&logoColor=0a0a0a&labelColor=1a0000)](mailto:nikhilmahalik@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/why--nikhil-D4AF37?style=for-the-badge&logo=linkedin&logoColor=0a0a0a&labelColor=1a0000)](https://www.linkedin.com/in/why-nikhil)
-[![GitHub](https://img.shields.io/badge/Vrindaverse-D4AF37?style=for-the-badge&logo=github&logoColor=0a0a0a&labelColor=1a0000)](https://github.com/Vrindaverse)
+[![Gmail](https://img.shields.io/badge/nikhilmahalik%40gmail.com-F0E4DC?style=for-the-badge&logo=gmail&logoColor=4A4A4A&labelColor=E8899A)](mailto:nikhilmahalik@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/why--nikhil-F0E4DC?style=for-the-badge&logo=linkedin&logoColor=4A4A4A&labelColor=A8C3A0)](https://www.linkedin.com/in/why-nikhil)
+[![GitHub](https://img.shields.io/badge/Vrindaverse-F0E4DC?style=for-the-badge&logo=github&logoColor=4A4A4A&labelColor=E8C874)](https://github.com/Vrindaverse)
 
 <br>
 
-<img src="https://img.shields.io/badge/status-questing-b91c1c?style=flat-square&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/build-passing%20(mostly)-d4af37?style=flat-square&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/coffee-required-b91c1c?style=flat-square&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/sleep-optional-d4af37?style=flat-square&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/curiosity-unlimited-b91c1c?style=flat-square&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/status-questing-E8899A?style=flat-square&labelColor=F0E4DC" />
+<img src="https://img.shields.io/badge/build-passing%20(mostly)-A8C3A0?style=flat-square&labelColor=F0E4DC" />
+<img src="https://img.shields.io/badge/coffee-required-E8C874?style=flat-square&labelColor=F0E4DC" />
+<img src="https://img.shields.io/badge/sleep-optional-C9B8D8?style=flat-square&labelColor=F0E4DC" />
+<img src="https://img.shields.io/badge/curiosity-unlimited-E8899A?style=flat-square&labelColor=F0E4DC" />
 
 </div>
 
@@ -56,7 +56,7 @@ I like building software, breaking software, understanding systems, playing game
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=16&duration=2600&pause=700&color=B91C1C&center=true&vCenter=true&repeat=true&width=700&height=40&lines=grep+-r+%22meaning%22+~%2Flife+--color%3Dalways;still+searching...;compiling+curiosity+into+code" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=16&duration=2600&pause=700&color=A8C3A0&center=true&vCenter=true&repeat=true&width=700&height=40&lines=grep+-r+%22meaning%22+~%2Flife+--color%3Dalways;still+searching...;compiling+curiosity+into+code" />
 
 </div>
 
@@ -97,22 +97,39 @@ I like building software, breaking software, understanding systems, playing game
 
 <table>
 <tr>
-<td width="30%" align="center" valign="middle">
+<td width="28%" align="center" valign="middle">
 
 <img src="assets/nikhil.gif" width="220" alt="Nikhil"/>
 
-<sub>← swap this for your own gif</sub>
-
 </td>
-<td width="70%">
+<td width="72%">
 
-<img src="assets/status-window.svg" width="100%" alt="Character stat window — HP, MP, EXP, SP bars filling and pulsing"/>
+```
+╔══════════════════════════════════════════════════════╗
+║   NAME  : Nikhil Mahalik                CLASS : 侍   ║
+║   TITLE : The Wandering Builder         LEVEL : ∞    ║
+╠══════════════════════════════════════════════════════╣
+║   HP  (Health)      ████████████░░░░░░░░  62/100     ║
+║   MP  (Motivation)  ██████████████████░░  91/100     ║
+║   EXP (Curiosity)   ████████████████████  MAX        ║
+║   SP  (Sleep)        ██░░░░░░░░░░░░░░░░░░  11/100  ⚠  ║
+╠══════════════════════════════════════════════════════╣
+║   STR (debugging under pressure)          ★★★★☆      ║
+║   INT (systems thinking)                  ★★★★★      ║
+║   WIS (knowing when to stop)              ★★☆☆☆      ║
+║   DEX (context-switching)                 ★★★★☆      ║
+║   LUK (production incidents)              ★☆☆☆☆      ║
+╠══════════════════════════════════════════════════════╣
+║   QUEST: "Ship it before the idea evolves            ║
+║           into three more."                          ║
+╚══════════════════════════════════════════════════════╝
+```
 
 </td>
 </tr>
 </table>
 
-<sub>📎 Setup for this section: upload `status-window.svg` (generated for you) and your own `nikhil.gif` into an `assets/` folder in the `Vrindaverse/Vrindaverse` repo, matching the paths above. The bars fill and pulse, the ⚠ blinks, and the quest line has a blinking cursor — all native SVG animation, no JS needed.</sub>
+<sub>📎 Swap `assets/nikhil.gif` for your own gif — just drop the file into an `assets/` folder in the `Vrindaverse/Vrindaverse` repo and it'll show up automatically. No SVG, no extra setup.</sub>
 
 <br>
 
@@ -175,7 +192,7 @@ I like building software, breaking software, understanding systems, playing game
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,c,java,go,html,css,react,nodejs,express,mongodb,mysql,postgres,docker,linux,git,github,vscode,figma,tailwind&theme=dark&perline=11" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,c,java,go,html,css,react,nodejs,express,mongodb,mysql,postgres,docker,linux,git,github,vscode,figma,tailwind&theme=light&perline=11" />
 
 </div>
 
@@ -256,7 +273,7 @@ An exploration into security, systems, and the things hiding beneath the surface
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=16&duration=2400&pause=600&color=D4AF37&center=true&vCenter=true&repeat=true&width=700&height=40&lines=git+commit+-m+%22it+works%2C+don%27t+ask+why%22;deploying+to+production+on+a+friday...;⚔️+another+one+ships" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=16&duration=2400&pause=600&color=E8C874&center=true&vCenter=true&repeat=true&width=700&height=40&lines=git+commit+-m+%22it+works%2C+don%27t+ask+why%22;deploying+to+production+on+a+friday...;⚔️+another+one+ships" />
 
 </div>
 
@@ -374,12 +391,12 @@ Somewhere in the space between, a wanderer learns to walk straight.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vrindaverse&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=d4af37&icon_color=b91c1c&text_color=e8c15a&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vrindaverse&hide_border=true&background=0a0a0a&stroke=d4af37&ring=b91c1c&fire=d4af37&currStreakLabel=d4af37&sideLabels=e8c15a&currStreakNum=e8c15a&sideNums=e8c15a&dates=8b7355" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Vrindaverse&show_icons=true&hide_border=true&bg_color=FDF6F0&title_color=4A4A4A&icon_color=E8899A&text_color=8a8a8a&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vrindaverse&hide_border=true&background=FDF6F0&stroke=E8B4BC&ring=E8899A&fire=E8899A&currStreakLabel=4A4A4A&sideLabels=8a8a8a&currStreakNum=4A4A4A&sideNums=4A4A4A&dates=aaaaaa" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrindaverse&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=d4af37&text_color=e8c15a" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrindaverse&layout=compact&hide_border=true&bg_color=FDF6F0&title_color=4A4A4A&text_color=8a8a8a" width="48%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vrindaverse&hide_border=true&bg_color=0a0a0a&color=d4af37&line=b91c1c&point=e8c15a&area_color=b91c1c&area=true" width="97%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vrindaverse&hide_border=true&bg_color=FDF6F0&color=4A4A4A&line=E8899A&point=A8C3A0&area_color=E8899A&area=true" width="97%" />
 
 </div>
 
@@ -420,7 +437,7 @@ jobs:
           github_user_name: Vrindaverse
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#d4af37
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#E8899A
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
@@ -457,12 +474,12 @@ jobs:
 
 <br>
 
-[![GitHub followers](https://img.shields.io/github/followers/Vrindaverse?style=for-the-badge&color=b91c1c&labelColor=0a0a0a&logo=github)](https://github.com/Vrindaverse)
-[![Gmail](https://img.shields.io/badge/say%20hi-nikhilmahalik%40gmail.com-d4af37?style=for-the-badge&labelColor=0a0a0a&logo=gmail&logoColor=d4af37)](mailto:nikhilmahalik@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/connect-why--nikhil-d4af37?style=for-the-badge&labelColor=0a0a0a&logo=linkedin&logoColor=d4af37)](https://www.linkedin.com/in/why-nikhil)
+[![GitHub followers](https://img.shields.io/github/followers/Vrindaverse?style=for-the-badge&color=E8899A&labelColor=F0E4DC&logo=github)](https://github.com/Vrindaverse)
+[![Gmail](https://img.shields.io/badge/say%20hi-nikhilmahalik%40gmail.com-A8C3A0?style=for-the-badge&labelColor=F0E4DC&logo=gmail&logoColor=4A4A4A)](mailto:nikhilmahalik@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/connect-why--nikhil-E8C874?style=for-the-badge&labelColor=F0E4DC&logo=linkedin&logoColor=4A4A4A)](https://www.linkedin.com/in/why-nikhil)
 
-<img src="https://komarev.com/ghpvc/?username=Vrindaverse&label=WANDERERS%20WHO%20PASSED%20THROUGH&color=b91c1c&style=flat&labelColor=0a0a0a" />
+<img src="https://komarev.com/ghpvc/?username=Vrindaverse&label=WANDERERS%20WHO%20PASSED%20THROUGH&color=E8899A&style=flat&labelColor=F0E4DC" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:3d0000,100:1a0000&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F0E4DC&height=100&section=footer" width="100%"/>
 
 </div>
