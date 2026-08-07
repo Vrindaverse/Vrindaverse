@@ -1,578 +1,322 @@
-
 <div align="center">
 
-# 🪷 NIKHIL MAHALIK
+# 🌸 NIKHIL MAHALIK
 
-### `ENGINEER` · `शतरंज प्रेमी` · `WRITER` · `थोड़ा सा पागल`
-
-<br>
-
-### **नमस्ते । नमस्कार । Welcome.**
-
-🪷　🐘　🦚　🌿　☀️　♟️　💻　☕
+### `ENGINEER` · `BUILDER` · `CHESS GOBLIN` · `PROFESSIONAL OVERTHINKER`
 
 <br>
 
-> **ज्ञानं परमं बलम्**  
-> *Knowledge is the ultimate strength.*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=2200&pause=800&color=6C5CE7&center=true&vCenter=true&width=750&lines=I+build+things.;I+break+things.;I+figure+out+why.;then+I+build+them+again.;occasionally+with+documentation." />
+
+<br>
+
+> **I build useful software, questionable side projects, and unnecessarily elaborate solutions to simple problems.**
+
+<br>
+
+`💻 SOFTWARE`   `🧠 AI/ML`   `🐧 LINUX`   `🔐 CYBER`   `♟️ CHESS`
 
 </div>
 
 ---
 
-<table>
-<tr>
+# 🧱 ABOUT THE CREATURE
 
-<td width="70%" valign="middle" bgcolor="#FFF3D6">
+I'm an engineer who likes **building things and understanding what happens underneath them**.
 
-# 👋 नमस्ते, HUMAN.
+I enjoy working across the stack — from interfaces that feel good to use, to backend systems, databases, networking, Linux and the occasional rabbit hole that started with:
 
-### मैं बनाता हूँ चीज़ें।
+> *"wait... but how does this actually work?"*
 
-💻 Software  
-🤖 AI / ML  
-🐧 Linux  
-🔐 Cybersecurity  
-🎨 UI / UX  
-♟️ Chess  
-📚 Philosophy  
-✍️ Writing  
-🏛️ इतिहास  
-🎮 Games
+I also enjoy chess, anime, games, literature, philosophy and spending significantly more time designing something than strictly necessary.
 
-<br>
-
-### अभी क्या चल रहा है?
-
-🟢 `BUILDING`
-
-🟡 `LEARNING`
-
-🔴 `BREAKING`
-
-☕ `CHAI`
-
-</td>
-
-<td width="30%" align="center" bgcolor="#FFD166">
-
-# 🧘
-
-### मानव.EXE
-
-<br>
-
-🟢 ONLINE
-
-🧠 OVERTHINKING
-
-☕ CHARGING
-
-🐛 DEBUGGING
-
-♟️ BLUNDERING
-
-<br>
-
-**स्थिति:**  
-`चल रहा है...`
-
-</td>
-
-</tr>
-</table>
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                     CURRENT STATUS                           │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  💻 Building                 ████████████████████░░   90%    │
+│  🧠 Learning                 █████████████████░░░░░   80%    │
+│  🐧 Breaking Linux           ███████████████░░░░░░░   70%    │
+│  🔐 Understanding Cyber      █████████████░░░░░░░░░   60%    │
+│  ♟️ Winning at Chess         ███████░░░░░░░░░░░░░░░   35%    │
+│  😴 Maintaining Sleep        ███░░░░░░░░░░░░░░░░░░░   15%    │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-<div align="center">
-
-# 🪷 मेरी दुनिया
-
-### **परम्परा × Technology × थोड़ा Chaos**
-
-</div>
-
-<table>
-<tr>
-
-<td width="25%" align="center" bgcolor="#FFE5EC">
-
-# 🐘
-
-### GOND
-
-**प्रकृति**
-
-**जीवन**
-
-**कहानी**
-
-**रेखाएँ**
-
-</td>
-
-<td width="25%" align="center" bgcolor="#E0F7FA">
-
-# 🧑‍🌾
-
-### WARLI
-
-**लोग**
-
-**नृत्य**
-
-**जीवन**
-
-**समुदाय**
-
-</td>
-
-<td width="25%" align="center" bgcolor="#E8F5E9">
-
-# 🦚
-
-### MADHUBANI
-
-**रंग**
-
-**कथा**
-
-**प्रकृति**
-
-**मिथक**
-
-</td>
-
-<td width="25%" align="center" bgcolor="#FFF8E1">
-
-# 🪷
-
-### PATTACHITRA
-
-**कला**
-
-**कथा**
-
-**परम्परा**
-
-**अभिव्यक्ति**
-
-</td>
-
-</tr>
-</table>
-
-<div align="center">
-
-### **पुरानी कला, नयी मशीनें।**
-
-`Ancient visual language × Modern technology`
-
-<br>
-
-*बस कला अच्छी लगती है भाई।* 😭
-
-</div>
-
----
-
-<div align="center">
-
-# ⚔️ मेरे SIDE QUESTS
-
-### **Things I somehow decided to build**
-
-</div>
-
-<table>
-<tr>
-
-<td width="50%" bgcolor="#FFF3D6">
+# 🚀 STUFF I'M COOKING
 
 ## ⌨️ KEYTYPE
 
-### typing → ⚔️ competition
+### Multiplayer typing, but competitive.
 
-`React` `TypeScript` `Socket.IO`
+A real-time typing battlefield where apparently typing faster than another human is considered a sport.
 
-🟡 **निर्माणाधीन**
+**Featuring**
 
-</td>
+* ⚡ Real-time multiplayer
+* 💬 Chat & lobbies
+* 🏆 Leaderboards
+* 🔐 Authentication
+* ⌨️ Competitive typing
 
-<td width="50%" bgcolor="#E3F2FD">
+`React` `TypeScript` `Tailwind` `Node.js` `Socket.IO` `PostgreSQL`
+
+---
+
+## 🧠 NEURAL NETWORK
+
+### My brain, but with external storage.
+
+A notebook-style knowledge system designed to make information feel less like a database and more like an actual workspace.
+
+`Next.js` `TypeScript` `Drizzle` `Neon` `GSAP`
+
+---
 
 ## 🛡️ SANRAKSHAK
 
-### scan → detect → protect
+### Because manually running security tools 47 times wasn't enough.
 
-`React` `FastAPI` `Nmap` `Nuclei`
+A vulnerability reconnaissance and scanning platform built around the security workflow:
 
-🔴 **CHAOTIC**
+```text
+RECON → SCAN → ANALYZE → FINDINGS → REPORT
+```
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" bgcolor="#F3E5F5">
-
-## 🧠 NEURALNETWORK
-
-### मेरा दूसरा दिमाग
-
-`Next.js` `Drizzle` `PostgreSQL`
-
-🟣 **EXPERIMENTING**
-
-</td>
-
-<td width="50%" bgcolor="#E0F2F1">
-
-## 🏥 AROGYAMITRA
-
-### technology that works offline
-
-`React Native` `Django` `AI`
-
-🟢 **SERIOUS BUSINESS**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" bgcolor="#FFF8E1">
-
-## ⚔️ COMMITMENT
-
-### जीवन प्रबंधन™️
-
-`Next.js` `TypeScript`
-
-🟡 **FEATURE CREEP**
-
-</td>
-
-<td width="50%" bgcolor="#FCE4EC">
-
-## 🗿 SIDE QUESTS
-
-`AI` · `IoT` · `Web` · `Cyber`
-
-`Random Ideas` · `Midnight Projects`
-
-🔮 **अभी बहुत कुछ बाकी है...**
-
-</td>
-
-</tr>
-</table>
+`React` `FastAPI` `Python` `PostgreSQL` `Nmap` `Nuclei`
 
 ---
 
+## 📱 AROGYAMITRA
+
+### Technology that still works when the internet doesn't.
+
+An offline-first platform designed for ASHA workers with:
+
+* 📡 Offline synchronization
+* 🌐 Multilingual workflows
+* 🧠 Smart assistance
+* 🚨 Alerts & reminders
+* 👤 Patient profiles
+* 🔄 Reliable data sync
+
+`React Native` `Django` `Socket.IO` `PostgreSQL`
+
+---
+
+# 🧰 THE TOOLBOX
+
 <div align="center">
 
-# 🛠️ शस्त्रागार
+### LANGUAGES
 
-### **MY WEAPON RACK**
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,react,nextjs,nodejs,django,fastapi,tailwind,postgres,git,linux,docker,figma&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,bash" />
 
 <br><br>
 
-`Python`　`Java`　`TypeScript`　`JavaScript`
+### FRONTEND
 
-`React`　`Next.js`　`Django`　`FastAPI`
-
-`PostgreSQL`　`Linux`　`Git`　`Docker`
-
-</div>
-
----
-
-<table>
-<tr>
-
-<td width="50%" bgcolor="#FFF3D6">
-
-<div align="center">
-
-# ♟️ शतरंज
-
-### **Chess — debugging with horses**
-
-<br>
-
-🧠 **Strategy**
-
-⚔️ **War**
-
-🎯 **Precision**
-
-🗿 **Ego destruction**
-
-<br>
-
-### मेरा सिद्धांत:
-
-> **सोचो।**
-
-> **चलो।**
-
-> **गलती करो।**
-
-> **फिर Stockfish खोलो।**
-
-<br>
-
-`♟️ Current rating: classified`
-
-</div>
-
-</td>
-
-<td width="50%" bgcolor="#E8F5E9">
-
-<div align="center">
-
-# 📚 कोड के बाहर
-
-### **Beyond the Terminal**
-
-<br>
-
-🏛️ **इतिहास**
-
-🧠 **दर्शन**
-
-📖 **साहित्य**
-
-🎮 **Games**
-
-✍️ **लेखन**
-
-🪷 **भारतीय कला**
-
-<br>
-
-### एक सवाल जो हमेशा रहता है:
-
-**"क्यों?"**
-
-<br>
-
-और दूसरा:
-
-**"क्या इसे code किया जा सकता है?"**
-
-</div>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# 📊 मेरे कर्मों का लेखा-जोखा
-
-### **THE SCROLLS HAVE SPOKEN**
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vrindaverse&show_icons=true&hide_border=true&bg_color=161616&title_color=FFD166&icon_color=FF6B6B&text_color=FFFFFF&include_all_commits=true&count_private=true" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vrindaverse&hide_border=true&background=161616&ring=FFD166&fire=FF6B6B&currStreakLabel=06D6A0&sideLabels=FFFFFF&dates=FFFFFF" width="48%"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,figma" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vrindaverse&bg_color=161616&color=FFFFFF&line=FFD166&point=FF6B6B&area=true&hide_border=true" width="96%"/>
+### BACKEND / DATA
 
-</div>
-
----
-
-<div align="center">
-
-# 🏆 उपलब्धियाँ
-
-### **GITHUB KARMA**
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vrindaverse&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4" width="95%"/>
-
-</div>
-
----
-
-<table>
-<tr>
-
-<td width="25%" align="center" bgcolor="#FFE5EC">
-
-# 🐧
-
-### LINUX
-
-**सिस्टम के भीतर झाँकना**
-
-</td>
-
-<td width="25%" align="center" bgcolor="#E3F2FD">
-
-# 🤖
-
-### AI / ML
-
-**मशीनों को समझाना**
-
-</td>
-
-<td width="25%" align="center" bgcolor="#E8F5E9">
-
-# 🔐
-
-### CYBER
-
-**तोड़ो → समझो → सुरक्षित करो**
-
-</td>
-
-<td width="25%" align="center" bgcolor="#FFF3D6">
-
-# ⚙️
-
-### SYSTEMS
-
-**नीचे क्या हो रहा है?**
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# 🌱 अभी सीख रहा हूँ
-
-<br>
-
-🧠 **Operating Systems**
-
-🔐 **Cybersecurity**
-
-🤖 **Machine Learning**
-
-♟️ **DSA**
-
-⚙️ **Computer Architecture**
-
-🖥️ **System Design**
-
-<br>
-
-### **विद्या ददाति विनयम्**
-
-*Knowledge gives humility.*
-
-</div>
-
----
-
-<br>
-
-<div align="center">
-
-# ☕ वर्तमान स्थिति
-
-<br>
-
-<table>
-<tr>
-
-<td align="center" bgcolor="#FFE5EC">
-
-## ☕
-### CHAI
-
-🔥🔥🔥🔥🔥🔥🔥
-
-</td>
-
-<td align="center" bgcolor="#E3F2FD">
-
-## 😴
-### SLEEP
-
-🔥🔥
-
-</td>
-
-<td align="center" bgcolor="#E8F5E9">
-
-## 🧠
-### CURIOSITY
-
-🔥🔥🔥🔥🔥🔥🔥🔥🔥
-
-</td>
-
-<td align="center" bgcolor="#FFF3D6">
-
-## 🐛
-### BUGS
-
-♾️
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-<br>
-
-# 🪷
-
-## **पुरानी जड़ें । नयी सोच ।**
-
-### **Old roots. New ideas.**
-
-<br>
-
-🪷　🐘　🦚　🌿　☀️　♟️　💻　☕
-
-<br>
-
-> **चरैवेति चरैवेति।**
->
-> *Keep moving.*
-
-<br>
-
-### 🇮🇳 Made in India · ☕ Powered by Chai · 💻 Built with Curiosity
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Vrindaverse&style=for-the-badge&color=FF6B6B&label=VISITORS"/>
+<img src="https://skillicons.dev/icons?i=nodejs,django,postgres,neon,docker" />
 
 <br><br>
 
-`नमस्ते । फिर मिलेंगे । 👋`
+### SYSTEMS / TOOLS
+
+<img src="https://skillicons.dev/icons?i=linux,git,github" />
 
 </div>
 
+---
+
+# 🧪 CURRENT SIDE QUESTS
+
+Not everything needs to become a startup.
+
+Some things exist because **I got curious.**
+
+```diff
++ Understanding Operating Systems
++ Diving deeper into Computer Architecture
++ Getting better at DSA
++ Exploring AI / ML
++ Learning Cybersecurity
++ Building Linux experiments
++ Understanding systems from the inside out
++ Designing unnecessarily beautiful interfaces
++ Trying to make Git fear me
+
+- Opening another side project before finishing the previous one
+- Saying "this will only take 20 minutes"
+- Trusting code written at 3 AM
+```
+
+---
+
+# 🧠 THE NON-TECHNICAL TECH GUY
+
+I spend a suspicious amount of time thinking about things that aren't code.
+
+### ♟️ CHESS
+
+My strategic process:
+
+```text
+1. Develop pieces
+2. Form a beautiful plan
+3. Miss an obvious tactic
+4. Stare at the board
+5. Question existence
+6. Somehow win
+```
+
+**Chess rating:** emotionally higher than statistically.
+
+---
+
+### 🎮 GAMES
+
+Games are basically:
+
+**problem solving + storytelling + dopamine + questionable sleep schedules.**
+
+I like games that make me think, explore, build, compete or completely forget what time it is.
+
+---
+
+### 🍥 ANIME
+
+I occasionally watch anime.
+
+*"One more episode."*
+
+is not a time estimate.
+
+It is a **contract with the devil.**
+
+---
+
+### 📚 PHILOSOPHY & LITERATURE
+
+I like ideas that make you close the book and stare at the ceiling for ten minutes.
+
+Things like:
+
+* What makes a meaningful life?
+* Why do humans create things?
+* How much of our identity is constructed?
+* Is free will real?
+* Why does this bug only happen in production?
+
+The final question remains the most difficult.
+
+---
+
+# 🗿 SYSTEM INFORMATION
+
+```yaml
+name: Nikhil Mahalik
+
+role:
+  - engineer
+  - builder
+  - professional overthinker
+
+environment:
+  os: Linux
+  shell: terminal
+  habitat: localhost
+
+interests:
+  - software engineering
+  - AI / ML
+  - cybersecurity
+  - Linux
+  - systems
+  - chess
+  - games
+  - anime
+  - literature
+  - philosophy
+
+current_mission:
+  - learn more
+  - build better
+  - understand deeper
+  - ship things
+
+known_bugs:
+  - sleep_schedule
+  - overengineering
+  - "I'll refactor it later"
+  - starting side projects
+
+status: operational
+```
+
+---
+
+# 📊 GITHUB COMMAND CENTER
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=false&border_radius=0&bg_color=FFF8E7&title_color=6C5CE7&text_color=303030&icon_color=E89AB4" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=false&border_radius=0&background=FFF8E7&ring=6C5CE7&fire=E89AB4&currStreakLabel=303030" height="170"/>
+
+</div>
+
+---
+
+# 🐍 THE SNAKE HAS ENTERED THE CHAT
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
+
+</div>
+
+---
+
+# 📡 TRANSMISSION END
+
+If you came here because you found one of my projects:
+
+**hello. 👋**
+
+If you came here because you like building things:
+
+**even better.**
+
+If you came here because you're procrastinating on GitHub:
+
+**I respect the grind.**
+
+---
+
+<div align="center">
+
+## 🌸 BUILDING · BREAKING · LEARNING · REPEATING
+
+<br>
+
+> *"Make it work. Understand why it works. Make it beautiful."*
+
+<br>
+
+`sudo rm -rf /doubt`
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F6D6E8&height=110&section=footer" width="100%"/>
+
+</div>
