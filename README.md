@@ -66,16 +66,16 @@
 
 ```yaml
 ┌──────────────────────────────────────────────────────────────┐
-│                         RONIN PROFILE                         │
+│                         RONIN PROFILE                        │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  name        : Nikhil Mahalik                               │
-│  class       : Engineer                                     │
-│  title       : Wandering Builder                            │
-│  alignment   : Curious Chaotic                              │
-│  weapon      : Keyboard                                     │
-│  secondary   : Chessboard                                   │
-│  territory   : Linux / Code / Rabbit Holes                  │
+│  name        : Nikhil Mahalik                                │
+│  class       : Engineer                                      │
+│  title       : Wandering Builder                             │
+│  alignment   : Curious Chaotic                               │
+│  weapon      : Keyboard                                      │
+│  secondary   : Chessboard                                    │
+│  territory   : Linux / Code / Rabbit Holes                   │
 │                                                              │
 │  creed       : understand before worshipping                 │
 │  weakness    : "one last feature"                            │
@@ -535,13 +535,17 @@ the journey continues.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vrindaverse&show_icons=true&hide_border=true&bg_color=050505&title_color=E8DCC8&icon_color=C43C3C&text_color=A99B88&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vrindaverse&show_icons=true&hide_border=true&bg_color=050505&title_color=E8DCC8&icon_color=C43C3C&text_color=A99B88" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vrindaverse&hide_border=true&background=050505&stroke=6E1D1D&ring=C43C3C&fire=D6B86A&currStreakLabel=E8DCC8&sideLabels=A99B88&currStreakNum=E8DCC8&sideNums=A99B88&dates=666666" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vrindaverse&hide_border=true&background=050505&stroke=6E1D1D&ring=C43C3C&fire=D6B86A&currStreakLabel=E8DCC8&sideLabels=A99B88&currStreakNum=E8DCC8&sideNums=A99B88&dates=666666" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrindaverse&layout=compact&hide_border=true&bg_color=050505&title_color=E8DCC8&text_color=A99B88" width="48%"/>
+<br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vrindaverse&hide_border=true&bg_color=050505&color=E8DCC8&line=C43C3C&point=D6B86A&area_color=6E1D1D&area=true" width="97%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrindaverse&layout=compact&hide_border=true&bg_color=050505&title_color=E8DCC8&text_color=A99B88" width="48%" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vrindaverse&hide_border=true&bg_color=050505&color=E8DCC8&line=C43C3C&point=D6B86A&area_color=6E1D1D&area=true" width="97%" />
 
 </div>
 
@@ -551,10 +555,10 @@ the journey continues.
 
 ```text
                  ⚔️ ━━━━━━━━━━━━━ 刀 ━━━━━━━━━━━━━ ⚔️
-
-                            侍
-
-                  "The way is made by walking."
+  
+                                  侍
+ 
+                    "The way is made by walking."
 
                  ⚔️ ━━━━━━━━━━━━━ 刀 ━━━━━━━━━━━━━ ⚔️
 ```
