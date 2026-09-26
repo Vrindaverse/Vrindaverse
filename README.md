@@ -1,344 +1,51 @@
-<div align="center">
-
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<!--                    YOUR SVG ART                         -->
-
-<!-- Replace the src below with your SVG URL                -->
-
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<img src="./WhatsAppVideo2026-08-07at5.22.12PM-ezgif.com-optimize.gif" width="900"/>
-
-<br>
-
-# 🌸 NIKHIL MAHALIK
-
-### `ENGINEER` · `BUILDER` · `CHESS GOBLIN` · `PROFESSIONAL CHAOS`
-
-<br>
-
-> **I build things. Sometimes useful. Sometimes unnecessary. Usually both.**
-
-<br>
-
-`💻 SOFTWARE`   `🧠 AI/ML`   `🐧 LINUX`   `🔐 CYBER`   `♟ CHESS`
-
-</div>
-
----
-
-<table>
-<tr>
-<td bgcolor="#FFD6E7" width="50%">
-
-# 🧱 `ABOUT.EXE`
-
-### 💻 BUILD
-
-`WEB`
-`AI / ML`
-`LINUX`
-`CYBER`
-`SYSTEMS`
-`DESIGN`
-
-</td>
-
-<td bgcolor="#D8F3DC" width="50%">
-
-# 🧠 `BRAIN.EXE`
-
-### CURRENTLY INTO
-
-`♟ CHESS`
-`🎮 GAMES`
-`🍥 ANIME`
-`📚 BOOKS`
-`🗿 PHILOSOPHY`
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td bgcolor="#FFF1B6">
-
-# ⚡ `WARNING.EXE`
-
-**I have a dangerous habit of turning**
-
-`simple idea`
-
-**into**
-
-`architecture diagram → database schema → unnecessary animation → 2 AM`
-
-</td>
-</tr>
-</table>
-
----
-
-# 🚀 `PROJECTS`
-
-<table>
-<tr>
-
-<td bgcolor="#E4D7FF" width="50%" valign="top">
-
-## ⌨️ KEYTYPE
-
-### Multiplayer typing battlefield.
-
-`React` `TypeScript` `Socket.IO`
-
-**type fast.**
-**talk trash.**
-**repeat.**
-
-</td>
-
-<td bgcolor="#BDE0FE" width="50%" valign="top">
-
-## 🛡️ SANRAKSHAK
-
-### Security reconnaissance platform.
-
-`React` `FastAPI` `Nmap` `Nuclei`
-
-```text
-RECON
-  ↓
-SCAN
-  ↓
-FIND
-  ↓
-REPORT
-```
-
-</td>
-
-</tr>
-
-<tr>
-
-<td bgcolor="#CDEAC0" width="50%" valign="top">
-
-## 🧠 NEURAL NETWORK
-
-### Notebook-style knowledge system.
-
-`Next.js` `Drizzle` `Neon` `GSAP`
-
-> `brain.exe`
->
-> external storage.
-
-</td>
-
-<td bgcolor="#FFC8DD" width="50%" valign="top">
-
-## 📱 AROGYAMITRA
-
-### Offline-first healthcare platform.
-
-`React Native` `Django` `Socket.IO`
-
-> internet?
->
-> **optional.**
-
-</td>
-
-</tr>
-</table>
-
----
+## Selected work
 
 <div align="center">
 
-# 🛠️ `TECH STACK`
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=vrindaverse&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F189251541%3Fu%3Decce6b5f44d7d526f1cb5c1d4bd2b1a36d489ec2%26v%3D4" alt="vrindaverse hero visual" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,django,tailwind,postgres,linux,docker,git,github" />
-
-</div>
-
----
-
-<table>
-<tr>
-<td bgcolor="#BDE0FE">
-
-# 🧪 `CURRENTLY.EXE`
-
-```text
-BUILDING    ████████████████████
-LEARNING    █████████████████░░░
-LINUX       ███████████████░░░░░
-CYBER       █████████████░░░░░░░
-DSA         ██████████░░░░░░░░░░
-SLEEP       ███░░░░░░░░░░░░░░░░
-```
-
-</td>
-
-<td bgcolor="#FFD6A5">
-
-# 🧃 `SIDE QUESTS`
-
-```text
-[+] OS
-[+] AI / ML
-[+] CYBER
-[+] DSA
-[+] SYSTEMS
-[+] UI/UX
-[+] RANDOM IDEAS
-
-[-] SLEEP
-```
-
-</td>
-</tr>
-</table>
-
----
-
-# ♟️ `CHESS.EXE`
-
-<table>
-<tr>
-
-<td bgcolor="#E2F0CB" width="60%">
-
-```text
-        ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
-        ♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟
-
-        · · · · · · · ·
-        · · · · · · · ·
-        · · · · · · · ·
-        · · · · · · · ·
-
-        ♙ ♙ ♙ ♙ ♙ ♙ ♙ ♙
-        ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖
-```
-
-</td>
-
-<td bgcolor="#FDE2E4" align="center">
-
-### MY STRATEGY
-
-`PLAN`
-
-↓
-
-`CALCULATE`
-
-↓
-
-`BLUNDER`
-
-↓
-
-### `"IT WAS THEORY"`
-
-</td>
-
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td bgcolor="#D8F3DC">
-
-# 📊 `GITHUB.EXE`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vrindaverse&show_icons=true&hide_border=true&bg_color=D8F3DC&title_color=5B4B8A&text_color=303030&icon_color=E76F51" height="170"/>
+<h1>NIKHIL MAHALIK</h1>
+<p><b>Freelance developer or consultant</b></p>
 
 </div>
 
-</td>
-</tr>
-</table>
+## The idea behind the work
 
----
+> Building useful things and learning in public.
 
-<table>
-<tr>
-<td bgcolor="#E4D7FF">
+- 👥 **6** followers · **11** following
 
-# 📈 `ACTIVITY.LOG`
+*Small, useful work over vague claims.*
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vrindaverse&bg_color=E4D7FF&color=403A5A&line=E76F51&point=403A5A&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-# 🗿 `SYSTEM.STATUS`
-
-<div align="center">
+## Case studies
 
 <table>
-<tr>
-<td bgcolor="#FFD6E7">BUILDING</td>
-<td bgcolor="#D8F3DC">ONLINE</td>
-</tr>
-
-<tr>
-<td bgcolor="#BDE0FE">LEARNING</td>
-<td bgcolor="#D8F3DC">ONLINE</td>
-</tr>
-
-<tr>
-<td bgcolor="#FFF1B6">CHAOS</td>
-<td bgcolor="#D8F3DC">ONLINE</td>
-</tr>
-
-<tr>
-<td bgcolor="#FFC8DD">SLEEP</td>
-<td bgcolor="#FFADAD">OFFLINE</td>
-</tr>
+<tr><td width="32%"><b><a href="https://github.com/Vrindaverse/VisualBase">VisualBase</a></b></td><td>to  check the repos in a graphical manner<br/><sub>TypeScript · 1 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/Vrindaverse/Commit">Commit</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/Vrindaverse/Vrindaverse">Vrindaverse</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/Vrindaverse/zaimori">zaimori</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
 </table>
 
-<br>
+## Details worth noticing
 
-### `sudo rm -rf /doubt`
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=vrindaverse&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F189251541%3Fu%3Decce6b5f44d7d526f1cb5c1d4bd2b1a36d489ec2%26v%3D4" alt="vrindaverse highlights visual" />
+</p>
 
-<br>
+<p><b>NIKHIL MAHALIK</b> is shipping 24 public projects with 1 stars of proof.</p>
 
-`🌸 BUILD` · `🧱 BREAK` · `🧠 LEARN` · `♟ BLUNDER`
+## Creative toolkit
 
-</div>
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
----
+## Make something memorable
 
-<div align="center">
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=vrindaverse&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F189251541%3Fu%3Decce6b5f44d7d526f1cb5c1d4bd2b1a36d489ec2%26v%3D4" alt="vrindaverse social visual" />
+</p>
 
-# 🌈 `END OF TRANSMISSION`
+<a href="https://github.com/vrindaverse">GitHub</a>
 
-### `thanks for visiting my little corner of the internet`
-
-<br>
-
-`[ STATUS: CHILL ]`
-`[ SYSTEM: OVERENGINEERED ]`
-`[ BUGS: FEATURES ]`
-
-</div>
+<p align="center"><sub>NIKHIL MAHALIK · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
