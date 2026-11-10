@@ -23,6 +23,12 @@ jobs:
             dist/github-snake.svg?color_snake=#2D2D2D&color_dots=#F0ECE4,#F7E8A4,#B8D8F8,#CDEAC0,#93CFC9
             dist/github-snake-dark.svg?color_snake=#F7E8A4&color_dots=#2B2A28,#5C5C5C,#93CFC9,#CDEAC0,#F7E8A4
 
+      - name: Respect reduced motion
+        run: |
+          for f in dist/*.svg; do
+            sed -i 's#</style>#@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>#' "$f"
+          done
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
