@@ -1,0 +1,35 @@
+name: GitHub Snake
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v1
+        with:
+          github_user_name: Vrindaverse
+          output_branches: output
+          snake_length: 50
+
+      - name: Commit output
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add .
+          git commit -m "🐍 Update GitHub snake 🐍" || exit 0
+          git push origin output

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
+  <defs>
+    <linearGradient id="termGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0f0c29"/>
+      <stop offset="50%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#0f0c29"/>
+    </linearGradient>
+    <animateTransform attributeName="opacity" values="1;0" dur="1s" repeatCount="indefinite" id="cursorBlink"/>
+    <animateTransform attributeName="opacity" values="1;0.5" dur="1.5s" repeatCount="indefinite" id="linePulse"/>
+  </defs>
+  <rect width="780" height="380" rx="10" ry="10" fill="url(#termGrad)" stroke="#00f5d4" stroke-width="1"/>
+  <line y1="0" y2="0" x1="10" x2="790" stroke="#00f5d4" stroke-width="2"/>
+  <rect x="20" y="40" width="760" height="300" fill="#0a0a1e"/>
+  <text x="25" y="75" fill="#00f5d4" font-family="Fira Code, monospace" font-size="14">
+    whoami: full-stack developer     whoami: full-stack developer  creator
+ creator
+    <animate attributeName="opacity" values="1;0.6" dur="1.5s" repeatCount="indefinite"/>
+  </text>
+  <text x="25" y="95" fill="#7b61ff" font-family="Fira Code, monospace" font-size="14">
+    stack: TypeScript Next.js Python Linux
+    <animate attributeName="opacity" values="1;0.6" dur="1.5s" repeatCount="indefinite" begin="0.2s"/>
+  </text>
+  <text x="25" y="115" fill="#ff4ecd" font-family="Fira Code, monospace" font-size="14">
+    status: open to missions building ANANTA chess
+    <animate attributeName="opacity" values="1;0.6" dur="1.5s" repeatCount="indefinite" begin="0.4s"/>
+  </text>
+  <line x2="35" y1="130" y2="136" stroke="#00f5d4" stroke-width="2">
+    <animate attributeName="opacity" values="1;0" dur="1s" repeatCount="indefinite"/>
+  </line>
+</svg>

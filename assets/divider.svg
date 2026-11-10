@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24">
+  <defs>
+    <!-- Moving pulse gradient -->
+    <linearGradient id="pulse" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f5d4" stop-opacity="0.4"/>
+      <stop offset="50%" stop-color="#7b61ff" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#ff4ecd" stop-opacity="0.4"/>
+    </linearGradient>
+
+    <filter id="neonGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Pulse animation -->
+    <animateTransform
+      id="pulseAnim"
+      attributeName="transform"
+      type="scale"
+      from="1 1"
+      to="1.1 1.1"
+      dur="2s"
+      repeatCount="indefinite"/>
+  </defs>
+
+  <!-- Animated neon line -->
+  <g class="line-group">
+    <line y1="12" y2="12" x1="0" x2="1200" stroke="url(#pulse)" stroke-width="2" filter="url(#neonGlow)">
+      <animateTransform
+        attributeName="transform"
+        type="translateX"
+        from="0"
+        to="-1180"
+        dur="3s"
+        repeatCount="indefinite"/>
+    </line>
+
+    <!-- Decorative end caps -->
+    <circle cx="20" cy="12" r="4" fill="#00f5d4">
+      <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1180" cy="12" r="4" fill="#ff4ecd">
+      <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite" begin="0.5s"/>
+    </circle>
+
+    <!-- Pulse rings -->
+    <circle cx="600" cy="12" r="1" fill="none" stroke="#00f5d4" stroke-width="1">
+      <animate attributeName="r" values="1; 8; 1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
