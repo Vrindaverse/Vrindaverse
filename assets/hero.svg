@@ -1,12 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400">
   <defs>
-    <!-- Starfield gradient -->
     <radialGradient id="starfield" cx="600" cy="200" r="0.3">
       <stop offset="0%" stop-color="#00f5d4" stop-opacity="0.3"/>
       <stop offset="100%" stop-color="#ff4ecd" stop-opacity="0.1"/>
     </radialGradient>
-
-    <!-- Glow filter -->
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
       <feMerge>
@@ -14,47 +11,30 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-
-    <!-- Scanline animation -->
     <linearGradient id="scanline" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="transparent"/>
       <stop offset="50%" stop-color="#00f5d4" stop-opacity="0.1"/>
       <stop offset="100%" stop-color="transparent"/>
     </linearGradient>
-
-    <!-- Pulse animation for glow on text -->
-    <animateTransform
-      id="glowAnim"
-      attributeName="transform"
-      type="scale"
-      from="1 1"
-      to="1.05 1.05"
-      dur="3s"
-      repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="scale" from="1 1" to="1.05 1.05" dur="3s" repeatCount="indefinite"/>
   </defs>
-
-  <!-- Starfield background -->
   <rect width="1200" height="400" fill="url(#starfield)"/>
-
-  <!-- Subtle moving scanline -->
   <line y1="0" y2="0" x1="0" x2="1200" stroke="url(#scanline)">
     <animate attributeName="y1" values="0; 400" dur="2s" repeatCount="indefinite"/>
     <animate attributeName="y2" values="0; 400" dur="2s" repeatCount="indefinite"/>
   </line>
-
-  <!-- Main text: NIKHIL MAHALIK -->
   <text x="600" y="160" text-anchor="middle" font-family="Georgia, serif" font-size="72" fill="#00f5d4" filter="url(#glow)">
     NIKHIL MAHALIK
     <animate attributeName="opacity" values="1;0.8;1" dur="2s" repeatCount="indefinite"/>
   </text>
-
-  <!-- Tagline: aka Vrinda -->
   <text x="600" y="210" text-anchor="middle" font-family="Georgia, serif" font-size="36" fill="#7b61ff">
     aka Vrinda
     <animate attributeName="opacity" values="1;0.8;1" dur="2s" repeatCount="indefinite" begin="1s"/>
   </text>
-
-  <!-- Decorative bottom line -->
+  <text x="600" y="260" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#ff4ecd">
+    B.Tech CSE (2028) - Technocrats Institute of Technology &amp; Scince
+    <animate attributeName="opacity" values="1;0.8;1" dur="2s" repeatCount="indefinite" begin="2s"/>
+  </text>
   <line y1="380" y2="380" x1="100" x2="1100" stroke="#ff4ecd" stroke-width="2">
     <animate attributeName="x1" values="100; 1100; 100" dur="3s" repeatCount="indefinite"/>
     <animate attributeName="x2" values="1100; 100; 1100" dur="3s" repeatCount="indefinite"/>

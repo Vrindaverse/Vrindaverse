@@ -1,7 +1,11 @@
 <div align="center">
 
 <img src="assets/hero.svg" width="100%" alt="Nikhil Mahalik — aka Vrinda" />
+rds the growth of the entity.
 
+Application deadline: [Insert deadline]
+
+Thank you once again for your support. Really appreciate it!
 <a href="https://github.com/Vrindaverse">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00F5D4&center=true&vCenter=true&width=760&height=50&lines=%3E+initializing+Vrindaverse...;%3E+full-stack+%C2%B7+AI%2FML+%C2%B7+cybersecurity+%C2%B7+linux;%3E+i+use+arch%2C+btw+%F0%9F%90%A7;%3E+chess+%E2%99%9F%EF%B8%8F+%C2%B7+anime+%C2%B7+storytelling+%E2%9C%8D%EF%B8%8F;%3E+turning+ambitious+ideas+into+reality+%E2%9C%A8;%3E+open+to+missions" alt="typing" />
 </a>
