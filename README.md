@@ -1,11 +1,7 @@
 <div align="center">
 
 <img src="assets/hero.svg" width="100%" alt="Nikhil Mahalik — aka Vrinda" />
-rds the growth of the entity.
 
-Application deadline: [Insert deadline]
-
-Thank you once again for your support. Really appreciate it!
 <a href="https://github.com/Vrindaverse">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00F5D4&center=true&vCenter=true&width=760&height=50&lines=%3E+initializing+Vrindaverse...;%3E+full-stack+%C2%B7+AI%2FML+%C2%B7+cybersecurity+%C2%B7+linux;%3E+i+use+arch%2C+btw+%F0%9F%90%A7;%3E+chess+%E2%99%9F%EF%B8%8F+%C2%B7+anime+%C2%B7+storytelling+%E2%9C%8D%EF%B8%8F;%3E+turning+ambitious+ideas+into+reality+%E2%9C%A8;%3E+open+to+missions" alt="typing" />
 </a>
@@ -102,7 +98,7 @@ Vice President, People Management at AIESEC in Bhopal: led portfolio-wide engage
 </div>
 
 <img src="https://streak-stats.demolab.com?user=Vrindaverse&theme=tokyonight&hide_border=true&background=0f0c29&ring=00f5d4&fire=ff4ecd&currStreakLabel=00f5d4" alt="streak" />
-<img src="https/github-readme-activity-graph.vercel.app/graph?username=Vrindaverse&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=00f5d4&line=7b61ff&point=ffffff&area=true&area_color=7b61ff" alt="activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vrindaverse&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=00f5d4&line=7b61ff&point=ffffff&area=true&area_color=7b61ff" alt="activity graph" />
 
 <!-- GitHub profile summary cards alternative -->
 <div style="margin-top:1rem; padding:1rem; background:rgba(15,12,41,0.5); border-radius:8px; border:1px solid #00f5d4;">
@@ -147,6 +143,8 @@ Vice President, People Management at AIESEC in Bhopal: led portfolio-wide engage
 
 *"Small, useful work over vague claims."*
 
+</div>
+
 ## 🧭 SIDE QUESTS
 
 chess 🐎 — Hindi literature — Indian culture
@@ -175,3 +173,5 @@ chess 🐎 — Hindi literature — Indian culture
 *"Small, useful work over vague claims."*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:7b61ff,100:0f0c29&height=140&section=footer&reversal=true" width="100%" alt="" />
