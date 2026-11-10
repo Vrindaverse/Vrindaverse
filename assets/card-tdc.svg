@@ -3,26 +3,26 @@
     <path id="csp" d="M0 -10 C1.5 -3 3 -1.5 10 0 C3 1.5 1.5 3 0 10 C-1.5 3 -3 1.5 -10 0 C-3 -1.5 -1.5 -3 0 -10 Z"/>
     <clipPath id="cc"><rect x="8" y="8" width="532" height="272" rx="20"/></clipPath>
   </defs>
-  <rect x="16" y="16" width="532" height="272" rx="20" fill="#8FBCEA"/>
-  <rect x="8" y="8" width="532" height="272" rx="20" fill="#FFFDF8"/>
+  <rect x="16" y="16" width="532" height="272" rx="20" fill="#2F4A63"/>
+  <rect x="8" y="8" width="532" height="272" rx="20" fill="#1C1B19"/>
   <g clip-path="url(#cc)"><rect x="8" y="8" width="532" height="96" fill="#CDEAC0"/></g>
-  <line x1="8" y1="104" x2="540" y2="104" stroke="#2D2D2D" stroke-width="3"/>
-  <rect x="8" y="8" width="532" height="272" rx="20" fill="none" stroke="#2D2D2D" stroke-width="3"/>
+  <line x1="8" y1="104" x2="540" y2="104" stroke="#F8F5F0" stroke-width="3"/>
+  <rect x="8" y="8" width="532" height="272" rx="20" fill="none" stroke="#F8F5F0" stroke-width="3"/>
 
   <text x="32" y="70" font-family="'Arial Black', Impact, sans-serif" font-size="30" letter-spacing="1" fill="#2A2A2A">TDC</text>
-  <use href="#csp" transform="translate(512,50) scale(1.1)" fill="#2A2A2A"/>
+  <use href="#csp" transform="translate(512,50) scale(1.1)" fill="#F8F5F0"/>
 
-  <text x="32" y="142" font-family="'Courier New', monospace" font-size="15" fill="#5C5C5C">Technocrats Developer Community.</text>
-  <text x="32" y="166" font-family="'Courier New', monospace" font-size="15" fill="#5C5C5C">Building a campus dev culture that ships.</text>
+  <text x="32" y="142" font-family="'Courier New', monospace" font-size="15" fill="#B7B1A6">Technocrats Developer Community.</text>
+  <text x="32" y="166" font-family="'Courier New', monospace" font-size="15" fill="#B7B1A6">Building a campus dev culture that ships.</text>
 
   <g font-family="'Courier New', monospace" font-size="12" fill="#2A2A2A">
-    <rect x="34" y="196" width="105" height="30" rx="8" fill="#2D2D2D"/>
+    <rect x="34" y="196" width="105" height="30" rx="8" fill="#000000"/>
     <rect x="32" y="194" width="105" height="30" rx="8" fill="#B8D8F8" stroke="#2D2D2D" stroke-width="2"/>
     <text x="84" y="213" text-anchor="middle">COMMUNITY</text>
-    <rect x="151" y="196" width="80" height="30" rx="8" fill="#2D2D2D"/>
+    <rect x="151" y="196" width="80" height="30" rx="8" fill="#000000"/>
     <rect x="149" y="194" width="80" height="30" rx="8" fill="#FFD8BE" stroke="#2D2D2D" stroke-width="2"/>
     <text x="189" y="213" text-anchor="middle">EVENTS</text>
   </g>
 
-  <text x="32" y="258" font-family="'Courier New', monospace" font-size="14" font-weight="bold" fill="#2A2A2A">-&gt; github.com/Vrindaverse/TDC</text>
+  <text x="32" y="258" font-family="'Courier New', monospace" font-size="14" font-weight="bold" fill="#F8F5F0">-&gt; github.com/Vrindaverse/TDC</text>
 </svg>

@@ -96,10 +96,10 @@ Off-screen: chess, creative writing, Hindi literature, and Indian culture.
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vrindaverse&show_icons=true&include_all_commits=true&count_private=true&bg_color=FFFDF8&title_color=2A2A2A&text_color=2A2A2A&icon_color=2D2D2D&border_color=2D2D2D&border_radius=20" alt="GitHub stats for Vrindaverse" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrindaverse&layout=compact&bg_color=FFFDF8&title_color=2A2A2A&text_color=2A2A2A&border_color=2D2D2D&border_radius=20" alt="Top languages used by Vrindaverse" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vrindaverse&show_icons=true&include_all_commits=true&count_private=true&bg_color=1C1B19&title_color=F8F5F0&text_color=F8F5F0&icon_color=F7E8A4&border_color=F8F5F0&border_radius=20" alt="GitHub stats for Vrindaverse" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrindaverse&layout=compact&bg_color=1C1B19&title_color=F8F5F0&text_color=F8F5F0&border_color=F8F5F0&border_radius=20" alt="Top languages used by Vrindaverse" />
   <br/>
-  <img width="98%" src="https://streak-stats.demolab.com?user=Vrindaverse&background=FFFDF8&border=2D2D2D&stroke=2D2D2D&ring=93CFC9&fire=F7E8A4&currStreakLabel=2A2A2A&sideLabels=2A2A2A&dates=5C5C5C&currStreakNum=2A2A2A&sideNums=2A2A2A" alt="Contribution streak for Vrindaverse" />
+  <img width="98%" src="https://streak-stats.demolab.com?user=Vrindaverse&background=1C1B19&border=F8F5F0&stroke=F8F5F0&ring=93CFC9&fire=F7E8A4&currStreakLabel=F8F5F0&sideLabels=F8F5F0&dates=B7B1A6&currStreakNum=F8F5F0&sideNums=F8F5F0" alt="Contribution streak for Vrindaverse" />
 </div>
 
 <div align="center">
@@ -150,16 +150,16 @@ Off-screen: chess, creative writing, Hindi literature, and Indian culture.
 
 <div align="center">
   <a href="https://github.com/Vrindaverse">
-    <img src="https://img.shields.io/badge/GitHub-Vrindaverse-F7E8A4?style=for-the-badge&logo=github&logoColor=2A2A2A&labelColor=2D2D2D" alt="GitHub: Vrindaverse" />
+    <img src="https://img.shields.io/badge/GitHub-Vrindaverse-F7E8A4?style=for-the-badge&logo=github&logoColor=1C1B19&labelColor=1C1B19" alt="GitHub: Vrindaverse" />
   </a>
   <!-- TODO: replace with your LinkedIn URL -->
-  <img src="https://img.shields.io/badge/LinkedIn-TODO-F0ECE4?style=for-the-badge&logo=linkedin&logoColor=2D2D2D&labelColor=2D2D2D" alt="LinkedIn: TODO" />
+  <img src="https://img.shields.io/badge/LinkedIn-TODO-2A2926?style=for-the-badge&logo=linkedin&logoColor=F8F5F0&labelColor=1C1B19" alt="LinkedIn: TODO" />
   <!-- TODO: replace with your email address -->
-  <img src="https://img.shields.io/badge/Email-TODO-F0ECE4?style=for-the-badge&logo=gmail&logoColor=2D2D2D&labelColor=2D2D2D" alt="Email: TODO" />
+  <img src="https://img.shields.io/badge/Email-TODO-2A2926?style=for-the-badge&logo=gmail&logoColor=F8F5F0&labelColor=1C1B19" alt="Email: TODO" />
 </div>
 
 <br/>
 
 <div align="center">
-  <sub>Built with ivory, ink, and hard shadows.</sub>
+  <sub>Built with charcoal, pastel, and hard shadows.</sub>
 </div>

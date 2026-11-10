@@ -23,6 +23,16 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
+          extras_css: |
+            svg { background-color: #1C1B19 !important; color: #F8F5F0 !important; }
+            h1, h2 { color: #F8F5F0 !important; }
+            .field svg { fill: #B7B1A6 !important; }
+            footer { color: #B7B1A6 !important; }
+            rect.day[fill="#ebedf0" i] { fill: #2A2926 !important; }
+            rect.day[fill="#9be9a8" i] { fill: #CDEAC0 !important; }
+            rect.day[fill="#40c463" i] { fill: #B8D8F8 !important; }
+            rect.day[fill="#30a14e" i] { fill: #93CFC9 !important; }
+            rect.day[fill="#216e39" i] { fill: #F7E8A4 !important; }
           output_action: commit
           committer_branch: main
           committer_message: "chore: update github metrics"

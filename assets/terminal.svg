@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="440" viewBox="0 0 900 440" role="img" aria-label="Neo-brutalist terminal window showing whoami, stack, and status lines for Nikhil Mahalik.">
   <defs>
     <pattern id="tdots" width="16" height="16" patternUnits="userSpaceOnUse">
-      <circle cx="1.5" cy="1.5" r="1" fill="#2D2D2D" opacity="0.16"/>
+      <circle cx="1.5" cy="1.5" r="1" fill="#F8F5F0" opacity="0.10"/>
     </pattern>
     <clipPath id="win"><rect x="8" y="8" width="884" height="424" rx="20"/></clipPath>
     <path id="tspark" d="M0 -10 C1.5 -3 3 -1.5 10 0 C3 1.5 1.5 3 0 10 C-1.5 3 -3 1.5 -10 0 C-3 -1.5 -1.5 -3 0 -10 Z"/>
@@ -22,45 +22,45 @@
     ]]></style>
   </defs>
 
-  <rect x="16" y="16" width="884" height="424" rx="20" fill="#A8DA96"/>
-  <rect x="8" y="8" width="884" height="424" rx="20" fill="#FFFDF8" stroke="#2D2D2D" stroke-width="3"/>
+  <rect x="16" y="16" width="884" height="424" rx="20" fill="#3A5A32"/>
+  <rect x="8" y="8" width="884" height="424" rx="20" fill="#1C1B19" stroke="#F8F5F0" stroke-width="3"/>
   <rect x="8" y="8" width="884" height="424" rx="20" fill="url(#tdots)"/>
 
   <g clip-path="url(#win)"><rect x="8" y="8" width="884" height="60" fill="#B8D8F8"/></g>
-  <line x1="8" y1="68" x2="892" y2="68" stroke="#2D2D2D" stroke-width="3"/>
+  <line x1="8" y1="68" x2="892" y2="68" stroke="#F8F5F0" stroke-width="3"/>
 
   <rect x="30" y="26" width="20" height="20" rx="4" fill="#F8C8C8" stroke="#2D2D2D" stroke-width="2.5"/>
   <rect x="60" y="26" width="20" height="20" rx="4" fill="#F7E8A4" stroke="#2D2D2D" stroke-width="2.5"/>
   <rect x="90" y="26" width="20" height="20" rx="4" fill="#CDEAC0" stroke="#2D2D2D" stroke-width="2.5"/>
   <text x="130" y="44" font-family="'Courier New', monospace" font-size="15" fill="#2A2A2A">vrinda@commit: ~</text>
 
-  <rect x="8" y="8" width="884" height="424" rx="20" fill="none" stroke="#2D2D2D" stroke-width="3"/>
+  <rect x="8" y="8" width="884" height="424" rx="20" fill="none" stroke="#F8F5F0" stroke-width="3"/>
 
   <g font-family="'Courier New', monospace" font-size="17">
     <g class="ln l1">
-      <text x="40" y="122" fill="#5C5C5C">&gt; whoami</text>
+      <text x="40" y="122" fill="#B7B1A6">&gt; whoami</text>
     </g>
     <g class="ln l2">
-      <text x="40" y="150" fill="#2A2A2A">nikhil mahalik / aka vrinda</text>
+      <text x="40" y="150" fill="#F8F5F0">nikhil mahalik / aka vrinda</text>
     </g>
     <g class="ln l3">
-      <text x="40" y="196" fill="#5C5C5C">&gt; stack</text>
+      <text x="40" y="196" fill="#B7B1A6">&gt; stack</text>
     </g>
     <g class="ln l4">
-      <text x="40" y="224" fill="#2A2A2A">typescript / react / next.js / python</text>
+      <text x="40" y="224" fill="#F8F5F0">typescript / react / next.js / python</text>
     </g>
     <g class="ln l5">
-      <text x="40" y="270" fill="#5C5C5C">&gt; status</text>
+      <text x="40" y="270" fill="#B7B1A6">&gt; status</text>
     </g>
     <g class="ln l6">
-      <text x="40" y="298" fill="#2A2A2A">building ananta / open to internships</text>
+      <text x="40" y="298" fill="#F8F5F0">building ananta / open to internships</text>
     </g>
   </g>
 
-  <rect class="cur" x="450" y="282" width="12" height="20" fill="#2D2D2D"/>
+  <rect class="cur" x="450" y="282" width="12" height="20" fill="#F8F5F0"/>
 
-  <text x="40" y="360" font-family="'Courier New', monospace" font-size="14" fill="#5C5C5C">tip: open a project card to see the repo</text>
+  <text x="40" y="360" font-family="'Courier New', monospace" font-size="14" fill="#B7B1A6">tip: open a project card to see the repo</text>
 
   <use href="#tspark" transform="translate(800,352) scale(1.6)" fill="#93CFC9"/>
-  <use href="#tspark" transform="translate(838,384) scale(1)" fill="#2A2A2A"/>
+  <use href="#tspark" transform="translate(838,384) scale(1)" fill="#F8F5F0"/>
 </svg>

@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="Nikhil Mahalik, aka Vrinda. Full-stack developer. Stickers: full-stack, AI and ML, security, architecture. B.Tech CSE 2028, Technocrats Institute of Technology and Science, Bhopal.">
   <defs>
     <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse">
-      <circle cx="1.5" cy="1.5" r="1" fill="#2D2D2D" opacity="0.16"/>
+      <circle cx="1.5" cy="1.5" r="1" fill="#F8F5F0" opacity="0.10"/>
     </pattern>
     <path id="spark" d="M0 -10 C1.5 -3 3 -1.5 10 0 C3 1.5 1.5 3 0 10 C-1.5 3 -3 1.5 -10 0 C-3 -1.5 -1.5 -3 0 -10 Z"/>
     <style><![CDATA[
@@ -23,44 +23,44 @@
     ]]></style>
   </defs>
 
-  <rect x="16" y="16" width="1168" height="408" rx="20" fill="#BFB4E0"/>
-  <rect x="8" y="8" width="1168" height="408" rx="20" fill="#FFFDF8" stroke="#2D2D2D" stroke-width="3"/>
+  <rect x="16" y="16" width="1168" height="408" rx="20" fill="#4A4166"/>
+  <rect x="8" y="8" width="1168" height="408" rx="20" fill="#1C1B19" stroke="#F8F5F0" stroke-width="3"/>
   <rect x="8" y="8" width="1168" height="408" rx="20" fill="url(#dots)"/>
 
-  <rect x="60" y="68" width="96" height="96" rx="16" fill="#2D2D2D"/>
+  <rect x="60" y="68" width="96" height="96" rx="16" fill="#000000"/>
   <rect x="56" y="64" width="96" height="96" rx="16" fill="#F7E8A4" stroke="#2D2D2D" stroke-width="3"/>
   <text x="104" y="140" text-anchor="middle" font-family="'Arial Black', Impact, sans-serif" font-size="60" fill="#2A2A2A">V</text>
 
-  <text x="184" y="126" font-family="'Arial Black', Impact, sans-serif" font-size="56" letter-spacing="1" fill="#2A2A2A">NIKHIL MAHALIK</text>
-  <text x="186" y="168" font-family="Georgia, serif" font-style="italic" font-size="28" fill="#5C5C5C">aka Vrinda</text>
+  <text x="184" y="126" font-family="'Arial Black', Impact, sans-serif" font-size="56" letter-spacing="1" fill="#F8F5F0">NIKHIL MAHALIK</text>
+  <text x="186" y="168" font-family="Georgia, serif" font-style="italic" font-size="28" fill="#B7B1A6">aka Vrinda</text>
 
   <g class="bob b1">
-    <rect x="60" y="234" width="172" height="48" rx="12" fill="#2D2D2D"/>
+    <rect x="60" y="234" width="172" height="48" rx="12" fill="#000000"/>
     <rect x="56" y="230" width="172" height="48" rx="12" fill="#F7E8A4" stroke="#2D2D2D" stroke-width="3"/>
     <text x="142" y="261" text-anchor="middle" font-family="'Arial Black', Impact, sans-serif" font-size="17" fill="#2A2A2A">FULL-STACK</text>
   </g>
 
   <g class="bob b2">
-    <rect x="248" y="234" width="104" height="48" rx="12" fill="#2D2D2D"/>
+    <rect x="248" y="234" width="104" height="48" rx="12" fill="#000000"/>
     <rect x="244" y="230" width="104" height="48" rx="12" fill="#B8D8F8" stroke="#2D2D2D" stroke-width="3"/>
     <text x="296" y="261" text-anchor="middle" font-family="'Arial Black', Impact, sans-serif" font-size="17" fill="#2A2A2A">AI/ML</text>
   </g>
 
   <g class="bob b3">
-    <rect x="376" y="234" width="150" height="48" rx="12" fill="#2D2D2D"/>
+    <rect x="376" y="234" width="150" height="48" rx="12" fill="#000000"/>
     <rect x="372" y="230" width="150" height="48" rx="12" fill="#CDEAC0" stroke="#2D2D2D" stroke-width="3"/>
     <text x="447" y="261" text-anchor="middle" font-family="'Arial Black', Impact, sans-serif" font-size="17" fill="#2A2A2A">SECURITY</text>
   </g>
 
   <g class="bob b4">
-    <rect x="546" y="234" width="164" height="48" rx="12" fill="#2D2D2D"/>
+    <rect x="546" y="234" width="164" height="48" rx="12" fill="#000000"/>
     <rect x="542" y="230" width="164" height="48" rx="12" fill="#DCCEF5" stroke="#2D2D2D" stroke-width="3"/>
     <text x="624" y="261" text-anchor="middle" font-family="'Arial Black', Impact, sans-serif" font-size="17" fill="#2A2A2A">ARCH BTW</text>
   </g>
 
-  <text x="56" y="356" font-family="'Courier New', monospace" font-size="16" letter-spacing="1" fill="#5C5C5C">B.TECH CSE (2028) · TECHNOCRATS INSTITUTE OF TECHNOLOGY AND SCIENCE, BHOPAL</text>
+  <text x="56" y="356" font-family="'Courier New', monospace" font-size="16" letter-spacing="1" fill="#B7B1A6">B.TECH CSE (2028) · TECHNOCRATS INSTITUTE OF TECHNOLOGY AND SCIENCE, BHOPAL</text>
 
   <use href="#spark" transform="translate(1090,120) scale(2.2)" fill="#93CFC9" class="tw t1"/>
   <use href="#spark" transform="translate(1132,190) scale(1.2)" fill="#F7E8A4" class="tw t2"/>
-  <use href="#spark" transform="translate(1052,232) scale(1)" fill="#2A2A2A" class="tw t3"/>
+  <use href="#spark" transform="translate(1052,232) scale(1)" fill="#F8F5F0" class="tw t3"/>
 </svg>

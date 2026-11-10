@@ -1,85 +1,85 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-label="Commit-style palette and type swatch: ivory paper, ink, muted, seven sticker pastels, and display, serif, and mono type samples.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-label="Dark Commit-style palette and type swatch: charcoal paper, ivory ink, muted tones, seven sticker pastels, and display, serif, and mono type samples.">
   <defs>
     <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse">
-      <circle cx="1.5" cy="1.5" r="1" fill="#2D2D2D" opacity="0.16"/>
+      <circle cx="1.5" cy="1.5" r="1" fill="#F8F5F0" opacity="0.10"/>
     </pattern>
     <path id="spark" d="M0 -10 C1.5 -3 3 -1.5 10 0 C3 1.5 1.5 3 0 10 C-1.5 3 -3 1.5 -10 0 C-3 -1.5 -1.5 -3 0 -10 Z"/>
   </defs>
 
-  <rect x="16" y="16" width="1160" height="668" rx="20" fill="#BFB4E0"/>
-  <rect x="8" y="8" width="1160" height="668" rx="20" fill="#FFFDF8" stroke="#2D2D2D" stroke-width="3"/>
+  <rect x="16" y="16" width="1160" height="668" rx="20" fill="#4A4166"/>
+  <rect x="8" y="8" width="1160" height="668" rx="20" fill="#1C1B19" stroke="#F8F5F0" stroke-width="3"/>
   <rect x="8" y="8" width="1160" height="668" rx="20" fill="url(#dots)"/>
 
-  <use href="#spark" transform="translate(34,66) scale(1.4)" fill="#2A2A2A"/>
-  <text x="52" y="78" font-family="'Arial Black', Impact, sans-serif" font-size="30" letter-spacing="1" fill="#2A2A2A">PALETTE / TYPE SWATCH</text>
-  <text x="52" y="108" font-family="Georgia, serif" font-style="italic" font-size="18" fill="#5C5C5C">Commit system — ivory paper, ink borders, hard shadows</text>
+  <use href="#spark" transform="translate(34,66) scale(1.4)" fill="#F8F5F0"/>
+  <text x="52" y="78" font-family="'Arial Black', Impact, sans-serif" font-size="30" letter-spacing="1" fill="#F8F5F0">PALETTE / TYPE SWATCH</text>
+  <text x="52" y="108" font-family="Georgia, serif" font-style="italic" font-size="18" fill="#B7B1A6">Dark Commit system — charcoal paper, ivory ink, hard shadows</text>
 
-  <text x="48" y="146" font-family="'Courier New', monospace" font-size="13" letter-spacing="2" fill="#5C5C5C">PALETTE — SURFACE AND INK</text>
+  <text x="48" y="146" font-family="'Courier New', monospace" font-size="13" letter-spacing="2" fill="#B7B1A6">PALETTE — SURFACE AND INK</text>
 
   <g font-family="'Courier New', monospace">
-    <text x="48" y="170" font-size="12" fill="#5C5C5C">PAPER</text>
-    <rect x="48" y="180" width="168" height="70" rx="12" fill="#F8F5F0" stroke="#2D2D2D" stroke-width="3"/>
-    <text x="132" y="221" font-size="15" text-anchor="middle" fill="#2A2A2A">#F8F5F0</text>
+    <text x="48" y="170" font-size="12" fill="#B7B1A6">PAPER</text>
+    <rect x="48" y="180" width="168" height="70" rx="12" fill="#1C1B19" stroke="#F8F5F0" stroke-width="3"/>
+    <text x="132" y="221" font-size="15" text-anchor="middle" fill="#F8F5F0">#1C1B19</text>
 
-    <text x="230" y="170" font-size="12" fill="#5C5C5C">CARD</text>
-    <rect x="230" y="180" width="168" height="70" rx="12" fill="#FFFDF8" stroke="#2D2D2D" stroke-width="3"/>
-    <text x="314" y="221" font-size="15" text-anchor="middle" fill="#2A2A2A">#FFFDF8</text>
+    <text x="230" y="170" font-size="12" fill="#B7B1A6">CARD</text>
+    <rect x="230" y="180" width="168" height="70" rx="12" fill="#2A2926" stroke="#F8F5F0" stroke-width="3"/>
+    <text x="314" y="221" font-size="15" text-anchor="middle" fill="#F8F5F0">#2A2926</text>
 
-    <text x="412" y="170" font-size="12" fill="#5C5C5C">INK</text>
-    <rect x="412" y="180" width="168" height="70" rx="12" fill="#2A2A2A" stroke="#2D2D2D" stroke-width="3"/>
-    <text x="496" y="221" font-size="15" text-anchor="middle" fill="#FFFDF8">#2A2A2A</text>
+    <text x="412" y="170" font-size="12" fill="#B7B1A6">INK</text>
+    <rect x="412" y="180" width="168" height="70" rx="12" fill="#F8F5F0" stroke="#F8F5F0" stroke-width="3"/>
+    <text x="496" y="221" font-size="15" text-anchor="middle" fill="#2A2A2A">#F8F5F0</text>
 
-    <text x="594" y="170" font-size="12" fill="#5C5C5C">BORDER</text>
-    <rect x="594" y="180" width="168" height="70" rx="12" fill="#2D2D2D" stroke="#2D2D2D" stroke-width="3"/>
-    <text x="678" y="221" font-size="15" text-anchor="middle" fill="#FFFDF8">#2D2D2D</text>
+    <text x="594" y="170" font-size="12" fill="#B7B1A6">BORDER</text>
+    <rect x="594" y="180" width="168" height="70" rx="12" fill="#F8F5F0" stroke="#F8F5F0" stroke-width="3"/>
+    <text x="678" y="221" font-size="15" text-anchor="middle" fill="#2A2A2A">#F8F5F0</text>
 
-    <text x="776" y="170" font-size="12" fill="#5C5C5C">MUTED TEXT</text>
-    <rect x="776" y="180" width="168" height="70" rx="12" fill="#5C5C5C" stroke="#2D2D2D" stroke-width="3"/>
-    <text x="860" y="221" font-size="15" text-anchor="middle" fill="#FFFDF8">#5C5C5C</text>
+    <text x="776" y="170" font-size="12" fill="#B7B1A6">MUTED TEXT</text>
+    <rect x="776" y="180" width="168" height="70" rx="12" fill="#B7B1A6" stroke="#F8F5F0" stroke-width="3"/>
+    <text x="860" y="221" font-size="15" text-anchor="middle" fill="#2A2A2A">#B7B1A6</text>
 
-    <text x="958" y="170" font-size="12" fill="#5C5C5C">MUTED FILL</text>
-    <rect x="958" y="180" width="168" height="70" rx="12" fill="#F0ECE4" stroke="#2D2D2D" stroke-width="3"/>
-    <text x="1042" y="221" font-size="15" text-anchor="middle" fill="#2A2A2A">#F0ECE4</text>
+    <text x="958" y="170" font-size="12" fill="#B7B1A6">SHADOW</text>
+    <rect x="958" y="180" width="168" height="70" rx="12" fill="#4A4166" stroke="#F8F5F0" stroke-width="3"/>
+    <text x="1042" y="221" font-size="15" text-anchor="middle" fill="#F8F5F0">#4A4166</text>
   </g>
 
-  <text x="48" y="286" font-family="'Courier New', monospace" font-size="13" letter-spacing="2" fill="#5C5C5C">PALETTE — STICKER PASTELS</text>
+  <text x="48" y="286" font-family="'Courier New', monospace" font-size="13" letter-spacing="2" fill="#B7B1A6">PALETTE — STICKER PASTELS</text>
 
   <g font-family="'Courier New', monospace">
-    <text x="48" y="310" font-size="12" fill="#5C5C5C">YELLOW</text>
+    <text x="48" y="310" font-size="12" fill="#B7B1A6">YELLOW</text>
     <rect x="48" y="320" width="148" height="70" rx="12" fill="#F7E8A4" stroke="#2D2D2D" stroke-width="3"/>
     <text x="122" y="361" font-size="14" text-anchor="middle" fill="#2A2A2A">#F7E8A4</text>
 
-    <text x="208" y="310" font-size="12" fill="#5C5C5C">BLUE</text>
+    <text x="208" y="310" font-size="12" fill="#B7B1A6">BLUE</text>
     <rect x="208" y="320" width="148" height="70" rx="12" fill="#B8D8F8" stroke="#2D2D2D" stroke-width="3"/>
     <text x="282" y="361" font-size="14" text-anchor="middle" fill="#2A2A2A">#B8D8F8</text>
 
-    <text x="368" y="310" font-size="12" fill="#5C5C5C">GREEN</text>
+    <text x="368" y="310" font-size="12" fill="#B7B1A6">GREEN</text>
     <rect x="368" y="320" width="148" height="70" rx="12" fill="#CDEAC0" stroke="#2D2D2D" stroke-width="3"/>
     <text x="442" y="361" font-size="14" text-anchor="middle" fill="#2A2A2A">#CDEAC0</text>
 
-    <text x="528" y="310" font-size="12" fill="#5C5C5C">PURPLE</text>
+    <text x="528" y="310" font-size="12" fill="#B7B1A6">PURPLE</text>
     <rect x="528" y="320" width="148" height="70" rx="12" fill="#DCCEF5" stroke="#2D2D2D" stroke-width="3"/>
     <text x="602" y="361" font-size="14" text-anchor="middle" fill="#2A2A2A">#DCCEF5</text>
 
-    <text x="688" y="310" font-size="12" fill="#5C5C5C">PEACH</text>
+    <text x="688" y="310" font-size="12" fill="#B7B1A6">PEACH</text>
     <rect x="688" y="320" width="148" height="70" rx="12" fill="#FFD8BE" stroke="#2D2D2D" stroke-width="3"/>
     <text x="762" y="361" font-size="14" text-anchor="middle" fill="#2A2A2A">#FFD8BE</text>
 
-    <text x="848" y="310" font-size="12" fill="#5C5C5C">PINK</text>
+    <text x="848" y="310" font-size="12" fill="#B7B1A6">PINK</text>
     <rect x="848" y="320" width="148" height="70" rx="12" fill="#F8C8C8" stroke="#2D2D2D" stroke-width="3"/>
     <text x="922" y="361" font-size="14" text-anchor="middle" fill="#2A2A2A">#F8C8C8</text>
 
-    <text x="1008" y="310" font-size="12" fill="#5C5C5C">TEAL</text>
+    <text x="1008" y="310" font-size="12" fill="#B7B1A6">TEAL</text>
     <rect x="1008" y="320" width="148" height="70" rx="12" fill="#93CFC9" stroke="#2D2D2D" stroke-width="3"/>
     <text x="1082" y="361" font-size="14" text-anchor="middle" fill="#2A2A2A">#93CFC9</text>
   </g>
 
-  <line x1="48" y1="426" x2="1152" y2="426" stroke="#2D2D2D" stroke-width="3" stroke-dasharray="2 8" stroke-linecap="round"/>
+  <line x1="48" y1="426" x2="1152" y2="426" stroke="#F8F5F0" stroke-width="3" stroke-dasharray="2 8" stroke-linecap="round"/>
 
-  <text x="48" y="462" font-family="'Courier New', monospace" font-size="13" letter-spacing="2" fill="#5C5C5C">TYPE — DISPLAY / SERIF / MONO</text>
+  <text x="48" y="462" font-family="'Courier New', monospace" font-size="13" letter-spacing="2" fill="#B7B1A6">TYPE — DISPLAY / SERIF / MONO</text>
 
-  <text x="48" y="524" font-family="'Arial Black', Impact, sans-serif" font-size="54" letter-spacing="2" fill="#2A2A2A">NIKHIL MAHALIK</text>
-  <text x="48" y="572" font-family="Georgia, serif" font-style="italic" font-size="34" fill="#5C5C5C">aka Vrinda</text>
-  <text x="48" y="614" font-family="'Courier New', monospace" font-size="22" fill="#2A2A2A">&gt; whoami: full-stack developer</text>
-  <text x="48" y="650" font-family="'Courier New', monospace" font-size="13" fill="#5C5C5C">Fallbacks only — GitHub img SVGs cannot load web fonts.</text>
+  <text x="48" y="524" font-family="'Arial Black', Impact, sans-serif" font-size="54" letter-spacing="2" fill="#F8F5F0">NIKHIL MAHALIK</text>
+  <text x="48" y="572" font-family="Georgia, serif" font-style="italic" font-size="34" fill="#B7B1A6">aka Vrinda</text>
+  <text x="48" y="614" font-family="'Courier New', monospace" font-size="22" fill="#F8F5F0">&gt; whoami: full-stack developer</text>
+  <text x="48" y="650" font-family="'Courier New', monospace" font-size="13" fill="#B7B1A6">Fallbacks only — GitHub img SVGs cannot load web fonts.</text>
 </svg>

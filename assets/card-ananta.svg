@@ -4,36 +4,36 @@
     <clipPath id="ac"><rect x="8" y="8" width="1092" height="312" rx="20"/></clipPath>
   </defs>
 
-  <rect x="16" y="16" width="1092" height="312" rx="20" fill="#E6D06A"/>
-  <rect x="8" y="8" width="1092" height="312" rx="20" fill="#FFFDF8"/>
+  <rect x="16" y="16" width="1092" height="312" rx="20" fill="#5A5024"/>
+  <rect x="8" y="8" width="1092" height="312" rx="20" fill="#1C1B19"/>
   <g clip-path="url(#ac)"><rect x="8" y="8" width="1092" height="120" fill="#DCCEF5"/></g>
-  <line x1="8" y1="128" x2="1100" y2="128" stroke="#2D2D2D" stroke-width="3"/>
-  <rect x="8" y="8" width="1092" height="312" rx="20" fill="none" stroke="#2D2D2D" stroke-width="3"/>
+  <line x1="8" y1="128" x2="1100" y2="128" stroke="#F8F5F0" stroke-width="3"/>
+  <rect x="8" y="8" width="1092" height="312" rx="20" fill="none" stroke="#F8F5F0" stroke-width="3"/>
 
   <text x="44" y="90" font-family="'Arial Black', Impact, sans-serif" font-size="46" letter-spacing="1" fill="#2A2A2A">ANANTA</text>
-  <rect x="884" y="48" width="176" height="48" rx="12" fill="#2D2D2D"/>
+  <rect x="884" y="48" width="176" height="48" rx="12" fill="#000000"/>
   <rect x="880" y="44" width="176" height="48" rx="12" fill="#F7E8A4" stroke="#2D2D2D" stroke-width="3"/>
   <text x="968" y="74" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" font-weight="bold" letter-spacing="2" fill="#2A2A2A">FLAGSHIP</text>
 
-  <text x="44" y="174" font-family="'Courier New', monospace" font-size="18" fill="#5C5C5C">A browser-based 2D pixel-art creature-catching RPG with a persistent world.</text>
-  <text x="44" y="204" font-family="'Courier New', monospace" font-size="18" fill="#5C5C5C">Phaser + TypeScript. First region: Anantavana.</text>
+  <text x="44" y="174" font-family="'Courier New', monospace" font-size="18" fill="#B7B1A6">A browser-based 2D pixel-art creature-catching RPG with a persistent world.</text>
+  <text x="44" y="204" font-family="'Courier New', monospace" font-size="18" fill="#B7B1A6">Phaser + TypeScript. First region: Anantavana.</text>
 
   <g font-family="'Courier New', monospace" font-size="13" fill="#2A2A2A">
-    <rect x="46" y="242" width="100" height="34" rx="8" fill="#2D2D2D"/>
+    <rect x="46" y="242" width="100" height="34" rx="8" fill="#000000"/>
     <rect x="44" y="240" width="100" height="34" rx="8" fill="#F7E8A4" stroke="#2D2D2D" stroke-width="2"/>
     <text x="94" y="262" text-anchor="middle">PHASER</text>
-    <rect x="160" y="242" width="140" height="34" rx="8" fill="#2D2D2D"/>
+    <rect x="160" y="242" width="140" height="34" rx="8" fill="#000000"/>
     <rect x="158" y="240" width="140" height="34" rx="8" fill="#B8D8F8" stroke="#2D2D2D" stroke-width="2"/>
     <text x="228" y="262" text-anchor="middle">TYPESCRIPT</text>
-    <rect x="314" y="242" width="120" height="34" rx="8" fill="#2D2D2D"/>
+    <rect x="314" y="242" width="120" height="34" rx="8" fill="#000000"/>
     <rect x="312" y="240" width="120" height="34" rx="8" fill="#CDEAC0" stroke="#2D2D2D" stroke-width="2"/>
     <text x="372" y="262" text-anchor="middle">PIXEL ART</text>
-    <rect x="448" y="242" width="200" height="34" rx="8" fill="#2D2D2D"/>
+    <rect x="448" y="242" width="200" height="34" rx="8" fill="#000000"/>
     <rect x="446" y="240" width="200" height="34" rx="8" fill="#FFD8BE" stroke="#2D2D2D" stroke-width="2"/>
     <text x="546" y="262" text-anchor="middle">PERSISTENT WORLD</text>
   </g>
 
-  <text x="44" y="306" font-family="'Courier New', monospace" font-size="15" font-weight="bold" fill="#2A2A2A">-&gt; github.com/Vrindaverse/Ananta</text>
+  <text x="44" y="306" font-family="'Courier New', monospace" font-size="15" font-weight="bold" fill="#F8F5F0">-&gt; github.com/Vrindaverse/Ananta</text>
   <use href="#asp" transform="translate(1040,200) scale(2.4)" fill="#93CFC9"/>
   <use href="#asp" transform="translate(1000,270) scale(1.2)" fill="#F7E8A4"/>
 </svg>

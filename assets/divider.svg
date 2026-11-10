@@ -10,10 +10,10 @@
     ]]></style>
     <path id="spark" d="M0 -10 C1.5 -3 3 -1.5 10 0 C3 1.5 1.5 3 0 10 C-1.5 3 -3 1.5 -10 0 C-3 -1.5 -1.5 -3 0 -10 Z"/>
   </defs>
-  <rect x="2" y="6" width="1196" height="32" rx="16" fill="#FFFDF8" stroke="#2D2D2D" stroke-width="3"/>
-  <line x1="40" y1="22" x2="512" y2="22" stroke="#2D2D2D" stroke-width="3" stroke-dasharray="2 10" stroke-linecap="round"/>
-  <line x1="688" y1="22" x2="1160" y2="22" stroke="#2D2D2D" stroke-width="3" stroke-dasharray="2 10" stroke-linecap="round"/>
-  <use href="#spark" transform="translate(562,22) scale(1)" fill="#2D2D2D" class="tw t1"/>
-  <use href="#spark" transform="translate(600,22) scale(1.6)" fill="#2D2D2D" class="tw t2"/>
-  <use href="#spark" transform="translate(638,22) scale(1)" fill="#2D2D2D" class="tw t3"/>
+  <rect x="2" y="6" width="1196" height="32" rx="16" fill="#1C1B19" stroke="#F8F5F0" stroke-width="3"/>
+  <line x1="40" y1="22" x2="512" y2="22" stroke="#F8F5F0" stroke-width="3" stroke-dasharray="2 10" stroke-linecap="round"/>
+  <line x1="688" y1="22" x2="1160" y2="22" stroke="#F8F5F0" stroke-width="3" stroke-dasharray="2 10" stroke-linecap="round"/>
+  <use href="#spark" transform="translate(562,22) scale(1)" fill="#F8F5F0" class="tw t1"/>
+  <use href="#spark" transform="translate(600,22) scale(1.6)" fill="#F8F5F0" class="tw t2"/>
+  <use href="#spark" transform="translate(638,22) scale(1)" fill="#F8F5F0" class="tw t3"/>
 </svg>
