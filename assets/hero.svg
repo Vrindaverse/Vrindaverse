@@ -1,42 +1,53 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="Nikhil Mahalik, aka Vrinda. Full-stack developer. Stickers: full-stack, AI and ML, security, architecture. B.Tech CSE 2028, Technocrats Institute of Technology and Science, Bhopal.">
   <defs>
-    <radialGradient id="starfield" cx="600" cy="200" r="0.3">
-      <stop offset="0%" stop-color="#00f5d4" stop-opacity="0.3"/>
-      <stop offset="100%" stop-color="#ff4ecd" stop-opacity="0.1"/>
-    </radialGradient>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <linearGradient id="scanline" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="transparent"/>
-      <stop offset="50%" stop-color="#00f5d4" stop-opacity="0.1"/>
-      <stop offset="100%" stop-color="transparent"/>
-    </linearGradient>
-    <animateTransform attributeName="transform" type="scale" from="1 1" to="1.05 1.05" dur="3s" repeatCount="indefinite"/>
+    <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1" fill="#2D2D2D" opacity="0.16"/>
+    </pattern>
+    <path id="spark" d="M0 -10 C1.5 -3 3 -1.5 10 0 C3 1.5 1.5 3 0 10 C-1.5 3 -3 1.5 -10 0 C-3 -1.5 -1.5 -3 0 -10 Z"/>
   </defs>
-  <rect width="1200" height="400" fill="url(#starfield)"/>
-  <line y1="0" y2="0" x1="0" x2="1200" stroke="url(#scanline)">
-    <animate attributeName="y1" values="0; 400" dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="y2" values="0; 400" dur="2s" repeatCount="indefinite"/>
-  </line>
-  <text x="600" y="160" text-anchor="middle" font-family="Georgia, serif" font-size="72" fill="#00f5d4" filter="url(#glow)">
-    NIKHIL MAHALIK
-    <animate attributeName="opacity" values="1;0.8;1" dur="2s" repeatCount="indefinite"/>
-  </text>
-  <text x="600" y="210" text-anchor="middle" font-family="Georgia, serif" font-size="36" fill="#7b61ff">
-    aka Vrinda
-    <animate attributeName="opacity" values="1;0.8;1" dur="2s" repeatCount="indefinite" begin="1s"/>
-  </text>
-  <text x="600" y="260" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#ff4ecd">
-    B.Tech CSE (2028) - Technocrats Institute of Technology &amp; Scince
-    <animate attributeName="opacity" values="1;0.8;1" dur="2s" repeatCount="indefinite" begin="2s"/>
-  </text>
-  <line y1="380" y2="380" x1="100" x2="1100" stroke="#ff4ecd" stroke-width="2">
-    <animate attributeName="x1" values="100; 1100; 100" dur="3s" repeatCount="indefinite"/>
-    <animate attributeName="x2" values="1100; 100; 1100" dur="3s" repeatCount="indefinite"/>
-  </line>
+
+  <rect x="16" y="16" width="1168" height="408" rx="20" fill="#BFB4E0"/>
+  <rect x="8" y="8" width="1168" height="408" rx="20" fill="#FFFDF8" stroke="#2D2D2D" stroke-width="3"/>
+  <rect x="8" y="8" width="1168" height="408" rx="20" fill="url(#dots)"/>
+
+  <rect x="60" y="68" width="96" height="96" rx="16" fill="#2D2D2D"/>
+  <rect x="56" y="64" width="96" height="96" rx="16" fill="#F7E8A4" stroke="#2D2D2D" stroke-width="3"/>
+  <text x="104" y="140" text-anchor="middle" font-family="'Arial Black', Impact, sans-serif" font-size="60" fill="#2A2A2A">V</text>
+
+  <text x="184" y="126" font-family="'Arial Black', Impact, sans-serif" font-size="56" letter-spacing="1" fill="#2A2A2A">NIKHIL MAHALIK</text>
+  <text x="186" y="168" font-family="Georgia, serif" font-style="italic" font-size="28" fill="#5C5C5C">aka Vrinda</text>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3.4s" repeatCount="indefinite" begin="0s"/>
+    <rect x="60" y="234" width="172" height="48" rx="12" fill="#2D2D2D"/>
+    <rect x="56" y="230" width="172" height="48" rx="12" fill="#F7E8A4" stroke="#2D2D2D" stroke-width="3"/>
+    <text x="142" y="261" text-anchor="middle" font-family="'Arial Black', Impact, sans-serif" font-size="17" fill="#2A2A2A">FULL-STACK</text>
+  </g>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3.4s" repeatCount="indefinite" begin="0.35s"/>
+    <rect x="248" y="234" width="104" height="48" rx="12" fill="#2D2D2D"/>
+    <rect x="244" y="230" width="104" height="48" rx="12" fill="#B8D8F8" stroke="#2D2D2D" stroke-width="3"/>
+    <text x="296" y="261" text-anchor="middle" font-family="'Arial Black', Impact, sans-serif" font-size="17" fill="#2A2A2A">AI/ML</text>
+  </g>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3.4s" repeatCount="indefinite" begin="0.7s"/>
+    <rect x="376" y="234" width="150" height="48" rx="12" fill="#2D2D2D"/>
+    <rect x="372" y="230" width="150" height="48" rx="12" fill="#CDEAC0" stroke="#2D2D2D" stroke-width="3"/>
+    <text x="447" y="261" text-anchor="middle" font-family="'Arial Black', Impact, sans-serif" font-size="17" fill="#2A2A2A">SECURITY</text>
+  </g>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3.4s" repeatCount="indefinite" begin="1.05s"/>
+    <rect x="546" y="234" width="164" height="48" rx="12" fill="#2D2D2D"/>
+    <rect x="542" y="230" width="164" height="48" rx="12" fill="#DCCEF5" stroke="#2D2D2D" stroke-width="3"/>
+    <text x="624" y="261" text-anchor="middle" font-family="'Arial Black', Impact, sans-serif" font-size="17" fill="#2A2A2A">ARCH BTW</text>
+  </g>
+
+  <text x="56" y="356" font-family="'Courier New', monospace" font-size="16" letter-spacing="1" fill="#5C5C5C">B.TECH CSE (2028) · TECHNOCRATS INSTITUTE OF TECHNOLOGY AND SCIENCE, BHOPAL</text>
+
+  <use href="#spark" transform="translate(1090,120) scale(2.2)" fill="#93CFC9"/>
+  <use href="#spark" transform="translate(1132,190) scale(1.2)" fill="#F7E8A4"/>
+  <use href="#spark" transform="translate(1052,232) scale(1)" fill="#2A2A2A"/>
 </svg>

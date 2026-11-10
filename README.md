@@ -1,177 +1,169 @@
 <div align="center">
+  <img src="assets/hero.svg" width="100%" alt="Nikhil Mahalik, aka Vrinda — full-stack developer across web, AI, and security. B.Tech CSE 2028 at Technocrats Institute of Technology and Science, Bhopal." />
+</div>
 
-<img src="assets/hero.svg" width="100%" alt="Nikhil Mahalik — aka Vrinda" />
-
-<a href="https://github.com/Vrindaverse">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00F5D4&center=true&vCenter=true&width=760&height=50&lines=%3E+initializing+Vrindaverse...;%3E+full-stack+%C2%B7+AI%2FML+%C2%B7+cybersecurity+%C2%B7+linux;%3E+i+use+arch%2C+btw+%F0%9F%90%A7;%3E+chess+%E2%99%9F%EF%B8%8F+%C2%B7+anime+%C2%B7+storytelling+%E2%9C%8D%EF%B8%8F;%3E+turning+ambitious+ideas+into+reality+%E2%9C%A8;%3E+open+to+missions" alt="typing" />
-</a>
+<div align="center">
+  <sub><b>Full-stack developer</b> · building calm interfaces and systems that hold up · <b>open to tech and HR internships</b></sub>
+</div>
 
 <br/>
 
-![Visitors](https://komarev.com/ghpvc/?username=Vrindaverse&label=SIGNALS+RECEIVED&color=00f5d4&style=for-the-badge&labelColor=0f0c29)
-![Followers](https://img.shields.io/github/followers/Vrindaverse?style=for-the-badge&logo=github&color=7b61ff&labelColor=0f0c29)
-![Stars](https://img.shields.io/github/stars/Vrindaverse?style=for-the-badge&color=ff4ecd&labelColor=0f0c29)
-
+<div align="center">
+  <img src="assets/header-about.svg" width="340" alt="About" />
 </div>
 
-## 🛰️ TRANSMISSION
+I build across the stack — React and Next.js on the front, Python and Node on the back — with a growing focus on AI/ML and security. I care about interfaces that feel quiet, and systems that stay correct under pressure.
+
+Currently building **ANANTA**, a persistent-world pixel RPG. Previously led people and culture as **Vice President, People Management at AIESEC in Bhopal**.
+
+Off-screen: chess, creative writing, Hindi literature, and Indian culture.
 
 <div align="center">
-<img src="assets/terminal.svg" width="80%" alt="terminal" />
+  <img src="assets/terminal.svg" width="80%" alt="Terminal window typing whoami, stack, and status: Nikhil Mahalik, full-stack developer, building ANANTA and open to internships." />
 </div>
-
-## 🪐 MY ORBIT
 
 <div align="center">
-<img src="assets/orbit.svg" width="100%" alt="orbiting skills" />
+  <img src="assets/divider.svg" width="100%" alt="" />
 </div>
-
-## LEADERSHIP
-
-Vice President, People Management at AIESEC in Bhopal: led portfolio-wide engagement initiatives, managed community of 150+ members, and drove skill-building workshops across campuses. Focused on people-first culture, mentorship pipelines, and bridging the gap between technical teams and stakeholders.
 
 <div align="center">
-<img src="assets/divider.svg" width="100%" alt="" />
+  <img src="assets/header-projects.svg" width="620" alt="Featured projects" />
 </div>
-
-## ⚔️ LOADOUT
 
 <div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+  <a href="https://github.com/Vrindaverse/Ananta">
+    <img src="assets/card-ananta.svg" width="100%" alt="ANANTA — a browser-based 2D pixel-art creature-catching RPG with a persistent world, built with Phaser and TypeScript. First region: Anantavana." />
+  </a>
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<table align="center">
+  <tr>
+    <td width="50%">
+      <a href="https://commit-ivory.vercel.app">
+        <img src="assets/card-commit.svg" width="100%" alt="Commit — a productivity dashboard with a calm, focused interface, built with Next.js, TypeScript, and Tailwind." />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Vrindaverse/TDC">
+        <img src="assets/card-tdc.svg" width="100%" alt="TDC — the Technocrats Developer Community, building a campus dev culture that ships." />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Vrindaverse/VisualBase">
+        <img src="assets/card-visualbase.svg" width="100%" alt="VisualBase project card — description to be added." />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Vrindaverse/zaimori">
+        <img src="assets/card-zaimori.svg" width="100%" alt="zaimori project card — description to be added." />
+      </a>
+    </td>
+  </tr>
+</table>
 
-## 🎬 FEATURED MISSIONS
+<!-- TODO: verify repo slugs and descriptions with `gh repo list Vrindaverse` after authenticating. VisualBase and zaimori descriptions are intentionally placeholders. -->
 
 <div align="center">
-
-<a href="https://github.com/Vrindaverse/VisualBase"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vrindaverse&repo=VisualBase&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5d4&icon_color=ff4ecd" alt="VisualBase" /></a>
-<a href="https://github.com/Vrindaverse/Commit"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vrindaverse&repo=Commit&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5d4&icon_color=ff4ecd" alt="Commit" /></a>
-<a href="https://github.com/Vrindaverse/zaimori"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vrindaverse&repo=zaimori&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5d4&icon_color=ff4ecd" alt="zaimori" /></a>
-<a href="https://github.com/Vrindaverse/Vrindaverse"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vrindaverse&repo=Vrindaverse&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5d4&icon_color=ff4ecd" alt="Vrindaverse" /></a>
-
-<!-- ANANTA: browser-based 2D pixel-art creature-catching RPG -->
-<a href="https://github.com/Vrindaverse/Ananta"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vrindaverse&repo=Ananta&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5d4&icon_color=ff4ecd" alt="ANANTA" /></a>
-
+  <img src="assets/divider.svg" width="100%" alt="" />
 </div>
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## 🐍 THE CONTRIBUTION GRID
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vrindaverse/Vrindaverse/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vrindaverse/Vrindaverse/output/github-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Vrindaverse/Vrindaverse/output/github-snake-dark.svg" />
-</picture>
-
+  <img src="assets/header-skills.svg" width="360" alt="Skills" />
 </div>
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## 📡 TELEMETRY
 
 <div align="center">
-
-<!-- Vercel stats - degrade gracefully if widgets unavailable -->
-<div style="display:inline-block;">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vrindaverse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5d4&icon_color=ff4ecd" alt="stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrindaverse&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5d4" alt="languages" />
-
+  <img src="assets/skills.svg" width="100%" alt="Skill tiles grouped into Frontend, Backend, Tools, and Currently learning." />
 </div>
-
-<img src="https://streak-stats.demolab.com?user=Vrindaverse&theme=tokyonight&hide_border=true&background=0f0c29&ring=00f5d4&fire=ff4ecd&currStreakLabel=00f5d4" alt="streak" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vrindaverse&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=00f5d4&line=7b61ff&point=ffffff&area=true&area_color=7b61ff" alt="activity graph" />
-
-<!-- GitHub profile summary cards alternative -->
-<div style="margin-top:1rem; padding:1rem; background:rgba(15,12,41,0.5); border-radius:8px; border:1px solid #00f5d4;">
-  <strong>Profile summary cards:</strong> Generate with <code>github-profile-summary-cards</code> or <code>lowlighter</code> for commit-friendly SVGs.
-</div>
-
-</div>
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## 🎯 CURRENT QUEST LOG
-
-- 🔨 **Building:** full-stack projects, with an obsession for UI/UX
-- 🧠 **Exploring:** AI/ML and emerging tech
-- 🛡️ **Training:** cybersecurity and pentesting tools, on Arch
-- ♟️ **Grinding:** chess openings I'll forget by move 12
-- ✍️ **Writing:** stories, because code isn't the only way to build worlds
-- 🌟 **OPEN TO MISSIONS:** looking for tech and HR internships
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## 🧩 EASTER EGGS
-
-```text
-♟️  I read code like a chess game: openings, middlegames, endgames.
-🐧  Arch is my daily driver. Yes, I'll tell you about it.
-📖  Anime + storytelling = most of my side-quest ideas.
-🌙  Best commits happen after midnight. Not a recommendation.
-```
 
 <div align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</div>
 
-### 📬 OPEN CHANNEL
+<div align="center">
+  <img src="assets/header-leadership.svg" width="460" alt="Leadership" />
+</div>
 
-<a href="https://github.com/Vrindaverse"><img src="https://img.shields.io/badge/GitHub-Vrindaverse-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<!-- TODO: Fill in LinkedIn URL -->
-<!-- <a href="https://linkedin.com/in/YOUR-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
-<!-- TODO: Fill in email address -->
-<!-- <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
+**Vice President, People Management — AIESEC in Bhopal.** Led people operations and engagement across the local committee: building teams, running skill-building sessions, and keeping the culture human while the work stayed ambitious.
+
+<div align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</div>
+
+<div align="center">
+  <img src="assets/header-stats.svg" width="480" alt="GitHub stats" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vrindaverse&show_icons=true&include_all_commits=true&count_private=true&bg_color=FFFDF8&title_color=2A2A2A&text_color=2A2A2A&icon_color=2D2D2D&border_color=2D2D2D&border_radius=20" alt="GitHub stats for Vrindaverse" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrindaverse&layout=compact&bg_color=FFFDF8&title_color=2A2A2A&text_color=2A2A2A&border_color=2D2D2D&border_radius=20" alt="Top languages used by Vrindaverse" />
+  <br/>
+  <img width="98%" src="https://streak-stats.demolab.com?user=Vrindaverse&background=FFFDF8&border=2D2D2D&stroke=2D2D2D&ring=93CFC9&fire=F7E8A4&currStreakLabel=2A2A2A&sideLabels=2A2A2A&dates=5C5C5C&currStreakNum=2A2A2A&sideNums=2A2A2A" alt="Contribution streak for Vrindaverse" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vrindaverse/Vrindaverse/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vrindaverse/Vrindaverse/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Vrindaverse/Vrindaverse/output/github-snake.svg" width="100%" alt="Contribution snake animation" />
+  </picture>
+</div>
+
+<!-- Fallback metrics card, generated by .github/workflows/stats.yml. Run the workflow once so this file exists. -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Vrindaverse/Vrindaverse/main/github-metrics.svg" width="100%" alt="GitHub metrics card for Vrindaverse" />
+</div>
+
+<div align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</div>
+
+<div align="center">
+  <img src="assets/header-sidequests.svg" width="440" alt="Side quests" />
+</div>
+
+- **Chess** — openings, middlegames, and the occasional brilliant blunder.
+- **Creative writing** — stories, because code isn't the only way to build worlds.
+- **Hindi literature** — poetry and prose that reward slowing down.
+- **Indian culture** — the references, rituals, and ideas I keep coming back to.
+
+> छाया में नीम की तरह, कोड में तर्क की तरह।
+>
+> *Like neem in the shade, like logic in the code.*
+
+<div align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</div>
+
+<div align="center">
+  <img src="assets/header-showreel.svg" width="420" alt="Showreel" />
+</div>
+
+<div align="center">
+  <img src="assets/showreel.gif" width="100%" alt="Showreel: a short visual reel of Nikhil's work and experiments." />
+</div>
+
+<div align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</div>
+
+<div align="center">
+  <img src="assets/header-contact.svg" width="380" alt="Contact" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/Vrindaverse">
+    <img src="https://img.shields.io/badge/GitHub-Vrindaverse-F7E8A4?style=for-the-badge&logo=github&logoColor=2A2A2A&labelColor=2D2D2D" alt="GitHub: Vrindaverse" />
+  </a>
+  <!-- TODO: replace with your LinkedIn URL -->
+  <img src="https://img.shields.io/badge/LinkedIn-TODO-F0ECE4?style=for-the-badge&logo=linkedin&logoColor=2D2D2D&labelColor=2D2D2D" alt="LinkedIn: TODO" />
+  <!-- TODO: replace with your email address -->
+  <img src="https://img.shields.io/badge/Email-TODO-F0ECE4?style=for-the-badge&logo=gmail&logoColor=2D2D2D&labelColor=2D2D2D" alt="Email: TODO" />
+</div>
 
 <br/>
 
-*"Small, useful work over vague claims."*
-
-</div>
-
-## 🧭 SIDE QUESTS
-
-chess 🐎 — Hindi literature — Indian culture
-
-> **Hindi:** छाया में नीम की तरह, कोड में तर्क की तरह।  
-> **Translation:** Like neem in the shade, like logic in code.
-
 <div align="center">
-
-<img src="assets/showreel.gif" width="100%" alt="Showreel: cinematic space transmission showcase" />
-
+  <sub>Built with ivory, ink, and hard shadows.</sub>
 </div>
-
-<div align="center">
-
-### 📬 OPEN CHANNEL
-
-<a href="https://github.com/Vrindaverse"><img src="https://img.shields.io/badge/GitHub-Vrindaverse-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<!-- TODO: Fill in LinkedIn URL -->
-<!-- <a href="https://linkedin.com/in/YOUR-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
-<!-- TODO: Fill in email address -->
-<!-- <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
-
-<br/>
-
-*"Small, useful work over vague claims."*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:7b61ff,100:0f0c29&height=140&section=footer&reversal=true" width="100%" alt="" />

@@ -1,30 +1,53 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="440" viewBox="0 0 900 440" role="img" aria-label="Neo-brutalist terminal window showing whoami, stack, and status lines for Nikhil Mahalik.">
   <defs>
-    <linearGradient id="termGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#0f0c29"/>
-      <stop offset="50%" stop-color="#1a1a2e"/>
-      <stop offset="100%" stop-color="#0f0c29"/>
-    </linearGradient>
-    <animateTransform attributeName="opacity" values="1;0" dur="1s" repeatCount="indefinite" id="cursorBlink"/>
-    <animateTransform attributeName="opacity" values="1;0.5" dur="1.5s" repeatCount="indefinite" id="linePulse"/>
+    <pattern id="tdots" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1" fill="#2D2D2D" opacity="0.16"/>
+    </pattern>
+    <clipPath id="win"><rect x="8" y="8" width="884" height="424" rx="20"/></clipPath>
+    <path id="tspark" d="M0 -10 C1.5 -3 3 -1.5 10 0 C3 1.5 1.5 3 0 10 C-1.5 3 -3 1.5 -10 0 C-3 -1.5 -1.5 -3 0 -10 Z"/>
   </defs>
-  <rect width="780" height="380" rx="10" ry="10" fill="url(#termGrad)" stroke="#00f5d4" stroke-width="1"/>
-  <line y1="0" y2="0" x1="10" x2="790" stroke="#00f5d4" stroke-width="2"/>
-  <rect x="20" y="40" width="760" height="300" fill="#0a0a1e"/>
-  <text x="25" y="75" fill="#00f5d4" font-family="Fira Code, monospace" font-size="14">
-    whoami: full-stack developer     whoami: full-stack developer  creator
- creator
-    <animate attributeName="opacity" values="1;0.6" dur="1.5s" repeatCount="indefinite"/>
-  </text>
-  <text x="25" y="95" fill="#7b61ff" font-family="Fira Code, monospace" font-size="14">
-    stack: TypeScript Next.js Python Linux
-    <animate attributeName="opacity" values="1;0.6" dur="1.5s" repeatCount="indefinite" begin="0.2s"/>
-  </text>
-  <text x="25" y="115" fill="#ff4ecd" font-family="Fira Code, monospace" font-size="14">
-    status: open to missions building ANANTA chess
-    <animate attributeName="opacity" values="1;0.6" dur="1.5s" repeatCount="indefinite" begin="0.4s"/>
-  </text>
-  <line x2="35" y1="130" y2="136" stroke="#00f5d4" stroke-width="2">
-    <animate attributeName="opacity" values="1;0" dur="1s" repeatCount="indefinite"/>
-  </line>
+
+  <rect x="16" y="16" width="884" height="424" rx="20" fill="#A8DA96"/>
+  <rect x="8" y="8" width="884" height="424" rx="20" fill="#FFFDF8" stroke="#2D2D2D" stroke-width="3"/>
+  <rect x="8" y="8" width="884" height="424" rx="20" fill="url(#tdots)"/>
+
+  <g clip-path="url(#win)"><rect x="8" y="8" width="884" height="60" fill="#B8D8F8"/></g>
+  <line x1="8" y1="68" x2="892" y2="68" stroke="#2D2D2D" stroke-width="3"/>
+
+  <rect x="30" y="26" width="20" height="20" rx="4" fill="#F8C8C8" stroke="#2D2D2D" stroke-width="2.5"/>
+  <rect x="60" y="26" width="20" height="20" rx="4" fill="#F7E8A4" stroke="#2D2D2D" stroke-width="2.5"/>
+  <rect x="90" y="26" width="20" height="20" rx="4" fill="#CDEAC0" stroke="#2D2D2D" stroke-width="2.5"/>
+  <text x="130" y="44" font-family="'Courier New', monospace" font-size="15" fill="#2A2A2A">vrinda@commit: ~</text>
+
+  <rect x="8" y="8" width="884" height="424" rx="20" fill="none" stroke="#2D2D2D" stroke-width="3"/>
+
+  <g font-family="'Courier New', monospace" font-size="17">
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.4s" fill="freeze"/>
+      <text x="40" y="122" fill="#5C5C5C">&gt; whoami</text>
+    </g>
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.8s" fill="freeze"/>
+      <text x="40" y="150" fill="#2A2A2A">nikhil mahalik / aka vrinda</text>
+    </g>
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="1.2s" fill="freeze"/>
+      <text x="40" y="196" fill="#5C5C5C">&gt; stack</text>
+    </g>
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="1.6s" fill="freeze"/>
+      <text x="40" y="224" fill="#2A2A2A">typescript / react / next.js / python</text>
+    </g>
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="2s" fill="freeze"/>
+      <text x="40" y="270" fill="#5C5C5C">&gt; status</text>
+    </g>
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="2.4s" fill="freeze"/>
+      <text x="40" y="298" fill="#2A2A2A">building ananta / open to internships</text>
+    </g>
+  </g>
+
+  <rect x="450" y="282" width="12" height="20" fill="#2D2D2D">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="40" y="360" font-family="'Courier New', monospace" font-size="14" fill="#5C5C5C">tip: open a project card to see the repo</text>
+
+  <use href="#tspark" transform="translate(800,352) scale(1.6)" fill="#93CFC9"/>
+  <use href="#tspark" transform="translate(838,384) scale(1)" fill="#2A2A2A"/>
 </svg>
